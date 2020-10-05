@@ -5,6 +5,7 @@
 ./v13
 ./v13_2016
 ./v13_2016_FINAL
+./v14_2020
 
 Help credits:
 Willox    - Helping cheaters lose their marbles since '14
