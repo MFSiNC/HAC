@@ -1,0 +1,20 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198096733493",
+				"communityvisibilitystate": 1,
+				"profilestate": 1,
+				"personaname": "kazmo",
+				"lastlogoff": 1381225523,
+				"commentpermission": 1,
+				"profileurl": "http://steamcommunity.com/id/i5e2/",
+				"avatar": "http://media.steampowered.com/steamcommunity/public/images/avatars/b5/b5ad8f17c8acb31df3cc92949ef1623520046f6e.jpg",
+				"avatarmedium": "http://media.steampowered.com/steamcommunity/public/images/avatars/b5/b5ad8f17c8acb31df3cc92949ef1623520046f6e_medium.jpg",
+				"avatarfull": "http://media.steampowered.com/steamcommunity/public/images/avatars/b5/b5ad8f17c8acb31df3cc92949ef1623520046f6e_full.jpg",
+				"personastate": 0
+			}
+		]
+		
+	}
+}

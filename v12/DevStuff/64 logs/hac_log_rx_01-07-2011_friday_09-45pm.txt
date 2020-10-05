@@ -1,0 +1,290 @@
+Next log starting from here
+
+HeX's Anti-Cheat [65] log created at [13-02-11 06:00:38PM] 
+
+[HAC65] [13-02-11 06:00:38PM] - Autobanned: [SEC]|M|Cpt. David <mazecraze96> (STEAM_0:1:23999420) - CVar=sv_cheats:Args=[[1]]
+[HAC65] [13-02-11 06:00:38PM] - Autobanned: [SEC]|M|Cpt. David <mazecraze96> (STEAM_0:1:23999420) - KR30=sv_cheats=1
+[HAC66] [13-02-11 06:40:31PM] - Autobanned: [SEC]|M|Cpt. David <mazecraze96> (STEAM_0:1:23999420) - RCON=sv_cheats 1
+[HAC66] [13-02-11 07:03:11PM] - ManuallyBanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - -=[UH]=- HeX=lawn
+[HAC66] [20-02-11 08:34:37PM] - Autobanned: Stosh <reflectedpower> (STEAM_0:1:25747623) - WAddon=hax/Dr Hax [[This is the Dr Hax NPC from Cl]]
+[HAC66] [20-03-11 10:54:38AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Addon=FapHack V=2.70 (Flapadar) [[An aimbot. Enjoy.This version]]
+[HAC66] [20-03-11 10:54:38AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - WAddon=hack/FapHack V=2.70 (Flapadar) [[An aimbot. Enjoy.This version]]
+[HAC66] [20-03-11 10:54:38AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Detour3=hook.Add
+[HAC66] [20-03-11 10:54:38AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Detour3=hook.Remove
+[HAC66] [20-03-11 10:54:38AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Detour3=file.FindInLua
+[HAC66] [20-03-11 10:54:38AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Detour3=file.Find
+[HAC66] [20-03-11 10:54:38AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Detour3=file.Read
+[HAC66] [20-03-11 10:54:38AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Detour3=GetConVar
+[HAC66] [20-03-11 10:54:38AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Detour3=GetConVarString
+[HAC66] [20-03-11 10:54:38AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Detour3=GetConVarNumber
+[HAC66] [20-03-11 10:54:38AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Detour3=concommand.Add
+[HAC66] [20-03-11 10:54:38AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Detour4=GetConVar
+[HAC66] [20-03-11 10:54:38AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Detour4=GetConVarString
+[HAC66] [20-03-11 10:54:38AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Detour4=GetConVarNumber
+[HAC66] [20-03-11 10:54:39AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - WModule=lua/includes/enum/*faphack*.lua/faphack.lua
+[HAC66] [20-03-11 10:54:39AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - WModule=lua/FapHack/*.lua/faphack.lua
+[HAC66] [20-03-11 10:54:52AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - WModule=lua/includes/enum/*hack*.lua/faphack.lua
+[HAC66] [20-03-11 11:08:49AM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - CVar=host_timescale:Args=[[1]]
+[HAC66] [20-03-11 11:08:50AM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - CVar=host_timescale:Args=[[4]]
+[HAC66] [20-03-11 11:08:50AM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - KR30=host_timescale=4
+[HAC66] [20-03-11 11:09:07AM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - CVar=host_timescale:Args=[[1]]
+[HAC66] [20-03-11 11:09:19AM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - CVar=host_timescale:Args=[[4]]
+[HAC66] [20-03-11 11:09:26AM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - CVar=host_timescale:Args=[[1]]
+[HAC66] [26-03-11 07:13:46AM] - Autobanned: Gingerbear <headhunterdude> (STEAM_0:1:27486080) - Key=+aimbot
+[HAC66] [26-03-11 07:14:13AM] - Autobanned: [SECBD]|M|Cpt. David <mazecraze96> (STEAM_0:1:23999420) - Key=+aimbot
+[HAC66] [18-05-11 04:23:33PM] - Autokicked: The Chosen One (STEAM_0:1:27486080) - HACInit_Fail
+[HAC66] [21-05-11 10:30:28AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Addon=FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [21-05-11 10:30:28AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - WAddon=hack/FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [21-05-11 10:30:28AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Datafile=data/faphack_bot.txt
+[HAC66] [21-05-11 10:30:28AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Datafile=data/faphack_entities.txt
+[HAC66] [21-05-11 10:30:28AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Datafile=data/faphack_friends.txt
+[HAC66] [21-05-11 10:30:29AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - WModule=lua/menu_plugins/*faphack*.lua/faphack.lua
+[HAC66] [21-05-11 10:30:29AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - WModule=lua/includes/enum/*faphack*.lua/faphack.lua
+[HAC66] [21-05-11 10:30:29AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - WDatafile=data/*hack*.txt/faphack_adverthandler.txt
+[HAC66] [21-05-11 10:30:29AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - WDatafile=data/*hack*.txt/faphack_convars.txt
+[HAC66] [21-05-11 10:30:48AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - WModule=lua/menu_plugins/*hack*.lua/faphack.lua
+[HAC66] [21-05-11 10:30:48AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - WModule=lua/includes/enum/*hack*.lua/faphack.lua
+[HAC66] [21-05-11 12:19:54PM] - Autobanned: Ruben  - Iam  Total Idiot. <neburrebyc> (STEAM_0:1:20219592) - Addon=FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [21-05-11 12:19:54PM] - Autobanned: Ruben  - Iam  Total Idiot. <neburrebyc> (STEAM_0:1:20219592) - WAddon=hack/FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [21-05-11 12:19:54PM] - Autobanned: Ruben  - Iam  Total Idiot. <neburrebyc> (STEAM_0:1:20219592) - Datafile=data/faphack_bot.txt
+[HAC66] [21-05-11 12:19:54PM] - Autobanned: Ruben  - Iam  Total Idiot. <neburrebyc> (STEAM_0:1:20219592) - Datafile=data/fap_presets.txt
+[HAC66] [21-05-11 12:19:54PM] - Autobanned: Ruben  - Iam  Total Idiot. <neburrebyc> (STEAM_0:1:20219592) - Datafile=data/faphack_entities.txt
+[HAC66] [21-05-11 12:19:54PM] - Autobanned: Ruben  - Iam  Total Idiot. <neburrebyc> (STEAM_0:1:20219592) - Datafile=data/faphack_friends.txt
+[HAC66] [21-05-11 12:19:55PM] - Autobanned: Ruben  - Iam  Total Idiot. <neburrebyc> (STEAM_0:1:20219592) - WModule=lua/includes/enum/*faphack*.lua/faphack.lua
+[HAC66] [21-05-11 12:19:56PM] - Autobanned: Ruben  - Iam  Total Idiot. <neburrebyc> (STEAM_0:1:20219592) - WModule=lua/FapHack/*.lua/faphack.lua
+[HAC66] [21-05-11 12:20:15PM] - Autobanned: Ruben  - Iam  Total Idiot. <neburrebyc> (STEAM_0:1:20219592) - WModule=lua/includes/enum/*hack*.lua/faphack.lua
+[HAC66] [21-05-11 12:23:32PM] - Autobanned: Ruben  - Iam  Total Idiot. <neburrebyc> (STEAM_0:1:20219592) - Addon=FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [21-05-11 12:23:32PM] - Autobanned: Ruben  - Iam  Total Idiot. <neburrebyc> (STEAM_0:1:20219592) - WAddon=hack/FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [21-05-11 12:23:33PM] - Autobanned: Ruben  - Iam  Total Idiot. <neburrebyc> (STEAM_0:1:20219592) - WModule=lua/includes/enum/*faphack*.lua/faphack.lua
+[HAC66] [21-05-11 12:23:33PM] - Autobanned: Ruben  - Iam  Total Idiot. <neburrebyc> (STEAM_0:1:20219592) - WModule=lua/FapHack/*.lua/faphack.lua
+[HAC66] [21-05-11 12:23:53PM] - Autobanned: Ruben  - Iam  Total Idiot. <neburrebyc> (STEAM_0:1:20219592) - WModule=lua/includes/enum/*hack*.lua/faphack.lua
+[HAC66] [21-05-11 12:40:34PM] - Autokicked: The Chosen One (STEAM_0:1:27486080) - HACInit_Fail
+[HAC66] [21-05-11 02:00:54PM] - Autokicked: The Chosen One (STEAM_0:1:27486080) - HACInit_Fail
+[HAC66] [21-05-11 03:38:49PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Addon=FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [21-05-11 03:38:49PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WAddon=hack/FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [21-05-11 03:38:49PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Datafile=data/faphack_bot.txt
+[HAC66] [21-05-11 03:38:50PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Detour3=hook.Remove
+[HAC66] [21-05-11 03:38:50PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Datafile=data/faphack_entities.txt
+[HAC66] [21-05-11 03:38:51PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*faphack*.lua/faphack.lua
+[HAC66] [21-05-11 03:38:51PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*faphack*.lua/faphack.lua
+[HAC66] [21-05-11 03:38:53PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WDatafile=data/*hack*.txt/faphack_adverthandler.txt
+[HAC66] [21-05-11 03:38:53PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WDatafile=data/*hack*.txt/faphack_convars.txt
+[HAC66] [21-05-11 03:38:53PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Module=lua/autorun/client/AutoAim.lua
+[HAC66] [21-05-11 03:39:11PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*hack*.lua/faphack.lua
+[HAC66] [21-05-11 03:39:11PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*hack*.lua/faphack.lua
+[HAC66] [21-05-11 03:50:49PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Key=bacontoggle
+[HAC66] [21-05-11 04:18:24PM] - Autokicked: little FOX (STEAM_0:0:34080317) - HACInit_Fail
+[HAC66] [21-05-11 04:21:31PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Key=+bacon_menu:Args=[[23]]
+[HAC66] [21-05-11 04:29:00PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Key=bacontoggle
+[HAC66] [21-05-11 04:32:45PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Key=bacontoggle
+[HAC66] [21-05-11 04:33:19PM] - Autobanned: [SECBD]|L|Cpt. David <mazecraze96> (STEAM_0:1:23999420) - Key=+aimbot
+[HAC66] [21-05-11 04:33:43PM] - Autobanned: [SECBD]|L|Cpt. David <mazecraze96> (STEAM_0:1:23999420) - Key=+aimbot
+[HAC66] [21-05-11 04:34:12PM] - Autobanned: [SECBD]|L|Cpt. David <mazecraze96> (STEAM_0:1:23999420) - Key=+aimbot
+[HAC66] [21-05-11 04:34:43PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Key=aa_toggle
+[HAC66] [21-05-11 04:39:55PM] - Autobanned: [SECBD]|L|Cpt. David <mazecraze96> (STEAM_0:1:23999420) - Key=+aimbot_scan
+[HAC66] [21-05-11 04:51:36PM] - Autokicked: The Chosen One (STEAM_0:1:27486080) - HACInit_Fail
+[HAC66] [21-05-11 05:03:12PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Key=aa_toggle
+[HAC66] [21-05-11 05:03:13PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Key=aa_toggle
+[HAC66] [21-05-11 05:04:27PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Key=aa_toggle
+[HAC66] [21-05-11 05:04:48PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Key=bacontoggle
+[HAC66] [21-05-11 05:04:49PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Key=bacontoggle
+[HAC66] [22-05-11 09:49:37PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Addon=FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [22-05-11 09:49:37PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WAddon=hack/FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [22-05-11 09:49:37PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Detour3=hook.Remove
+[HAC66] [22-05-11 09:49:37PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Datafile=data/faphack_bot.txt
+[HAC66] [22-05-11 09:49:38PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*faphack*.lua/faphack.lua
+[HAC66] [22-05-11 09:49:39PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*faphack*.lua/faphack.lua
+[HAC66] [22-05-11 09:49:40PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WDatafile=data/*hack*.txt/faphack_adverthandler.txt
+[HAC66] [22-05-11 09:49:40PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Module=lua/autorun/client/AutoAim.lua
+[HAC66] [22-05-11 09:49:59PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*hack*.lua/faphack.lua
+[HAC66] [22-05-11 09:49:59PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*hack*.lua/faphack.lua
+[HAC66] [22-05-11 09:52:17PM] - Autobanned: [SECBD]|L|Cpt. David <mazecraze96> (STEAM_0:1:23999420) - Key=+aimbot
+[HAC66] [22-05-11 09:52:53PM] - Autobanned: [SECBD]|L|Cpt. David <mazecraze96> (STEAM_0:1:23999420) - Key=+aimbot
+[HAC66] [22-05-11 09:53:44PM] - Autobanned: [SECBD]|L|Cpt. David <mazecraze96> (STEAM_0:1:23999420) - Key=+aimbot
+[HAC66] [22-05-11 10:54:21PM] - Autokicked: edison (STEAM_0:1:40205253) - HACInit_Fail
+[HAC66] [23-05-11 02:08:16PM] - Autobanned: mattik98 <mattik98> (STEAM_0:1:39820145) - WModule=lua/autorun/client/*troll*.lua/VehController_cl.lua
+[HAC66] [23-05-11 02:30:48PM] - Autokicked: Blanco Nino (STEAM_0:1:25078836) - HACInit_Fail
+[HAC66] [23-05-11 02:31:35PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Addon=FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [23-05-11 02:31:35PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WAddon=hack/FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [23-05-11 02:31:35PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Datafile=data/faphack_bot.txt
+[HAC66] [23-05-11 02:31:35PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Detour3=hook.Remove
+[HAC66] [23-05-11 02:31:36PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*faphack*.lua/faphack.lua
+[HAC66] [23-05-11 02:31:36PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*faphack*.lua/faphack.lua
+[HAC66] [23-05-11 02:31:38PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Module=lua/autorun/client/AutoAim.lua
+[HAC66] [23-05-11 02:31:55PM] - Autobanned: [SECBD]|L|Cpt. David <mazecraze96> (STEAM_0:1:23999420) - Key=+aimbot
+[HAC66] [23-05-11 02:31:56PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*hack*.lua/faphack.lua
+[HAC66] [23-05-11 02:31:56PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*hack*.lua/faphack.lua
+[HAC66] [23-05-11 02:32:15PM] - Autobanned: [SECBD]|L|Cpt. David <mazecraze96> (STEAM_0:1:23999420) - Key=+aimbot
+[HAC66] [23-05-11 03:19:22PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Addon=FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [23-05-11 03:19:22PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WAddon=hack/FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [23-05-11 03:19:22PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Detour3=hook.Remove
+[HAC66] [23-05-11 03:19:23PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*faphack*.lua/faphack.lua
+[HAC66] [23-05-11 03:19:23PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*faphack*.lua/faphack.lua
+[HAC66] [23-05-11 03:19:25PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Module=lua/autorun/client/AutoAim.lua
+[HAC66] [23-05-11 03:19:43PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*hack*.lua/faphack.lua
+[HAC66] [23-05-11 03:19:43PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*hack*.lua/faphack.lua
+[HAC66] [23-05-11 03:21:37PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Addon=FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [23-05-11 03:21:37PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WAddon=hack/FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [23-05-11 03:21:37PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Detour3=hook.Remove
+[HAC66] [23-05-11 03:21:38PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*faphack*.lua/faphack.lua
+[HAC66] [23-05-11 03:21:38PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*faphack*.lua/faphack.lua
+[HAC66] [23-05-11 03:21:40PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Module=lua/autorun/client/AutoAim.lua
+[HAC66] [23-05-11 03:21:58PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*hack*.lua/faphack.lua
+[HAC66] [23-05-11 03:21:58PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*hack*.lua/faphack.lua
+[HAC66] [23-05-11 03:23:50PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Addon=FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [23-05-11 03:23:50PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WAddon=hack/FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [23-05-11 03:23:50PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Detour3=hook.Remove
+[HAC66] [23-05-11 03:23:51PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*faphack*.lua/faphack.lua
+[HAC66] [23-05-11 03:23:51PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*faphack*.lua/faphack.lua
+[HAC66] [23-05-11 03:23:53PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Module=lua/autorun/client/AutoAim.lua
+[HAC66] [23-05-11 03:48:28PM] - Autokicked: aleph.monge (STEAM_0:1:29419947) - HACInit_Fail
+[HAC66] [23-05-11 03:59:08PM] - Autokicked: A Smooth Criminal (STEAM_0:1:21561080) - HACInit_Fail
+[HAC66] [23-05-11 04:12:45PM] - Autokicked: [SECBD]|L|Cpt. David (STEAM_0:1:23999420) - HACInit_Fail
+[HAC66] [23-05-11 04:20:28PM] - Autokicked: The Chosen One (STEAM_0:1:27486080) - HACInit_Fail
+[HAC66] [23-05-11 04:44:03PM] - Autokicked: ☢[GR]Napalm]☣:) (STEAM_0:0:5330067) - HACInit_Fail
+[HAC66] [23-05-11 04:58:16PM] - Autokicked: A Smooth Criminal (STEAM_0:1:21561080) - HACInit_Fail
+[HAC66] [25-05-11 07:59:14PM] - Autobanned: (WBA  inf.)Sgt. Chuckles <ljmack2000> (STEAM_0:1:18095958) - WModule=lua/autorun/client/*troll*.lua/VehController_cl.lua
+[HAC66] [25-05-11 08:07:31PM] - Autokicked: The Chosen One (STEAM_0:1:27486080) - HACInit_Fail
+[HAC66] [25-05-11 08:11:20PM] - Autokicked: Z!gZagFox☈ (STEAM_0:1:33256332) - HACInit_Fail
+[HAC66] [25-05-11 08:16:45PM] - Autokicked: FrenchDeathstroke (STEAM_0:0:40189662) - HACInit_Fail
+[HAC66] [25-05-11 08:31:16PM] - Autobanned: (WBA  inf.)Sgt. Chuckles <ljmack2000> (STEAM_0:1:18095958) - WModule=lua/autorun/client/*troll*.lua/VehController_cl.lua
+[HAC66] [25-05-11 09:31:34PM] - Autokicked: A Smooth Criminal (STEAM_0:1:21561080) - HACInit_Fail
+[HAC66] [25-05-11 09:49:34PM] - Autobanned: Sgt. Ellman (Havoc) <pimp_e> (STEAM_0:0:16666014) - Addon=FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [25-05-11 09:49:34PM] - Autobanned: Sgt. Ellman (Havoc) <pimp_e> (STEAM_0:0:16666014) - WAddon=hack/FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [25-05-11 09:49:34PM] - Autobanned: Sgt. Ellman (Havoc) <pimp_e> (STEAM_0:0:16666014) - Datafile=data/faphack_bot.txt
+[HAC66] [25-05-11 09:49:34PM] - Autobanned: Sgt. Ellman (Havoc) <pimp_e> (STEAM_0:0:16666014) - Datafile=data/faphack_entities.txt
+[HAC66] [25-05-11 09:49:35PM] - Autobanned: Sgt. Ellman (Havoc) <pimp_e> (STEAM_0:0:16666014) - Datafile=data/faphack_friends.txt
+[HAC66] [25-05-11 09:49:35PM] - Autobanned: Sgt. Ellman (Havoc) <pimp_e> (STEAM_0:0:16666014) - WModule=lua/menu_plugins/*faphack*.lua/faphack.lua
+[HAC66] [25-05-11 09:49:36PM] - Autobanned: Sgt. Ellman (Havoc) <pimp_e> (STEAM_0:0:16666014) - WModule=lua/includes/enum/*faphack*.lua/faphack.lua
+[HAC66] [25-05-11 09:49:37PM] - Autobanned: Sgt. Ellman (Havoc) <pimp_e> (STEAM_0:0:16666014) - WDatafile=data/*hack*.txt/faphack_adverthandler.txt
+[HAC66] [25-05-11 09:49:37PM] - Autobanned: Sgt. Ellman (Havoc) <pimp_e> (STEAM_0:0:16666014) - WDatafile=data/*hack*.txt/faphack_convars.txt
+[HAC66] [25-05-11 09:49:55PM] - Autobanned: Sgt. Ellman (Havoc) <pimp_e> (STEAM_0:0:16666014) - WModule=lua/menu_plugins/*hack*.lua/faphack.lua
+[HAC66] [25-05-11 09:49:56PM] - Autobanned: Sgt. Ellman (Havoc) <pimp_e> (STEAM_0:0:16666014) - WModule=lua/includes/enum/*hack*.lua/faphack.lua
+[HAC66] [25-05-11 09:50:53PM] - Autobanned: Sgt. Ellman (Havoc) <pimp_e> (STEAM_0:0:16666014) - Key=fap_menu
+[HAC66] [25-05-11 09:50:54PM] - Autobanned: Sgt. Ellman (Havoc) <pimp_e> (STEAM_0:0:16666014) - Key=fap_menu
+[HAC66] [25-05-11 09:51:21PM] - Autobanned: [SECBD]|L|Cpt. David <mazecraze96> (STEAM_0:1:23999420) - Key=+aimbot
+[HAC66] [25-05-11 10:14:47PM] - Autokicked: Blanco Nino (STEAM_0:1:25078836) - HACInit_Fail
+[HAC66] [25-05-11 10:16:45PM] - Autokicked: Blanco Nino (STEAM_0:1:25078836) - HACInit_Fail
+[HAC66] [25-05-11 10:18:02PM] - Autokicked: Blanco Nino (STEAM_0:1:25078836) - HACInit_Fail
+[HAC66] [25-05-11 10:21:00PM] - Autokicked: Blanco Nino (STEAM_0:1:25078836) - HACInit_Fail
+[HAC66] [25-05-11 10:25:09PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Addon=FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [25-05-11 10:25:09PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WAddon=hack/FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [25-05-11 10:25:09PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Detour3=hook.Remove
+[HAC66] [25-05-11 10:25:09PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Datafile=data/faphack_bot.txt
+[HAC66] [25-05-11 10:25:10PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*faphack*.lua/faphack.lua
+[HAC66] [25-05-11 10:25:10PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*faphack*.lua/faphack.lua
+[HAC66] [25-05-11 10:25:12PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WDatafile=data/*hack*.txt/faphack_adverthandler.txt
+[HAC66] [25-05-11 10:25:12PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Module=lua/autorun/client/AutoAim.lua
+[HAC66] [25-05-11 10:25:30PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*hack*.lua/faphack.lua
+[HAC66] [25-05-11 10:25:30PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*hack*.lua/faphack.lua
+[HAC66] [25-05-11 10:34:58PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Addon=FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [25-05-11 10:34:58PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WAddon=hack/FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [25-05-11 10:34:58PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Detour3=hook.Remove
+[HAC66] [25-05-11 10:34:59PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*faphack*.lua/faphack.lua
+[HAC66] [25-05-11 10:34:59PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*faphack*.lua/faphack.lua
+[HAC66] [25-05-11 10:35:01PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Module=lua/autorun/client/AutoAim.lua
+[HAC66] [25-05-11 10:35:20PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*hack*.lua/faphack.lua
+[HAC66] [25-05-11 10:35:20PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*hack*.lua/faphack.lua
+[HAC66] [25-05-11 10:39:17PM] - Autokicked: Fly Boy (STEAM_0:0:32961274) - HACInit_Fail
+[HAC66] [26-05-11 02:33:30PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Addon=FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [26-05-11 02:33:30PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WAddon=hack/FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [26-05-11 02:33:30PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Datafile=data/faphack_bot.txt
+[HAC66] [26-05-11 02:33:30PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Detour3=hook.Remove
+[HAC66] [26-05-11 02:33:32PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*faphack*.lua/faphack.lua
+[HAC66] [26-05-11 02:33:32PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*faphack*.lua/faphack.lua
+[HAC66] [26-05-11 02:33:34PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Module=lua/autorun/client/AutoAim.lua
+[HAC66] [26-05-11 02:33:51PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*hack*.lua/faphack.lua
+[HAC66] [26-05-11 02:33:52PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*hack*.lua/faphack.lua
+[HAC66] [26-05-11 02:35:44PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Addon=FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [26-05-11 02:35:44PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WAddon=hack/FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [26-05-11 02:35:44PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Detour3=hook.Remove
+[HAC66] [26-05-11 02:35:45PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*faphack*.lua/faphack.lua
+[HAC66] [26-05-11 02:35:45PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*faphack*.lua/faphack.lua
+[HAC66] [26-05-11 02:35:47PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Module=lua/autorun/client/AutoAim.lua
+[HAC66] [26-05-11 02:36:05PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*hack*.lua/faphack.lua
+[HAC66] [26-05-11 02:36:05PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*hack*.lua/faphack.lua
+[HAC66] [26-05-11 02:37:57PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Addon=FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [26-05-11 02:37:57PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WAddon=hack/FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [26-05-11 02:37:57PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Detour3=hook.Remove
+[HAC66] [26-05-11 02:37:59PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*faphack*.lua/faphack.lua
+[HAC66] [26-05-11 02:37:59PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*faphack*.lua/faphack.lua
+[HAC66] [26-05-11 02:38:01PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Module=lua/autorun/client/AutoAim.lua
+[HAC66] [26-05-11 02:38:18PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*hack*.lua/faphack.lua
+[HAC66] [26-05-11 02:38:19PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*hack*.lua/faphack.lua
+[HAC66] [26-05-11 02:40:15PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Addon=FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [26-05-11 02:40:15PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WAddon=hack/FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [26-05-11 02:40:15PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Detour3=hook.Remove
+[HAC66] [26-05-11 02:40:17PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*faphack*.lua/faphack.lua
+[HAC66] [26-05-11 02:40:17PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*faphack*.lua/faphack.lua
+[HAC66] [26-05-11 02:40:19PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Module=lua/autorun/client/AutoAim.lua
+[HAC66] [26-05-11 02:40:36PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*hack*.lua/faphack.lua
+[HAC66] [26-05-11 02:40:37PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*hack*.lua/faphack.lua
+[HAC66] [26-05-11 02:42:31PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Addon=FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [26-05-11 02:42:31PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WAddon=hack/FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [26-05-11 02:42:31PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Detour3=hook.Remove
+[HAC66] [26-05-11 02:42:32PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*faphack*.lua/faphack.lua
+[HAC66] [26-05-11 02:42:32PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*faphack*.lua/faphack.lua
+[HAC66] [26-05-11 02:42:34PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Module=lua/autorun/client/AutoAim.lua
+[HAC66] [26-05-11 02:42:52PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*hack*.lua/faphack.lua
+[HAC66] [26-05-11 02:42:52PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*hack*.lua/faphack.lua
+[HAC66] [26-05-11 02:46:06PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Addon=FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [26-05-11 02:46:06PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WAddon=hack/FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [26-05-11 02:46:06PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Detour3=hook.Remove
+[HAC66] [26-05-11 02:46:07PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*faphack*.lua/faphack.lua
+[HAC66] [26-05-11 02:46:07PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*faphack*.lua/faphack.lua
+[HAC66] [26-05-11 02:46:09PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Module=lua/autorun/client/AutoAim.lua
+[HAC66] [26-05-11 02:46:27PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*hack*.lua/faphack.lua
+[HAC66] [26-05-11 02:46:27PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*hack*.lua/faphack.lua
+[HAC66] [26-05-11 02:48:22PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Addon=FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [26-05-11 02:48:22PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WAddon=hack/FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [26-05-11 02:48:22PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Detour3=hook.Remove
+[HAC66] [26-05-11 02:48:23PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*faphack*.lua/faphack.lua
+[HAC66] [26-05-11 02:48:23PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*faphack*.lua/faphack.lua
+[HAC66] [26-05-11 02:48:25PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Module=lua/autorun/client/AutoAim.lua
+[HAC66] [26-05-11 02:48:43PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*hack*.lua/faphack.lua
+[HAC66] [26-05-11 02:48:43PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*hack*.lua/faphack.lua
+[HAC66] [26-05-11 03:02:58PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Addon=FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [26-05-11 03:02:59PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WAddon=hack/FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [26-05-11 03:02:59PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Detour3=hook.Remove
+[HAC66] [26-05-11 03:03:00PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*faphack*.lua/faphack.lua
+[HAC66] [26-05-11 03:03:00PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*faphack*.lua/faphack.lua
+[HAC66] [26-05-11 03:03:02PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Module=lua/autorun/client/AutoAim.lua
+[HAC66] [26-05-11 03:03:20PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*hack*.lua/faphack.lua
+[HAC66] [26-05-11 03:03:20PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*hack*.lua/faphack.lua
+[HAC66] [26-05-11 03:22:12PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Key=bacontoggle
+[HAC66] [26-05-11 03:22:13PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Key=bacontoggle
+[HAC66] [26-05-11 03:55:23PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Addon=FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [26-05-11 03:55:23PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WAddon=hack/FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [26-05-11 03:55:23PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Datafile=data/faphack_bot.txt
+[HAC66] [26-05-11 03:55:23PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Detour3=hook.Remove
+[HAC66] [26-05-11 03:55:24PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*faphack*.lua/faphack.lua
+[HAC66] [26-05-11 03:55:24PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*faphack*.lua/faphack.lua
+[HAC66] [26-05-11 03:55:26PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Module=lua/autorun/client/AutoAim.lua
+[HAC66] [26-05-11 03:55:44PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*hack*.lua/faphack.lua
+[HAC66] [26-05-11 03:55:44PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*hack*.lua/faphack.lua
+[HAC66] [26-05-11 04:08:43PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Key=bacontoggle
+[HAC66] [26-05-11 04:08:45PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Key=bacontoggle
+[HAC66] [26-05-11 04:08:46PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Key=bacontoggle
+[HAC66] [26-05-11 04:08:46PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Key=bacontoggle
+[HAC66] [26-05-11 04:08:46PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Key=bacontoggle
+[HAC66] [26-05-11 04:08:46PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Key=bacontoggle
+[HAC66] [26-05-11 04:08:47PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Key=bacontoggle
+[HAC66] [26-05-11 04:08:47PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Key=bacontoggle
+[HAC66] [26-05-11 04:10:17PM] - Autokicked: keldee (STEAM_0:1:30275322) - HACInit_Fail
+[HAC66] [26-05-11 04:12:38PM] - Autokicked: HYPER  ¦  m4dc0w (STEAM_0:0:10602809) - HACInit_Fail
+[HAC66] [26-05-11 04:13:58PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Key=bacontoggle
+[HAC66] [26-05-11 04:19:02PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Key=bacontoggle
+[HAC66] [26-05-11 04:23:14PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Addon=FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [26-05-11 04:23:14PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WAddon=hack/FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [26-05-11 04:23:14PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Detour3=hook.Remove
+[HAC66] [26-05-11 04:23:15PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*faphack*.lua/faphack.lua
+[HAC66] [26-05-11 04:23:16PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*faphack*.lua/faphack.lua
+[HAC66] [26-05-11 04:23:17PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Module=lua/autorun/client/AutoAim.lua
+[HAC66] [26-05-11 04:23:35PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/menu_plugins/*hack*.lua/faphack.lua
+[HAC66] [26-05-11 04:23:36PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - WModule=lua/includes/enum/*hack*.lua/faphack.lua
+[HAC66] [26-05-11 04:25:44PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Key=bacontoggle
+[HAC66] [26-05-11 04:40:33PM] - Autobanned: Blanco Nino <thejoekerrr> (STEAM_0:1:25078836) - Key=bacontoggle
+[HAC66] [04-06-11 01:49:44AM] - Autobanned: Codename:Ghostrider <twokeys> (STEAM_0:0:21092814) - WModule=lua/*force*.lua/wire_forcer.lua
+[HAC66] [04-06-11 01:49:47AM] - Autobanned: Codename:Ghostrider <twokeys> (STEAM_0:0:21092814) - WModule=lua/*troll*.lua/hlr_npccontrol_controller.lua
+[HAC66] [04-06-11 03:19:54PM] - Autokicked: The Chosen One (STEAM_0:1:27486080) - HACInit_Fail
+[HAC66] [01-07-11 04:44:15PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - WAddon=hax/[HeX]'s HaX V=4 (-=UH=- HeX) [[Incl_ Wallhack, ESP, Derma Ski]]

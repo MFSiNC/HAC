@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"			"SSHD"
+	"version"		"1.0"
+	"up_date"		"01.11.2011"
+	"author_name"		"HeX"
+	"author_email"		""
+	"author_url"		"http://steamcommunity.com/groups/UnitedHosts"
+	"info"			"Simple Sethhack Detector!"
+}

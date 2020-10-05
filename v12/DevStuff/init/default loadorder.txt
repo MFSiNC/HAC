@@ -1,0 +1,43 @@
+orig:
+[iFace3]: Got cl_Lua @ 2F027280
+[iFace3]: Loaded, state 0 @ 2F027280
+! load: 	lua/includes/enum/class.lua
+! load: 	lua/includes/enum/print_types.lua
+! load: 	lua/includes/enum/rendergroup.lua
+! load: 	lua/includes/enum/rendermode.lua
+! load: 	lua/includes/enum/sim_phys.lua
+! load: 	lua/includes/enum/teams.lua
+! load: 	lua/includes/enum/text_align.lua
+! load: 	lua/includes/enum/transmit.lua
+! load: 	lua/includes/enum/use_types.lua
+
+! load: 	lua/includes/init.lua
+! load: 	lua/includes/compat.lua
+! load: 	lua/includes/util.lua
+! load: 	lua/includes/util/sql.lua
+
+
+
+fixed:
+Decompressing data pack into virtual file system..
+Data pack loaded: 530 files. (0.175s)
+[iFace3]: Got cl_Lua @ 2B8B1F60
+[iFace3]: Loaded, state 0 @ 2B8B1F60
+! load: 	lua/includes/enum/class.lua
+! load: 	lua/includes/enum/print_types.lua
+! load: 	lua/includes/enum/rendergroup.lua
+! load: 	lua/includes/enum/rendermode.lua
+! load: 	lua/includes/enum/sim_phys.lua
+! load: 	lua/includes/enum/teams.lua
+! load: 	lua/includes/enum/text_align.lua
+! load: 	lua/includes/enum/transmit.lua
+! load: 	lua/includes/enum/use_types.lua
+! load: 	includes/init.lua
+
+! init loaded here
+
+! load: 	includes/old_init.lua
+! load: 	lua/includes/compat.lua
+! load: 	lua/includes/util.lua
+! load: 	lua/includes/util/sql.lua
+!

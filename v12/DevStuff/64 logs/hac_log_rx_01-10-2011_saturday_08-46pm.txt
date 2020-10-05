@@ -1,0 +1,247 @@
+Next log starting from here
+
+[HAC66] [01-07-11 04:49:37PM] - Autokicked: [SECBD]|L| Cpt. David (STEAM_0:1:23999420) - HACInit_Fail
+[HAC79_U125] [02-07-11 01:47:38AM] - Autokicked: The Chosen One (STEAM_0:1:27486080) - HACInit_Fail
+[HAC79_U125] [02-07-11 03:55:35AM] - Autokicked: The Chosen One (STEAM_0:1:27486080) - HACInit_Fail
+[HAC79_U125] [02-07-11 04:02:19AM] - Autokicked: The Chosen One (STEAM_0:1:27486080) - HACInit_Fail
+[HAC79_U125] [02-07-11 04:05:28AM] - Autokicked: A Smooth Criminal (STEAM_0:1:21561080) - HACInit_Fail
+[HAC79_U125] [02-07-11 04:09:16AM] - Autokicked: A Smooth Criminal (STEAM_0:1:21561080) - HACInit_Fail
+[HAC79_U125] [02-07-11 09:15:45PM] - Autokicked: [SECBD]|L| Cpt. David (STEAM_0:1:23999420) - HACInit_Fail
+[HAC79_U125] [02-07-11 09:29:41PM] - Autokicked: [SECBD]|L| Cpt. David (STEAM_0:1:23999420) - HACInit_Fail
+[HAC79_U125] [05-07-11 10:05:51PM] - Autobanned: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - WModule=lua/*crack*.lua/keypad_cracker.lua
+[HAC79_U125] [05-07-11 10:16:56PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+hax_admin
+[HAC79_U125] [05-07-11 10:16:59PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+hax_admin
+[HAC79_U125] [05-07-11 10:17:01PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+hax_admin
+[HAC79_U125] [05-07-11 10:17:14PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+hax_admin
+[HAC79_U125] [05-07-11 10:17:15PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+hax_admin
+[HAC79_U125] [05-07-11 10:17:17PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+hax_admin
+[HAC79_U125] [05-07-11 10:17:17PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+hax_admin
+[HAC79_U125] [05-07-11 10:17:18PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+hax_admin
+[HAC79_U125] [05-07-11 10:17:19PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+hax_admin
+[HAC79_U125] [05-07-11 10:17:20PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+hax_admin
+[HAC79_U125] [05-07-11 10:17:20PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+hax_admin
+[HAC79_U125] [05-07-11 10:17:25PM] - Autokicked: [SECBD]|L| Cpt. David <mazecraze96> (STEAM_0:1:23999420) - Key=+hax_admin
+[HAC79_U125] [05-07-11 10:17:36PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+hax_admin
+[HAC79_U125] [05-07-11 10:18:04PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_aimbot
+[HAC79_U125] [05-07-11 10:18:42PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+helix_speed
+[HAC79_U125] [05-07-11 10:19:04PM] - Autokicked: [SECBD]|L| Cpt. David <mazecraze96> (STEAM_0:1:23999420) - Key=+aimbot
+[HAC79_U125] [05-07-11 10:19:10PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+aim
+[HAC79_U125] [05-07-11 10:19:15PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:19:17PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:19:18PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:19:18PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:19:19PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:19:20PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:19:20PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:19:21PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:19:21PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:19:21PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:19:21PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:19:22PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:19:22PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:19:22PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:19:22PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:19:22PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:19:23PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:19:23PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:19:24PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:19:24PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:19:24PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:19:42PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:20:17PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:20:27PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+AimBHOP
+[HAC79_U125] [05-07-11 10:21:29PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=_fap_initshit
+[HAC79_U125] [05-07-11 10:21:31PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=_fap_initshit
+[HAC79_U125] [05-07-11 10:21:31PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=_fap_initshit
+[HAC79_U125] [05-07-11 10:21:32PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=_fap_initshit
+[HAC79_U125] [05-07-11 10:21:32PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=_fap_initshit
+[HAC79_U125] [05-07-11 10:21:33PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=_fap_initshit
+[HAC79_U125] [05-07-11 10:21:33PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=_fap_initshit
+[HAC79_U125] [05-07-11 10:21:33PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=_fap_initshit
+[HAC79_U125] [05-07-11 10:21:34PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=_fap_initshit
+[HAC79_U125] [05-07-11 10:21:59PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+falco_makesound
+[HAC79_U125] [05-07-11 10:22:01PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+falco_makesound
+[HAC79_U125] [05-07-11 10:22:01PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+falco_makesound
+[HAC79_U125] [05-07-11 10:22:01PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+falco_makesound
+[HAC79_U125] [05-07-11 10:22:01PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+falco_makesound
+[HAC79_U125] [05-07-11 10:22:02PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+falco_makesound
+[HAC79_U125] [05-07-11 10:22:02PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+falco_makesound
+[HAC79_U125] [05-07-11 10:22:02PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+falco_makesound
+[HAC79_U125] [05-07-11 10:22:02PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+falco_makesound
+[HAC79_U125] [05-07-11 10:22:03PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+falco_makesound
+[HAC79_U125] [05-07-11 10:22:03PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+falco_makesound
+[HAC79_U125] [05-07-11 10:22:03PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+falco_makesound
+[HAC79_U125] [05-07-11 10:22:03PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+falco_makesound
+[HAC79_U125] [05-07-11 10:22:04PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+falco_makesound
+[HAC79_U125] [05-07-11 10:22:04PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+falco_makesound
+[HAC79_U125] [05-07-11 10:22:04PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+falco_makesound
+[HAC79_U125] [05-07-11 10:22:04PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+falco_makesound
+[HAC79_U125] [05-07-11 10:22:04PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+falco_makesound
+[HAC79_U125] [05-07-11 10:22:05PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+falco_makesound
+[HAC79_U125] [05-07-11 10:22:05PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+falco_makesound
+[HAC79_U125] [05-07-11 10:22:05PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+falco_makesound
+[HAC79_U125] [05-07-11 10:22:06PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+falco_makesound
+[HAC79_U125] [05-07-11 10:22:06PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+falco_makesound
+[HAC79_U125] [05-07-11 10:22:06PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+falco_makesound
+[HAC79_U125] [05-07-11 10:22:06PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+falco_makesound
+[HAC79_U125] [05-07-11 10:22:06PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+falco_makesound
+[HAC79_U125] [05-07-11 10:22:07PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+falco_makesound
+[HAC79_U125] [05-07-11 10:25:42PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:26:39PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:26:40PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:26:40PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:26:40PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:26:40PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:26:41PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:26:41PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:26:41PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:26:41PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:26:41PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:26:41PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:26:42PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:26:42PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:26:42PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:26:42PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:26:42PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:26:42PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:27:35PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+hax_menu
+[HAC79_U125] [05-07-11 10:30:53PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:31:05PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:31:05PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:31:05PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:31:06PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:31:06PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:31:06PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:31:06PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:31:06PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:31:07PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:31:07PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:31:07PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:31:07PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:31:07PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:31:07PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:31:08PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:31:08PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:31:08PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:31:08PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:31:36PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:32:16PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:32:16PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:32:16PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:32:16PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:32:16PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:35:18PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:36:13PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:36:13PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:36:14PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:36:14PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:36:14PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:36:14PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:36:15PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:36:15PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:36:15PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:36:15PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:36:15PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:36:15PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:36:16PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:36:16PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:36:16PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:36:16PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Hax_Menu
+[HAC79_U125] [05-07-11 10:37:12PM] - Autokicked: [SECBD]|L| Cpt. David <mazecraze96> (STEAM_0:1:23999420) - Key=+aimbot
+[HAC79_U125] [05-07-11 10:37:16PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:37:20PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:37:28PM] - Autokicked: jsullivan9450 <derryk562> (STEAM_0:0:41668350) - Key=+aimbot
+[HAC79_U125] [05-07-11 10:37:32PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:37:57PM] - Autokicked: jsullivan9450 <derryk562> (STEAM_0:0:41668350) - Key=+aimbot
+[HAC79_U125] [05-07-11 10:37:59PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:00PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:00PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:00PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:00PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:01PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:01PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:01PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:01PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:02PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:02PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:17PM] - Autokicked: [SECBD]|L| Cpt. David <mazecraze96> (STEAM_0:1:23999420) - Key=+buttfuck
+[HAC79_U125] [05-07-11 10:38:22PM] - Autokicked: jsullivan9450 <derryk562> (STEAM_0:0:41668350) - Key=+aimbot
+[HAC79_U125] [05-07-11 10:38:29PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:45PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:45PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:45PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:45PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:45PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:46PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:46PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:46PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:46PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:46PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:47PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:47PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:47PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:47PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:47PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:47PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:47PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:48PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:48PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:48PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:48PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:48PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:48PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:49PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:49PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:49PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:49PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:49PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:49PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:49PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:50PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:50PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:50PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:50PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:50PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:50PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:50PM] - Autokicked: jsullivan9450 <derryk562> (STEAM_0:0:41668350) - Key=+aimbot
+[HAC79_U125] [05-07-11 10:38:50PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:51PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:51PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:38:51PM] - Autokicked: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - Key=+Buttfuck
+[HAC79_U125] [05-07-11 10:41:43PM] - Autobanned: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - WModule=lua/*crack*.lua/keypad_cracker.lua
+[HAC79_U125] [05-07-11 10:58:50PM] - Autokicked: [SECBD]|L| Cpt. David <mazecraze96> (STEAM_0:1:23999420) - Key=+aim
+[HAC79_U125] [05-07-11 10:59:10PM] - Autokicked: TornadoChas3r (STEAM_0:0:19768725) - HACInit_Fail
+[HAC79_U125] [05-07-11 10:59:41PM] - Autobanned: TornadoChas3r <tornadochas3r> (STEAM_0:0:19768725) - WModule=lua/*crack*.lua/keypad_cracker.lua
+[HAC79_U126] [21-08-11 02:05:40PM] - Autokicked: The Chosen One <headhunterdude> (STEAM_0:1:27486080) - Key=+aimbot
+[HAC79_U126] [21-08-11 02:52:02PM] - Autokicked: [UH] Niko' is back ! (STEAM_0:0:40759339) - HACInit_Fail
+[HAC79_U126] [21-08-11 02:54:45PM] - Autokicked: Monotic Overdrive Unit (STEAM_0:1:34207654) - HACInit_Fail
+[HAC79_U126] [21-08-11 02:54:48PM] - Autokicked: Monotic Overdrive Unit (STEAM_0:1:34207654) - Fail_HIS_0
+[HAC79_U126] [21-08-11 02:54:48PM] - Autokicked: Monotic Overdrive Unit (STEAM_0:1:34207654) - Fail_WFC111255
+[HAC79_U126] [21-08-11 02:55:40PM] - Autokicked: Monotic Overdrive Unit (STEAM_0:1:34207654) - DSFailure_TXOk
+[HAC79_U126] [21-08-11 02:55:42PM] - Autokicked: Monotic Overdrive Unit (STEAM_0:1:34207654) - Fail_IPS_1
+[HAC79_U126] [21-08-11 02:56:08PM] - Autokicked: Monotic Overdrive Unit (STEAM_0:1:34207654) - RSXPong
+[HAC79_U126] [21-08-11 02:56:28PM] - Autokicked: Monotic Overdrive Unit (STEAM_0:1:34207654) - CModFailure
+[HAC79_U126] [21-08-11 03:13:19PM] - Autokicked: The Chosen One (STEAM_0:1:27486080) - HACInit_Fail
+[HAC79_U126] [21-08-11 03:33:29PM] - Autokicked: Monotic Overdrive Unit (STEAM_0:1:34207654) - HACInit_Fail
+[HAC79_U126] [21-08-11 03:33:34PM] - Autokicked: Monotic Overdrive Unit (STEAM_0:1:34207654) - Fail_HIS_0
+[HAC79_U126] [21-08-11 03:33:34PM] - Autokicked: Monotic Overdrive Unit (STEAM_0:1:34207654) - Fail_WFC111255
+[HAC79_U126] [21-08-11 03:33:38PM] - Autokicked: Monotic Overdrive Unit (STEAM_0:1:34207654) - DSFailure_TXOk
+[HAC79_U126] [21-08-11 03:33:40PM] - Autokicked: Monotic Overdrive Unit (STEAM_0:1:34207654) - Fail_IPS_1
+[HAC79_U126] [21-08-11 03:34:07PM] - Autokicked: Monotic Overdrive Unit (STEAM_0:1:34207654) - RSXPong
+[HAC79_U126] [21-08-11 03:34:26PM] - Autokicked: Monotic Overdrive Unit (STEAM_0:1:34207654) - CModFailure
+[HAC79_U126] [21-08-11 03:37:01PM] - Autokicked: -=[UH]=- Cpt. David (STEAM_0:1:23999420) - HACInit_Fail
+[HAC79_U126] [21-08-11 03:49:55PM] - Autokicked: Monotic Overdrive Unit (STEAM_0:1:34207654) - HACInit_Fail
+[HAC79_U126] [21-08-11 03:50:00PM] - Autokicked: Monotic Overdrive Unit (STEAM_0:1:34207654) - Fail_HIS_0
+[HAC79_U126] [21-08-11 03:50:00PM] - Autokicked: Monotic Overdrive Unit (STEAM_0:1:34207654) - Fail_WFC111255
+[HAC79_U126] [21-08-11 03:50:07PM] - Autokicked: Monotic Overdrive Unit (STEAM_0:1:34207654) - DSFailure_TXOk
+[HAC79_U126] [21-08-11 03:50:09PM] - Autokicked: Monotic Overdrive Unit (STEAM_0:1:34207654) - Fail_IPS_1
+[HAC79_U126] [21-08-11 03:50:36PM] - Autokicked: Monotic Overdrive Unit (STEAM_0:1:34207654) - RSXPong
+[HAC79_U126] [21-08-11 03:50:47PM] - Autokicked: daleks1233 (STEAM_0:0:39837430) - HACInit_Fail
+[HAC79_U126] [21-08-11 03:50:55PM] - Autokicked: Monotic Overdrive Unit (STEAM_0:1:34207654) - CModFailure
+[HAC79_U126] [21-08-11 04:00:43PM] - Autokicked: D3aDMaU598 (STEAM_0:0:37533951) - HACInit_Fail
+[HAC79_U126] [21-08-11 04:06:05PM] - Autokicked: [UH] Niko' is back ! (STEAM_0:0:40759339) - HACInit_Fail
+[HAC79_U126] [21-08-11 04:11:10PM] - Autokicked: Monotic Overdrive Unit (STEAM_0:1:34207654) - DSFailure_TXOk
+[HAC79_U126] [21-08-11 04:11:10PM] - Autokicked: Monotic Overdrive Unit (STEAM_0:1:34207654) - HACInit_Fail
+[HAC79_U126] [21-08-11 04:11:16PM] - Autokicked: Monotic Overdrive Unit (STEAM_0:1:34207654) - Fail_HIS_0
+[HAC79_U126] [21-08-11 04:11:16PM] - Autokicked: Monotic Overdrive Unit (STEAM_0:1:34207654) - Fail_WFC111255
+[HAC79_U126] [21-08-11 04:11:16PM] - Autokicked: Monotic Overdrive Unit (STEAM_0:1:34207654) - Fail_IPS_1

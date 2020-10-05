@@ -1,0 +1,15 @@
+
+
+HAC.SERVER.BadTrails = {
+	"*",
+}
+
+
+
+
+
+
+
+
+
+

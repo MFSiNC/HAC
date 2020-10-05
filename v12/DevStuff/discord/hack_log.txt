@@ -1,0 +1,21 @@
+HeX's Anti-Cheat [85] / (GMod U125) log created at [27-07-11 08:02:05PM] 
+
+[HAC85_U125] [27-07-11 08:02:05PM] - Autobanned: Discord <tfrylover> (STEAM_0:1:24101589) - KR30=PLCC
+[HAC85_U125] [27-07-11 08:02:05PM] - Autobanned: Discord <tfrylover> (STEAM_0:1:24101589) - KR30=PLCV
+[HAC85_U125] [27-07-11 08:02:05PM] - Autobanned: Discord <tfrylover> (STEAM_0:1:24101589) - KR30=PLHK
+[HAC85_U125] [27-07-11 08:02:05PM] - Autobanned: Discord <tfrylover> (STEAM_0:1:24101589) - KR30=PLTS
+[HAC85_U125] [27-07-11 08:02:05PM] - Autobanned: Discord <tfrylover> (STEAM_0:1:24101589) - KR30=PLDS
+[HAC85_U125] [27-07-11 08:02:05PM] - Autobanned: Discord <tfrylover> (STEAM_0:1:24101589) - HCCMD
+[HAC85_U125] [27-07-11 08:02:05PM] - Autobanned: Discord <tfrylover> (STEAM_0:1:24101589) - PLCount=41
+[HAC85_U125] [27-07-11 08:02:05PM] - Autobanned: Discord <tfrylover> (STEAM_0:1:24101589) - Detour1=[lua/limesload.lua:FFIL]
+[HAC85_U125] [27-07-11 08:02:05PM] - Autobanned: Discord <tfrylover> (STEAM_0:1:24101589) - Detour1=[lua/limesload.lua:FF]
+[HAC85_U125] [27-07-11 08:02:06PM] - Autobanned: Discord <tfrylover> (STEAM_0:1:24101589) - Detour1=[lua/limesload.lua:FR]
+[HAC85_U125] [27-07-11 08:02:06PM] - Autobanned: Discord <tfrylover> (STEAM_0:1:24101589) - Detour1=[lua/limesload.lua:GC]
+[HAC85_U125] [27-07-11 08:02:06PM] - Autobanned: Discord <tfrylover> (STEAM_0:1:24101589) - Detour1=[lua/limesload.lua:GCS]
+[HAC85_U125] [27-07-11 08:02:06PM] - Autobanned: Discord <tfrylover> (STEAM_0:1:24101589) - Detour1=[lua/limesload.lua:GCN]
+[HAC85_U125] [27-07-11 08:02:07PM] - Autobanned: Discord <tfrylover> (STEAM_0:1:24101589) - Detour2=[file.FindInLua]
+[HAC85_U125] [27-07-11 08:02:07PM] - Autobanned: Discord <tfrylover> (STEAM_0:1:24101589) - Detour2=[file.Find]
+[HAC85_U125] [27-07-11 08:02:07PM] - Autobanned: Discord <tfrylover> (STEAM_0:1:24101589) - Detour2=[file.Read]
+[HAC85_U125] [27-07-11 08:02:07PM] - Autobanned: Discord <tfrylover> (STEAM_0:1:24101589) - Detour2=[GetConVar]
+[HAC85_U125] [27-07-11 08:02:07PM] - Autobanned: Discord <tfrylover> (STEAM_0:1:24101589) - Detour2=[GetConVarString]
+[HAC85_U125] [27-07-11 08:02:08PM] - Autobanned: Discord <tfrylover> (STEAM_0:1:24101589) - Detour2=[GetConVarNumber]

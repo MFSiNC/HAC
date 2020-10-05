@@ -1,0 +1,9 @@
+local ret,r = pcall( function() debug.getupvalue() end )
+local P=string.find(r,".lua:")
+if P then
+	GMG("Detour1="..string.Left(r,P+3):gsub("@",""):gsub(":",""):gsub("\\","/")..":DGUV]")
+end
+
+if (debug.getupvalue(debug.getupvalue,1) ~= nil) then
+	GMG("Detour2=[debug.getupvalue]")
+end

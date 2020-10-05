@@ -1,0 +1,1866 @@
+
+lua/includes/init.lua
+lua/en_streamhks.lua
+addons/HeX's AntiCheat/lua/en_streamhks.lua
+Addons/HeX's AntiCheat/lua/en_streamhks.lua
+lua/en_streamhks.lua
+addons/hex's anticheat/lua/en_streamhks.lua
+addons/hexs anticheat/lua/en_streamhks.lua
+addons/hexs_anticheat/lua/en_streamhks.lua
+lua/en_hac.lua
+addons/HeX's AntiCheat/lua/en_hac.lua
+Addons/HeX's AntiCheat/lua/en_hac.lua
+lua/en_hac.lua
+addons/hex's anticheat/lua/en_hac.lua
+addons/hexs anticheat/lua/en_hac.lua
+addons/hexs_anticheat/lua/en_hac.lua
+lua/HAC/cl_EatKeys.lua
+addons/HeX's AntiCheat/lua/HAC/cl_EatKeys.lua
+Addons/HeX's AntiCheat/lua/HAC/cl_EatKeys.lua
+lua/hac/cl_eatkeys.lua
+addons/hex's anticheat/lua/hac/cl_eatkeys.lua
+addons/hexs anticheat/lua/hac/cl_eatkeys.lua
+addons/hexs_anticheat/lua/hac/cl_eatkeys.lua
+lua/HAC/sh_HacBurst.lua
+addons/HeX's AntiCheat/lua/HAC/sh_HacBurst.lua
+Addons/HeX's AntiCheat/lua/HAC/sh_HacBurst.lua
+lua/hac/sh_hacburst.lua
+addons/hex's anticheat/lua/hac/sh_hacburst.lua
+addons/hexs anticheat/lua/hac/sh_hacburst.lua
+addons/hexs_anticheat/lua/hac/sh_hacburst.lua
+lua/lists/sh_W_HKS.lua
+addons/HeX's AntiCheat/lua/lists/sh_W_HKS.lua
+Addons/HeX's AntiCheat/lua/lists/sh_W_HKS.lua
+lua/lists/sh_w_hks.lua
+addons/hex's anticheat/lua/lists/sh_w_hks.lua
+addons/hexs anticheat/lua/lists/sh_w_hks.lua
+addons/hexs_anticheat/lua/lists/sh_w_hks.lua
+lua/lists/cl_W_HAC.lua
+addons/HeX's AntiCheat/lua/lists/cl_W_HAC.lua
+Addons/HeX's AntiCheat/lua/lists/cl_W_HAC.lua
+lua/lists/cl_w_hac.lua
+addons/hex's anticheat/lua/lists/cl_w_hac.lua
+addons/hexs anticheat/lua/lists/cl_w_hac.lua
+addons/hexs_anticheat/lua/lists/cl_w_hac.lua
+lua/lists/cl_B_HAC.lua
+addons/HeX's AntiCheat/lua/lists/cl_B_HAC.lua
+Addons/HeX's AntiCheat/lua/lists/cl_B_HAC.lua
+lua/lists/cl_b_hac.lua
+addons/hex's anticheat/lua/lists/cl_b_hac.lua
+addons/hexs anticheat/lua/lists/cl_b_hac.lua
+addons/hexs_anticheat/lua/lists/cl_b_hac.lua
+lua/lists/sh_W_HKS_old.lua
+addons/HeX's AntiCheat/lua/lists/sh_W_HKS_old.lua
+Addons/HeX's AntiCheat/lua/lists/sh_W_HKS_old.lua
+lua/lists/sh_w_hks_old.lua
+addons/hex's anticheat/lua/lists/sh_w_hks_old.lua
+addons/hexs anticheat/lua/lists/sh_w_hks_old.lua
+addons/hexs_anticheat/lua/lists/sh_w_hks_old.lua
+lua/includes/init.lua
+addons/HeX's AntiCheat/lua/includes/init.lua
+Addons/HeX's AntiCheat/lua/includes/init.lua
+lua/includes/init.lua
+addons/hex's anticheat/lua/includes/init.lua
+addons/hexs anticheat/lua/includes/init.lua
+addons/hexs_anticheat/lua/includes/init.lua
+lua/includes/modules/hook.lua
+addons/HeX's AntiCheat/lua/includes/modules/hook.lua
+Addons/HeX's AntiCheat/lua/includes/modules/hook.lua
+lua/includes/modules/hook.lua
+addons/hex's anticheat/lua/includes/modules/hook.lua
+addons/hexs anticheat/lua/includes/modules/hook.lua
+addons/hexs_anticheat/lua/includes/modules/hook.lua
+lua/includes/modules/concommand.lua
+addons/HeX's AntiCheat/lua/includes/modules/concommand.lua
+Addons/HeX's AntiCheat/lua/includes/modules/concommand.lua
+lua/includes/modules/concommand.lua
+addons/hex's anticheat/lua/includes/modules/concommand.lua
+addons/hexs anticheat/lua/includes/modules/concommand.lua
+addons/hexs_anticheat/lua/includes/modules/concommand.lua
+lua/includes/modules/net.lua
+addons/HeX's AntiCheat/lua/includes/modules/net.lua
+Addons/HeX's AntiCheat/lua/includes/modules/net.lua
+lua/includes/modules/net.lua
+addons/hex's anticheat/lua/includes/modules/net.lua
+addons/hexs anticheat/lua/includes/modules/net.lua
+addons/hexs_anticheat/lua/includes/modules/net.lua
+addons/hex's anticheat/lua/en_hac.lua
+addons/hex's anticheat/lua/lists/cl_w_hac.lua
+addons/hex's anticheat/lua/lists/cl_b_hac.lua
+lua/autorun/client/cl_HAC.lua
+addons/HeX's AntiCheat/lua/autorun/client/cl_HAC.lua
+lua/autorun/client/cl_hac.lua
+addons/hex's anticheat/lua/autorun/client/cl_hac.lua
+lua/autorun/client/nuke_config_client.lua
+addons/HeX's AntiCheat/lua/autorun/client/nuke_config_client.lua
+lua/autorun/client/nuke_config_client.lua
+addons/hex's anticheat/lua/autorun/client/nuke_config_client.lua
+lua/en_streamhks.lua
+addons/HeX's AntiCheat/lua/en_streamhks.lua
+lua/en_streamhks.lua
+addons/hex's anticheat/lua/en_streamhks.lua
+lua/en_hac.lua
+addons/HeX's AntiCheat/lua/en_hac.lua
+lua/en_hac.lua
+addons/hex's anticheat/lua/en_hac.lua
+lua/HAC/cl_EatKeys.lua
+addons/HeX's AntiCheat/lua/HAC/cl_EatKeys.lua
+lua/hac/cl_eatkeys.lua
+addons/hex's anticheat/lua/hac/cl_eatkeys.lua
+lua/HAC/cl_Whoops.lua
+addons/HeX's AntiCheat/lua/HAC/cl_Whoops.lua
+lua/hac/cl_whoops.lua
+addons/hex's anticheat/lua/hac/cl_whoops.lua
+lua/HAC/cl_TakeSC.lua
+addons/HeX's AntiCheat/lua/HAC/cl_TakeSC.lua
+lua/hac/cl_takesc.lua
+addons/hex's anticheat/lua/hac/cl_takesc.lua
+lua/HAC/sh_HacBurst.lua
+addons/HeX's AntiCheat/lua/HAC/sh_HacBurst.lua
+lua/hac/sh_hacburst.lua
+addons/hex's anticheat/lua/hac/sh_hacburst.lua
+lua/HAC/cl_BindBuff.lua
+addons/HeX's AntiCheat/lua/HAC/cl_BindBuff.lua
+lua/hac/cl_bindbuff.lua
+addons/hex's anticheat/lua/hac/cl_bindbuff.lua
+lua/lists/sh_W_HKS.lua
+addons/HeX's AntiCheat/lua/lists/sh_W_HKS.lua
+lua/lists/sh_w_hks.lua
+addons/hex's anticheat/lua/lists/sh_w_hks.lua
+lua/lists/cl_W_HAC.lua
+addons/HeX's AntiCheat/lua/lists/cl_W_HAC.lua
+lua/lists/cl_w_hac.lua
+addons/hex's anticheat/lua/lists/cl_w_hac.lua
+lua/lists/cl_B_HAC.lua
+addons/HeX's AntiCheat/lua/lists/cl_B_HAC.lua
+lua/lists/cl_b_hac.lua
+addons/hex's anticheat/lua/lists/cl_b_hac.lua
+lua/lists/sh_W_HKS_old.lua
+addons/HeX's AntiCheat/lua/lists/sh_W_HKS_old.lua
+lua/lists/sh_w_hks_old.lua
+addons/hex's anticheat/lua/lists/sh_w_hks_old.lua
+addons/hex's anticheat/lua/lists/sh_w_gsafe.lua
+lua/includes/modules/usermessage.lua
+lua/includes/modules/concommand.lua
+lua/includes/modules/hook.lua
+lua/includes/modules/cvars.lua
+lua/includes/modules/net.lua
+addons/hex's anticheat/lua/hac/sh_hacburst.lua
+addons/hex's anticheat/lua/en_streamhks.lua
+addons/hex's anticheat/lua/lists/sh_w_hks.lua
+addons/hex's anticheat/lua/lists/sh_w_hks_old.lua
+addons/hex's anticheat/lua/hac/sh_hacburst.lua
+lua/en_streamhks.lua
+addons/HeX's AntiCheat/lua/en_streamhks.lua
+Addons/HeX's AntiCheat/lua/en_streamhks.lua
+lua/en_streamhks.lua
+addons/hex's anticheat/lua/en_streamhks.lua
+addons/hexs anticheat/lua/en_streamhks.lua
+addons/hexs_anticheat/lua/en_streamhks.lua
+lua/en_hac.lua
+addons/HeX's AntiCheat/lua/en_hac.lua
+Addons/HeX's AntiCheat/lua/en_hac.lua
+lua/en_hac.lua
+addons/hex's anticheat/lua/en_hac.lua
+addons/hexs anticheat/lua/en_hac.lua
+addons/hexs_anticheat/lua/en_hac.lua
+lua/HAC/cl_EatKeys.lua
+addons/HeX's AntiCheat/lua/HAC/cl_EatKeys.lua
+Addons/HeX's AntiCheat/lua/HAC/cl_EatKeys.lua
+lua/hac/cl_eatkeys.lua
+addons/hex's anticheat/lua/hac/cl_eatkeys.lua
+addons/hexs anticheat/lua/hac/cl_eatkeys.lua
+addons/hexs_anticheat/lua/hac/cl_eatkeys.lua
+lua/HAC/sh_HacBurst.lua
+addons/HeX's AntiCheat/lua/HAC/sh_HacBurst.lua
+Addons/HeX's AntiCheat/lua/HAC/sh_HacBurst.lua
+lua/hac/sh_hacburst.lua
+addons/hex's anticheat/lua/hac/sh_hacburst.lua
+addons/hexs anticheat/lua/hac/sh_hacburst.lua
+addons/hexs_anticheat/lua/hac/sh_hacburst.lua
+lua/lists/sh_W_HKS.lua
+addons/HeX's AntiCheat/lua/lists/sh_W_HKS.lua
+Addons/HeX's AntiCheat/lua/lists/sh_W_HKS.lua
+lua/lists/sh_w_hks.lua
+addons/hex's anticheat/lua/lists/sh_w_hks.lua
+addons/hexs anticheat/lua/lists/sh_w_hks.lua
+addons/hexs_anticheat/lua/lists/sh_w_hks.lua
+lua/lists/cl_W_HAC.lua
+addons/HeX's AntiCheat/lua/lists/cl_W_HAC.lua
+Addons/HeX's AntiCheat/lua/lists/cl_W_HAC.lua
+lua/lists/cl_w_hac.lua
+addons/hex's anticheat/lua/lists/cl_w_hac.lua
+addons/hexs anticheat/lua/lists/cl_w_hac.lua
+addons/hexs_anticheat/lua/lists/cl_w_hac.lua
+lua/lists/cl_B_HAC.lua
+addons/HeX's AntiCheat/lua/lists/cl_B_HAC.lua
+Addons/HeX's AntiCheat/lua/lists/cl_B_HAC.lua
+lua/lists/cl_b_hac.lua
+addons/hex's anticheat/lua/lists/cl_b_hac.lua
+addons/hexs anticheat/lua/lists/cl_b_hac.lua
+addons/hexs_anticheat/lua/lists/cl_b_hac.lua
+lua/lists/sh_W_HKS_old.lua
+addons/HeX's AntiCheat/lua/lists/sh_W_HKS_old.lua
+Addons/HeX's AntiCheat/lua/lists/sh_W_HKS_old.lua
+lua/lists/sh_w_hks_old.lua
+addons/hex's anticheat/lua/lists/sh_w_hks_old.lua
+addons/hexs anticheat/lua/lists/sh_w_hks_old.lua
+addons/hexs_anticheat/lua/lists/sh_w_hks_old.lua
+lua/includes/init.lua
+addons/HeX's AntiCheat/lua/includes/init.lua
+Addons/HeX's AntiCheat/lua/includes/init.lua
+lua/includes/init.lua
+addons/hex's anticheat/lua/includes/init.lua
+addons/hexs anticheat/lua/includes/init.lua
+addons/hexs_anticheat/lua/includes/init.lua
+lua/includes/modules/hook.lua
+addons/HeX's AntiCheat/lua/includes/modules/hook.lua
+Addons/HeX's AntiCheat/lua/includes/modules/hook.lua
+lua/includes/modules/hook.lua
+addons/hex's anticheat/lua/includes/modules/hook.lua
+addons/hexs anticheat/lua/includes/modules/hook.lua
+addons/hexs_anticheat/lua/includes/modules/hook.lua
+lua/includes/modules/concommand.lua
+addons/HeX's AntiCheat/lua/includes/modules/concommand.lua
+Addons/HeX's AntiCheat/lua/includes/modules/concommand.lua
+lua/includes/modules/concommand.lua
+addons/hex's anticheat/lua/includes/modules/concommand.lua
+addons/hexs anticheat/lua/includes/modules/concommand.lua
+addons/hexs_anticheat/lua/includes/modules/concommand.lua
+lua/includes/modules/net.lua
+addons/HeX's AntiCheat/lua/includes/modules/net.lua
+Addons/HeX's AntiCheat/lua/includes/modules/net.lua
+lua/includes/modules/net.lua
+addons/hex's anticheat/lua/includes/modules/net.lua
+addons/hexs anticheat/lua/includes/modules/net.lua
+addons/hexs_anticheat/lua/includes/modules/net.lua
+lua/includes/util.lua
+lua/includes/util/sql.lua
+lua/includes/modules/baseclass.lua
+lua/includes/modules/saverestore.lua
+lua/includes/modules/gamemode.lua
+lua/includes/modules/weapons.lua
+lua/includes/modules/scripted_ents.lua
+lua/includes/modules/player_manager.lua
+lua/includes/modules/numpad.lua
+lua/includes/modules/team.lua
+lua/includes/modules/undo.lua
+lua/includes/modules/cleanup.lua
+lua/includes/modules/duplicator.lua
+lua/includes/modules/constraint.lua
+lua/includes/modules/construct.lua
+lua/includes/modules/list.lua
+lua/includes/modules/cvars.lua
+lua/includes/modules/http.lua
+lua/includes/modules/properties.lua
+lua/includes/modules/widget.lua
+lua/includes/modules/drive.lua
+lua/drive/drive_base.lua
+lua/drive/drive_noclip.lua
+lua/includes/modules/draw.lua
+lua/includes/modules/markup.lua
+lua/includes/modules/effects.lua
+lua/includes/modules/halo.lua
+lua/includes/modules/killicon.lua
+lua/includes/modules/spawnmenu.lua
+lua/includes/modules/controlpanel.lua
+lua/includes/modules/presets.lua
+lua/includes/modules/cookie.lua
+lua/includes/modules/menubar.lua
+lua/includes/modules/matproxy.lua
+lua/includes/util/model_database.lua
+lua/includes/util/vgui_showlayout.lua
+lua/includes/util/tooltips.lua
+lua/includes/util/client.lua
+lua/includes/util/javascript_util.lua
+lua/includes/util/workshop_files.lua
+lua/includes/gui/icon_progress.lua
+lua/includes/gmsave.lua
+lua/includes/extensions/file.lua
+lua/includes/extensions/angle.lua
+lua/includes/extensions/debug.lua
+lua/includes/extensions/entity.lua
+lua/includes/extensions/ents.lua
+lua/includes/extensions/math.lua
+lua/includes/extensions/player.lua
+lua/includes/extensions/player_auth.lua
+lua/includes/extensions/string.lua
+lua/includes/extensions/table.lua
+lua/includes/extensions/util.lua
+lua/includes/extensions/util/worldpicker.lua
+lua/includes/extensions/vector.lua
+lua/includes/extensions/game.lua
+lua/includes/extensions/motionsensor.lua
+lua/includes/extensions/weapon.lua
+lua/includes/extensions/coroutine.lua
+addons/hex's anticheat/lua/includes/extensions/datasteam.lua
+lua/includes/extensions/client/entity.lua
+lua/includes/extensions/client/globals.lua
+lua/includes/extensions/client/panel.lua
+lua/includes/extensions/client/panel/animation.lua
+lua/includes/extensions/client/panel/dragdrop.lua
+lua/includes/extensions/client/panel/selections.lua
+lua/includes/extensions/client/panel/scriptedpanels.lua
+lua/includes/extensions/client/player.lua
+lua/includes/extensions/client/render.lua
+lua/includes/modules/search.lua
+lua/derma/init.lua
+lua/derma/derma.lua
+lua/derma/derma_example.lua
+lua/derma/derma_menus.lua
+lua/derma/derma_animation.lua
+lua/derma/derma_utils.lua
+lua/derma/derma_gwen.lua
+Startup
+lua/includes/modules/notification.lua
+gamemodes/base/gamemode/cl_init.lua
+gamemodes/base/gamemode/shared.lua
+gamemodes/base/gamemode/obj_player_extend.lua
+gamemodes/base/gamemode/gravitygun.lua
+gamemodes/base/gamemode/player_shd.lua
+gamemodes/base/gamemode/animations.lua
+gamemodes/base/gamemode/player_class/player_default.lua
+gamemodes/base/gamemode/player_class/taunt_camera.lua
+gamemodes/base/gamemode/cl_scoreboard.lua
+gamemodes/base/gamemode/cl_targetid.lua
+gamemodes/base/gamemode/cl_hudpickup.lua
+gamemodes/base/gamemode/cl_spawnmenu.lua
+gamemodes/base/gamemode/cl_deathnotice.lua
+gamemodes/base/gamemode/cl_pickteam.lua
+gamemodes/base/gamemode/cl_voice.lua
+lua/autorun/base_npcs.lua
+lua/autorun/base_vehicles.lua
+addons/guided chicken/lua/autorun/chicken_autorun.lua
+addons/counter-strike gm13/lua/autorun/css_gm13.lua
+lua/autorun/developer_functions.lua
+addons/fsamod/lua/autorun/fsa_autorun.lua
+addons/fsamod/lua/fsa/shared.lua
+addons/fsamod/lua/fsa/coreplugins.lua
+addons/fsamod/lua/fsa/plugins/respawn.lua
+addons/fsamod/lua/fsa/plugins/stopsounds.lua
+addons/fsamod/lua/fsa/client.lua
+lua/autorun/game_hl2.lua
+addons/!h00/lua/autorun/h00.lua
+addons/!h00/lua/h00_debug.lua
+addons/!h00/lua/h00_type.lua
+addons/!h00/lua/h00_string.lua
+addons/!h00/lua/h00_math.lua
+addons/!h00/lua/h00_weapon.lua
+addons/!h00/lua/h00_sound.lua
+addons/!h00/lua/h00_entity.lua
+addons/hex's server plugins/lua/autorun/hsp_autorun.lua
+addons/hex's server plugins/lua/hsp_loader.lua
+addons/hex's server plugins/lua/hsp_shared.lua
+addons/hex's server plugins/lua/hsp/base/cl_b_enum.lua
+addons/hex's server plugins/lua/hsp/base/cl_b_gamepath.lua
+addons/hex's server plugins/lua/hsp/base/cl_b_lps.lua
+addons/hex's server plugins/lua/hsp/base/cl_b_prs.lua
+addons/hex's server plugins/lua/hsp/base/sh_b_afterpostentity.lua
+addons/hex's server plugins/lua/hsp/base/sh_b_allweapons.lua
+addons/hex's server plugins/lua/hsp/base/sh_b_cat.lua
+addons/hex's server plugins/lua/hsp/base/sh_b_gan.lua
+addons/hex's server plugins/lua/hsp/base/sh_b_init.lua
+addons/hex's server plugins/lua/hsp/base/sh_b_meta.lua
+addons/hex's server plugins/lua/hsp/base/sh_b_oldtimer.lua
+addons/hex's server plugins/lua/hsp/base/sh_b_pex.lua
+addons/hex's server plugins/lua/hsp/base/sh_b_soundflags.lua
+addons/hex's server plugins/lua/hsp/base/sh_b_sps.lua
+addons/hex's server plugins/lua/hsp/base/sh_b_url.lua
+addons/hex's server plugins/lua/hsp/base/sh_b_utilx.lua
+addons/hex's server plugins/lua/hsp/airlevel/cl_airlevel.lua
+addons/hex's server plugins/lua/hsp/antispam/sh_nofizz.lua
+addons/hex's server plugins/lua/hsp/build/sh_matorganiser.lua
+addons/hex's server plugins/lua/hsp/chatfilter/sh_clipboard.lua
+addons/hex's server plugins/lua/hsp/connectmessage/cl_noconnect.lua
+addons/hex's server plugins/lua/hsp/csscheck/cl_csscheck.lua
+addons/hex's server plugins/lua/hsp/deathmatch/cl_legs.lua
+addons/hex's server plugins/lua/hsp/deathmatch/cl_wepnames.lua
+addons/hex's server plugins/lua/hsp/deathmatch/sh_exp.lua
+addons/hex's server plugins/lua/hsp/deathmatch/sh_gibprecache.lua
+addons/hex's server plugins/lua/hsp/deathmatch/sh_spawneffect.lua
+addons/hex's server plugins/lua/hsp/deathmatch/sh_taucannon.lua
+addons/hex's server plugins/lua/hsp/general/cl_scountdown.lua
+addons/hex's server plugins/lua/hsp/general/cl_stopsounds.lua
+addons/hex's server plugins/lua/hsp/general/sh_chatsound.lua
+addons/hex's server plugins/lua/hsp/general/sh_fixswim.lua
+addons/hex's server plugins/lua/hsp/gfx/cl_altammohud.lua
+addons/hex's server plugins/lua/hsp/gfx/cl_hev.lua
+addons/hex's server plugins/lua/hsp/gfx/cl_hud.lua
+addons/hex's server plugins/lua/hsp/gfx/cl_legs.lua
+addons/hex's server plugins/lua/hsp/gfx/cl_nametags.lua
+addons/hex's server plugins/lua/hsp/gfx/cl_rings.lua
+addons/hex's server plugins/lua/hsp/gfx/cl_screenlogger.lua
+addons/hex's server plugins/lua/hsp/gfx/cl_screenwater.lua
+addons/hex's server plugins/lua/hsp/hitpoints/cl_hitpoints.lua
+addons/hex's server plugins/lua/hsp/killfeed/cl_b_fskin.lua
+addons/hex's server plugins/lua/hsp/killfeed/cl_b_gamenotice.lua
+addons/hex's server plugins/lua/hsp/killfeed/cl_b_killfeed.lua
+addons/hex's server plugins/lua/hsp/killfeed/cl_dmsg.lua
+addons/hex's server plugins/lua/hsp/killicons/cl_killicons.lua
+addons/hex's server plugins/lua/hsp/mapstuff/sh_csscrap.lua
+addons/hex's server plugins/lua/hsp/missingstuff/sh_missingplayermodels.lua
+addons/hex's server plugins/lua/hsp/missingstuff/sh_missingvehicles.lua
+addons/hex's server plugins/lua/hsp/newexplosion/cl_newexplosion.lua
+addons/hex's server plugins/lua/hsp/newexplosion/sh_nukeexplosion.lua
+addons/hex's server plugins/lua/hsp/overrides/cl_badcreationtab.lua
+addons/hex's server plugins/lua/hsp/overrides/sh_badlists.lua
+addons/hex's server plugins/lua/hsp/overrides/cl_chatnamefix.lua
+addons/hex's server plugins/lua/hsp/overrides/cl_contenticon.lua
+addons/hex's server plugins/lua/hsp/overrides/cl_matvectorfix.lua
+addons/hex's server plugins/lua/hsp/overrides/cl_newvoice.lua
+addons/hex's server plugins/lua/hsp/overrides/cl_pickupfix.lua
+addons/hex's server plugins/lua/hsp/overrides/cl_screenclicks.lua
+addons/hex's server plugins/lua/hsp/overrides/cl_shiftfix.lua
+addons/hex's server plugins/lua/hsp/overrides/cl_uhnode.lua
+addons/hex's server plugins/lua/hsp/overrides/sh_classictnt.lua
+addons/hex's server plugins/lua/hsp/overrides/sh_classictool.lua
+addons/hex's server plugins/lua/hsp/overrides/sh_ganfix.lua
+addons/hex's server plugins/lua/hsp/overrides/sh_namefix.lua
+addons/hex's server plugins/lua/hsp/overrides/sh_nochell.lua
+addons/hex's server plugins/lua/hsp/overrides/sh_nodrive.lua
+addons/hex's server plugins/lua/hsp/overrides/sh_nodupe.lua
+addons/hex's server plugins/lua/hsp/overrides/sh_properties.lua
+addons/hex's server plugins/lua/hsp/printmessage/cl_printmessage.lua
+addons/hex's server plugins/lua/hsp/qmonitor/cl_qmonitor.lua
+addons/hex's server plugins/lua/hsp/rtd/cl_rtd.lua
+addons/hex's server plugins/lua/hsp/slam/sh_slam_resources.lua
+addons/hex's server plugins/lua/hsp/solidvote/cl_b_vote.lua
+addons/hex's server plugins/lua/hsp/solidvote/cl_v_map.lua
+addons/hex's server plugins/lua/hsp/turret/cl_turretbeam.lua
+addons/hex's server plugins/lua/hsp/turret/sh_turretdeath.lua
+lua/autorun/menubar.lua
+addons/nuke/lua/autorun/nuke_autorun.lua
+addons/phx/lua/autorun/phx_content.lua
+lua/autorun/properties.lua
+lua/autorun/properties/bone_manipulate.lua
+lua/autorun/properties/remove.lua
+lua/autorun/properties/statue.lua
+lua/autorun/properties/keep_upright.lua
+lua/autorun/properties/persist.lua
+lua/autorun/properties/drive.lua
+lua/autorun/properties/ignite.lua
+lua/autorun/properties/collisions.lua
+lua/autorun/properties/gravity.lua
+lua/autorun/properties/npc_scale.lua
+lua/autorun/properties/editentity.lua
+lua/autorun/properties/kinect_controller.lua
+lua/autorun/properties/bodygroups.lua
+lua/autorun/properties/skin.lua
+addons/adv duplicator/lua/autorun/serialiser.lua
+addons/ion cannon/lua/autorun/sh_ioncannon.lua
+addons/uh scoreboard/lua/autorun/sh_scoreboard.lua
+addons/uh scoreboard/lua/uh_scoreboard/scoreboard.lua
+addons/uh scoreboard/lua/uh_scoreboard/player_row.lua
+addons/uh scoreboard/lua/uh_scoreboard/player_frame.lua
+addons/spp/lua/autorun/sh_spropprotection.lua
+addons/spp/lua/spropprotection/sh_cppi.lua
+addons/spp/lua/spropprotection/cl_init.lua
+addons/tf2 teleporters 00/lua/autorun/tf2_teleporters.lua
+lua/autorun/utilities_menu.lua
+addons/sach/lua/autorun/von.lua
+addons/adv duplicator/lua/autorun/client/cl_advdupe.lua
+addons/adv duplicator/lua/autorun/shared/dupeshare.lua
+addons/hex's anticheat/lua/autorun/client/cl_hac.lua
+addons/sach/lua/autorun/client/cl_sach.lua
+addons/sach/lua/autorun/von.lua
+lua/autorun/client/demo_recording.lua
+lua/autorun/client/gm_demo.lua
+addons/hex's anticheat/lua/autorun/client/nuke_config_client.lua
+addons/hex's anticheat/lua/hac/cl_bindbuff.lua
+addons/hex's anticheat/lua/hac/cl_bsod.lua
+addons/hex's anticheat/lua/hac/cl_grid.lua
+addons/hex's anticheat/lua/hac/cl_message.lua
+addons/hex's anticheat/lua/hac/cl_rsx.lua
+addons/hex's anticheat/lua/hac/cl_spinmeround.lua
+addons/hex's anticheat/lua/hac/cl_takesc.lua
+addons/hex's anticheat/lua/hac/sh_hacburst.lua
+addons/hex's anticheat/lua/hac/cl_whoops.lua
+steam.inf
+steam.inf
+gameinfo.txt
+gameinfo.txt
+AUTOEXEC.BAT
+AUTOEXEC.BAT
+boot.ini
+boot.ini
+bootstat.dat
+bootstat.dat
+config.sys
+config.sys
+ntldr
+ntldr
+explorer.exe
+explorer.exe
+ntoskrnl.exe
+ntoskrnl.exe
+hal.dll
+hal.dll
+bootres.dll
+bootres.dll
+bootfix.bin
+bootfix.bin
+etfsboot.com
+etfsboot.com
+boot.sdi
+boot.sdi
+bootmgr
+bootmgr
+garrysmod/steam.inf
+garrysmod\steam.inf
+garrysmod/gameinfo.txt
+garrysmod\gameinfo.txt
+garrysmod/AUTOEXEC.BAT
+garrysmod\AUTOEXEC.BAT
+garrysmod/boot.ini
+garrysmod\boot.ini
+garrysmod/bootstat.dat
+garrysmod\bootstat.dat
+garrysmod/config.sys
+garrysmod\config.sys
+garrysmod/ntldr
+garrysmod\ntldr
+garrysmod/explorer.exe
+garrysmod\explorer.exe
+garrysmod/ntoskrnl.exe
+garrysmod\ntoskrnl.exe
+garrysmod/hal.dll
+garrysmod\hal.dll
+garrysmod/bootres.dll
+garrysmod\bootres.dll
+garrysmod/bootfix.bin
+garrysmod\bootfix.bin
+garrysmod/etfsboot.com
+garrysmod\etfsboot.com
+garrysmod/boot.sdi
+garrysmod\boot.sdi
+garrysmod/bootmgr
+garrysmod\bootmgr
+garrysmod/garrysmod/steam.inf
+garrysmod\garrysmod\steam.inf
+garrysmod/garrysmod/gameinfo.txt
+garrysmod\garrysmod\gameinfo.txt
+garrysmod/garrysmod/AUTOEXEC.BAT
+garrysmod\garrysmod\AUTOEXEC.BAT
+garrysmod/garrysmod/boot.ini
+garrysmod\garrysmod\boot.ini
+garrysmod/garrysmod/bootstat.dat
+garrysmod\garrysmod\bootstat.dat
+garrysmod/garrysmod/config.sys
+garrysmod\garrysmod\config.sys
+garrysmod/garrysmod/ntldr
+garrysmod\garrysmod\ntldr
+garrysmod/garrysmod/explorer.exe
+garrysmod\garrysmod\explorer.exe
+garrysmod/garrysmod/ntoskrnl.exe
+garrysmod\garrysmod\ntoskrnl.exe
+garrysmod/garrysmod/hal.dll
+garrysmod\garrysmod\hal.dll
+garrysmod/garrysmod/bootres.dll
+garrysmod\garrysmod\bootres.dll
+garrysmod/garrysmod/bootfix.bin
+garrysmod\garrysmod\bootfix.bin
+garrysmod/garrysmod/etfsboot.com
+garrysmod\garrysmod\etfsboot.com
+garrysmod/garrysmod/boot.sdi
+garrysmod\garrysmod\boot.sdi
+garrysmod/garrysmod/bootmgr
+garrysmod\garrysmod\bootmgr
+C:/steam.inf
+C:\steam.inf
+C:/gameinfo.txt
+C:\gameinfo.txt
+C:/AUTOEXEC.BAT
+C:\AUTOEXEC.BAT
+C:/boot.ini
+C:\boot.ini
+C:/bootstat.dat
+C:\bootstat.dat
+C:/config.sys
+C:\config.sys
+C:/ntldr
+C:\ntldr
+C:/explorer.exe
+C:\explorer.exe
+C:/ntoskrnl.exe
+C:\ntoskrnl.exe
+C:/hal.dll
+C:\hal.dll
+C:/bootres.dll
+C:\bootres.dll
+C:/bootfix.bin
+C:\bootfix.bin
+C:/etfsboot.com
+C:\etfsboot.com
+C:/boot.sdi
+C:\boot.sdi
+C:/bootmgr
+C:\bootmgr
+C:/WINDOWS/steam.inf
+C:\WINDOWS\steam.inf
+C:/WINDOWS/gameinfo.txt
+C:\WINDOWS\gameinfo.txt
+C:/WINDOWS/AUTOEXEC.BAT
+C:\WINDOWS\AUTOEXEC.BAT
+C:/WINDOWS/boot.ini
+C:\WINDOWS\boot.ini
+C:/WINDOWS/bootstat.dat
+C:\WINDOWS\bootstat.dat
+C:/WINDOWS/config.sys
+C:\WINDOWS\config.sys
+C:/WINDOWS/ntldr
+C:\WINDOWS\ntldr
+C:/WINDOWS/explorer.exe
+C:\WINDOWS\explorer.exe
+C:/WINDOWS/ntoskrnl.exe
+C:\WINDOWS\ntoskrnl.exe
+C:/WINDOWS/hal.dll
+C:\WINDOWS\hal.dll
+C:/WINDOWS/bootres.dll
+C:\WINDOWS\bootres.dll
+C:/WINDOWS/bootfix.bin
+C:\WINDOWS\bootfix.bin
+C:/WINDOWS/etfsboot.com
+C:\WINDOWS\etfsboot.com
+C:/WINDOWS/boot.sdi
+C:\WINDOWS\boot.sdi
+C:/WINDOWS/bootmgr
+C:\WINDOWS\bootmgr
+C:/WINDOWS/System32/steam.inf
+C:\WINDOWS\System32\steam.inf
+C:/WINDOWS/System32/gameinfo.txt
+C:\WINDOWS\System32\gameinfo.txt
+C:/WINDOWS/System32/AUTOEXEC.BAT
+C:\WINDOWS\System32\AUTOEXEC.BAT
+C:/WINDOWS/System32/boot.ini
+C:\WINDOWS\System32\boot.ini
+C:/WINDOWS/System32/bootstat.dat
+C:\WINDOWS\System32\bootstat.dat
+C:/WINDOWS/System32/config.sys
+C:\WINDOWS\System32\config.sys
+C:/WINDOWS/System32/ntldr
+C:\WINDOWS\System32\ntldr
+C:/WINDOWS/System32/explorer.exe
+C:\WINDOWS\System32\explorer.exe
+C:/WINDOWS/System32/ntoskrnl.exe
+C:\WINDOWS\System32\ntoskrnl.exe
+C:/WINDOWS/System32/hal.dll
+C:\WINDOWS\System32\hal.dll
+C:/WINDOWS/System32/bootres.dll
+C:\WINDOWS\System32\bootres.dll
+C:/WINDOWS/System32/bootfix.bin
+C:\WINDOWS\System32\bootfix.bin
+C:/WINDOWS/System32/etfsboot.com
+C:\WINDOWS\System32\etfsboot.com
+C:/WINDOWS/System32/boot.sdi
+C:\WINDOWS\System32\boot.sdi
+C:/WINDOWS/System32/bootmgr
+C:\WINDOWS\System32\bootmgr
+C:/WINDOWS/Boot/DVD/PCAT/en-US/steam.inf
+C:\WINDOWS\Boot\DVD\PCAT\en-US\steam.inf
+C:/WINDOWS/Boot/DVD/PCAT/en-US/gameinfo.txt
+C:\WINDOWS\Boot\DVD\PCAT\en-US\gameinfo.txt
+C:/WINDOWS/Boot/DVD/PCAT/en-US/AUTOEXEC.BAT
+C:\WINDOWS\Boot\DVD\PCAT\en-US\AUTOEXEC.BAT
+C:/WINDOWS/Boot/DVD/PCAT/en-US/boot.ini
+C:\WINDOWS\Boot\DVD\PCAT\en-US\boot.ini
+C:/WINDOWS/Boot/DVD/PCAT/en-US/bootstat.dat
+C:\WINDOWS\Boot\DVD\PCAT\en-US\bootstat.dat
+C:/WINDOWS/Boot/DVD/PCAT/en-US/config.sys
+C:\WINDOWS\Boot\DVD\PCAT\en-US\config.sys
+C:/WINDOWS/Boot/DVD/PCAT/en-US/ntldr
+C:\WINDOWS\Boot\DVD\PCAT\en-US\ntldr
+C:/WINDOWS/Boot/DVD/PCAT/en-US/explorer.exe
+C:\WINDOWS\Boot\DVD\PCAT\en-US\explorer.exe
+C:/WINDOWS/Boot/DVD/PCAT/en-US/ntoskrnl.exe
+C:\WINDOWS\Boot\DVD\PCAT\en-US\ntoskrnl.exe
+C:/WINDOWS/Boot/DVD/PCAT/en-US/hal.dll
+C:\WINDOWS\Boot\DVD\PCAT\en-US\hal.dll
+C:/WINDOWS/Boot/DVD/PCAT/en-US/bootres.dll
+C:\WINDOWS\Boot\DVD\PCAT\en-US\bootres.dll
+C:/WINDOWS/Boot/DVD/PCAT/en-US/bootfix.bin
+C:\WINDOWS\Boot\DVD\PCAT\en-US\bootfix.bin
+C:/WINDOWS/Boot/DVD/PCAT/en-US/etfsboot.com
+C:\WINDOWS\Boot\DVD\PCAT\en-US\etfsboot.com
+C:/WINDOWS/Boot/DVD/PCAT/en-US/boot.sdi
+C:\WINDOWS\Boot\DVD\PCAT\en-US\boot.sdi
+C:/WINDOWS/Boot/DVD/PCAT/en-US/bootmgr
+C:\WINDOWS\Boot\DVD\PCAT\en-US\bootmgr
+C:/WINDOWS/Boot/DVD/PCAT/steam.inf
+C:\WINDOWS\Boot\DVD\PCAT\steam.inf
+C:/WINDOWS/Boot/DVD/PCAT/gameinfo.txt
+C:\WINDOWS\Boot\DVD\PCAT\gameinfo.txt
+C:/WINDOWS/Boot/DVD/PCAT/AUTOEXEC.BAT
+C:\WINDOWS\Boot\DVD\PCAT\AUTOEXEC.BAT
+C:/WINDOWS/Boot/DVD/PCAT/boot.ini
+C:\WINDOWS\Boot\DVD\PCAT\boot.ini
+C:/WINDOWS/Boot/DVD/PCAT/bootstat.dat
+C:\WINDOWS\Boot\DVD\PCAT\bootstat.dat
+C:/WINDOWS/Boot/DVD/PCAT/config.sys
+C:\WINDOWS\Boot\DVD\PCAT\config.sys
+C:/WINDOWS/Boot/DVD/PCAT/ntldr
+C:\WINDOWS\Boot\DVD\PCAT\ntldr
+C:/WINDOWS/Boot/DVD/PCAT/explorer.exe
+C:\WINDOWS\Boot\DVD\PCAT\explorer.exe
+C:/WINDOWS/Boot/DVD/PCAT/ntoskrnl.exe
+C:\WINDOWS\Boot\DVD\PCAT\ntoskrnl.exe
+C:/WINDOWS/Boot/DVD/PCAT/hal.dll
+C:\WINDOWS\Boot\DVD\PCAT\hal.dll
+C:/WINDOWS/Boot/DVD/PCAT/bootres.dll
+C:\WINDOWS\Boot\DVD\PCAT\bootres.dll
+C:/WINDOWS/Boot/DVD/PCAT/bootfix.bin
+C:\WINDOWS\Boot\DVD\PCAT\bootfix.bin
+C:/WINDOWS/Boot/DVD/PCAT/etfsboot.com
+C:\WINDOWS\Boot\DVD\PCAT\etfsboot.com
+C:/WINDOWS/Boot/DVD/PCAT/boot.sdi
+C:\WINDOWS\Boot\DVD\PCAT\boot.sdi
+C:/WINDOWS/Boot/DVD/PCAT/bootmgr
+C:\WINDOWS\Boot\DVD\PCAT\bootmgr
+C:/WINDOWS/Boot/PCAT/steam.inf
+C:\WINDOWS\Boot\PCAT\steam.inf
+C:/WINDOWS/Boot/PCAT/gameinfo.txt
+C:\WINDOWS\Boot\PCAT\gameinfo.txt
+C:/WINDOWS/Boot/PCAT/AUTOEXEC.BAT
+C:\WINDOWS\Boot\PCAT\AUTOEXEC.BAT
+C:/WINDOWS/Boot/PCAT/boot.ini
+C:\WINDOWS\Boot\PCAT\boot.ini
+C:/WINDOWS/Boot/PCAT/bootstat.dat
+C:\WINDOWS\Boot\PCAT\bootstat.dat
+C:/WINDOWS/Boot/PCAT/config.sys
+C:\WINDOWS\Boot\PCAT\config.sys
+C:/WINDOWS/Boot/PCAT/ntldr
+C:\WINDOWS\Boot\PCAT\ntldr
+C:/WINDOWS/Boot/PCAT/explorer.exe
+C:\WINDOWS\Boot\PCAT\explorer.exe
+C:/WINDOWS/Boot/PCAT/ntoskrnl.exe
+C:\WINDOWS\Boot\PCAT\ntoskrnl.exe
+C:/WINDOWS/Boot/PCAT/hal.dll
+C:\WINDOWS\Boot\PCAT\hal.dll
+C:/WINDOWS/Boot/PCAT/bootres.dll
+C:\WINDOWS\Boot\PCAT\bootres.dll
+C:/WINDOWS/Boot/PCAT/bootfix.bin
+C:\WINDOWS\Boot\PCAT\bootfix.bin
+C:/WINDOWS/Boot/PCAT/etfsboot.com
+C:\WINDOWS\Boot\PCAT\etfsboot.com
+C:/WINDOWS/Boot/PCAT/boot.sdi
+C:\WINDOWS\Boot\PCAT\boot.sdi
+C:/WINDOWS/Boot/PCAT/bootmgr
+C:\WINDOWS\Boot\PCAT\bootmgr
+..\steam.inf
+..\steam.inf
+..\..\steam.inf
+..\..\steam.inf
+..\..\..\steam.inf
+..\..\..\steam.inf
+..\..\..\..\steam.inf
+..\..\..\..\steam.inf
+..\..\..\..\..\steam.inf
+..\..\..\..\..\steam.inf
+..\..\..\..\..\..\steam.inf
+..\..\..\..\..\..\steam.inf
+..\..\..\..\..\..\..\steam.inf
+..\..\..\..\..\..\..\steam.inf
+..\..\..\..\..\..\..\..\steam.inf
+..\..\..\..\..\..\..\..\steam.inf
+..\..\..\..\..\..\..\..\..\steam.inf
+..\..\..\..\..\..\..\..\..\steam.inf
+..\..\..\..\..\..\..\..\..\..\steam.inf
+..\..\..\..\..\..\..\..\..\..\steam.inf
+..\..\..\..\..\..\..\..\..\..\..\steam.inf
+..\..\..\..\..\..\..\..\..\..\..\steam.inf
+..\..\..\..\..\..\..\..\..\..\..\..\steam.inf
+..\..\..\..\..\..\..\..\..\..\..\..\steam.inf
+..\..\..\..\..\..\..\..\..\..\..\..\..\steam.inf
+..\..\..\..\..\..\..\..\..\..\..\..\..\steam.inf
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\steam.inf
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\steam.inf
+..\gameinfo.txt
+..\gameinfo.txt
+..\..\gameinfo.txt
+..\..\gameinfo.txt
+..\..\..\gameinfo.txt
+..\..\..\gameinfo.txt
+..\..\..\..\gameinfo.txt
+..\..\..\..\gameinfo.txt
+..\..\..\..\..\gameinfo.txt
+..\..\..\..\..\gameinfo.txt
+..\..\..\..\..\..\gameinfo.txt
+..\..\..\..\..\..\gameinfo.txt
+..\..\..\..\..\..\..\gameinfo.txt
+..\..\..\..\..\..\..\gameinfo.txt
+..\..\..\..\..\..\..\..\gameinfo.txt
+..\..\..\..\..\..\..\..\gameinfo.txt
+..\..\..\..\..\..\..\..\..\gameinfo.txt
+..\..\..\..\..\..\..\..\..\gameinfo.txt
+..\..\..\..\..\..\..\..\..\..\gameinfo.txt
+..\..\..\..\..\..\..\..\..\..\gameinfo.txt
+..\..\..\..\..\..\..\..\..\..\..\gameinfo.txt
+..\..\..\..\..\..\..\..\..\..\..\gameinfo.txt
+..\..\..\..\..\..\..\..\..\..\..\..\gameinfo.txt
+..\..\..\..\..\..\..\..\..\..\..\..\gameinfo.txt
+..\..\..\..\..\..\..\..\..\..\..\..\..\gameinfo.txt
+..\..\..\..\..\..\..\..\..\..\..\..\..\gameinfo.txt
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\gameinfo.txt
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\gameinfo.txt
+..\AUTOEXEC.BAT
+..\AUTOEXEC.BAT
+..\..\AUTOEXEC.BAT
+..\..\AUTOEXEC.BAT
+..\..\..\AUTOEXEC.BAT
+..\..\..\AUTOEXEC.BAT
+..\..\..\..\AUTOEXEC.BAT
+..\..\..\..\AUTOEXEC.BAT
+..\..\..\..\..\AUTOEXEC.BAT
+..\..\..\..\..\AUTOEXEC.BAT
+..\..\..\..\..\..\AUTOEXEC.BAT
+..\..\..\..\..\..\AUTOEXEC.BAT
+..\..\..\..\..\..\..\AUTOEXEC.BAT
+..\..\..\..\..\..\..\AUTOEXEC.BAT
+..\..\..\..\..\..\..\..\AUTOEXEC.BAT
+..\..\..\..\..\..\..\..\AUTOEXEC.BAT
+..\..\..\..\..\..\..\..\..\AUTOEXEC.BAT
+..\..\..\..\..\..\..\..\..\AUTOEXEC.BAT
+..\..\..\..\..\..\..\..\..\..\AUTOEXEC.BAT
+..\..\..\..\..\..\..\..\..\..\AUTOEXEC.BAT
+..\..\..\..\..\..\..\..\..\..\..\AUTOEXEC.BAT
+..\..\..\..\..\..\..\..\..\..\..\AUTOEXEC.BAT
+..\..\..\..\..\..\..\..\..\..\..\..\AUTOEXEC.BAT
+..\..\..\..\..\..\..\..\..\..\..\..\AUTOEXEC.BAT
+..\..\..\..\..\..\..\..\..\..\..\..\..\AUTOEXEC.BAT
+..\..\..\..\..\..\..\..\..\..\..\..\..\AUTOEXEC.BAT
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\AUTOEXEC.BAT
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\AUTOEXEC.BAT
+..\boot.ini
+..\boot.ini
+..\..\boot.ini
+..\..\boot.ini
+..\..\..\boot.ini
+..\..\..\boot.ini
+..\..\..\..\boot.ini
+..\..\..\..\boot.ini
+..\..\..\..\..\boot.ini
+..\..\..\..\..\boot.ini
+..\..\..\..\..\..\boot.ini
+..\..\..\..\..\..\boot.ini
+..\..\..\..\..\..\..\boot.ini
+..\..\..\..\..\..\..\boot.ini
+..\..\..\..\..\..\..\..\boot.ini
+..\..\..\..\..\..\..\..\boot.ini
+..\..\..\..\..\..\..\..\..\boot.ini
+..\..\..\..\..\..\..\..\..\boot.ini
+..\..\..\..\..\..\..\..\..\..\boot.ini
+..\..\..\..\..\..\..\..\..\..\boot.ini
+..\..\..\..\..\..\..\..\..\..\..\boot.ini
+..\..\..\..\..\..\..\..\..\..\..\boot.ini
+..\..\..\..\..\..\..\..\..\..\..\..\boot.ini
+..\..\..\..\..\..\..\..\..\..\..\..\boot.ini
+..\..\..\..\..\..\..\..\..\..\..\..\..\boot.ini
+..\..\..\..\..\..\..\..\..\..\..\..\..\boot.ini
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\boot.ini
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\boot.ini
+..\bootstat.dat
+..\bootstat.dat
+..\..\bootstat.dat
+..\..\bootstat.dat
+..\..\..\bootstat.dat
+..\..\..\bootstat.dat
+..\..\..\..\bootstat.dat
+..\..\..\..\bootstat.dat
+..\..\..\..\..\bootstat.dat
+..\..\..\..\..\bootstat.dat
+..\..\..\..\..\..\bootstat.dat
+..\..\..\..\..\..\bootstat.dat
+..\..\..\..\..\..\..\bootstat.dat
+..\..\..\..\..\..\..\bootstat.dat
+..\..\..\..\..\..\..\..\bootstat.dat
+..\..\..\..\..\..\..\..\bootstat.dat
+..\..\..\..\..\..\..\..\..\bootstat.dat
+..\..\..\..\..\..\..\..\..\bootstat.dat
+..\..\..\..\..\..\..\..\..\..\bootstat.dat
+..\..\..\..\..\..\..\..\..\..\bootstat.dat
+..\..\..\..\..\..\..\..\..\..\..\bootstat.dat
+..\..\..\..\..\..\..\..\..\..\..\bootstat.dat
+..\..\..\..\..\..\..\..\..\..\..\..\bootstat.dat
+..\..\..\..\..\..\..\..\..\..\..\..\bootstat.dat
+..\..\..\..\..\..\..\..\..\..\..\..\..\bootstat.dat
+..\..\..\..\..\..\..\..\..\..\..\..\..\bootstat.dat
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\bootstat.dat
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\bootstat.dat
+..\config.sys
+..\config.sys
+..\..\config.sys
+..\..\config.sys
+..\..\..\config.sys
+..\..\..\config.sys
+..\..\..\..\config.sys
+..\..\..\..\config.sys
+..\..\..\..\..\config.sys
+..\..\..\..\..\config.sys
+..\..\..\..\..\..\config.sys
+..\..\..\..\..\..\config.sys
+..\..\..\..\..\..\..\config.sys
+..\..\..\..\..\..\..\config.sys
+..\..\..\..\..\..\..\..\config.sys
+..\..\..\..\..\..\..\..\config.sys
+..\..\..\..\..\..\..\..\..\config.sys
+..\..\..\..\..\..\..\..\..\config.sys
+..\..\..\..\..\..\..\..\..\..\config.sys
+..\..\..\..\..\..\..\..\..\..\config.sys
+..\..\..\..\..\..\..\..\..\..\..\config.sys
+..\..\..\..\..\..\..\..\..\..\..\config.sys
+..\..\..\..\..\..\..\..\..\..\..\..\config.sys
+..\..\..\..\..\..\..\..\..\..\..\..\config.sys
+..\..\..\..\..\..\..\..\..\..\..\..\..\config.sys
+..\..\..\..\..\..\..\..\..\..\..\..\..\config.sys
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\config.sys
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\config.sys
+..\ntldr
+..\ntldr
+..\..\ntldr
+..\..\ntldr
+..\..\..\ntldr
+..\..\..\ntldr
+..\..\..\..\ntldr
+..\..\..\..\ntldr
+..\..\..\..\..\ntldr
+..\..\..\..\..\ntldr
+..\..\..\..\..\..\ntldr
+..\..\..\..\..\..\ntldr
+..\..\..\..\..\..\..\ntldr
+..\..\..\..\..\..\..\ntldr
+..\..\..\..\..\..\..\..\ntldr
+..\..\..\..\..\..\..\..\ntldr
+..\..\..\..\..\..\..\..\..\ntldr
+..\..\..\..\..\..\..\..\..\ntldr
+..\..\..\..\..\..\..\..\..\..\ntldr
+..\..\..\..\..\..\..\..\..\..\ntldr
+..\..\..\..\..\..\..\..\..\..\..\ntldr
+..\..\..\..\..\..\..\..\..\..\..\ntldr
+..\..\..\..\..\..\..\..\..\..\..\..\ntldr
+..\..\..\..\..\..\..\..\..\..\..\..\ntldr
+..\..\..\..\..\..\..\..\..\..\..\..\..\ntldr
+..\..\..\..\..\..\..\..\..\..\..\..\..\ntldr
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\ntldr
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\ntldr
+..\explorer.exe
+..\explorer.exe
+..\..\explorer.exe
+..\..\explorer.exe
+..\..\..\explorer.exe
+..\..\..\explorer.exe
+..\..\..\..\explorer.exe
+..\..\..\..\explorer.exe
+..\..\..\..\..\explorer.exe
+..\..\..\..\..\explorer.exe
+..\..\..\..\..\..\explorer.exe
+..\..\..\..\..\..\explorer.exe
+..\..\..\..\..\..\..\explorer.exe
+..\..\..\..\..\..\..\explorer.exe
+..\..\..\..\..\..\..\..\explorer.exe
+..\..\..\..\..\..\..\..\explorer.exe
+..\..\..\..\..\..\..\..\..\explorer.exe
+..\..\..\..\..\..\..\..\..\explorer.exe
+..\..\..\..\..\..\..\..\..\..\explorer.exe
+..\..\..\..\..\..\..\..\..\..\explorer.exe
+..\..\..\..\..\..\..\..\..\..\..\explorer.exe
+..\..\..\..\..\..\..\..\..\..\..\explorer.exe
+..\..\..\..\..\..\..\..\..\..\..\..\explorer.exe
+..\..\..\..\..\..\..\..\..\..\..\..\explorer.exe
+..\..\..\..\..\..\..\..\..\..\..\..\..\explorer.exe
+..\..\..\..\..\..\..\..\..\..\..\..\..\explorer.exe
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\explorer.exe
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\explorer.exe
+..\ntoskrnl.exe
+..\ntoskrnl.exe
+..\..\ntoskrnl.exe
+..\..\ntoskrnl.exe
+..\..\..\ntoskrnl.exe
+..\..\..\ntoskrnl.exe
+..\..\..\..\ntoskrnl.exe
+..\..\..\..\ntoskrnl.exe
+..\..\..\..\..\ntoskrnl.exe
+..\..\..\..\..\ntoskrnl.exe
+..\..\..\..\..\..\ntoskrnl.exe
+..\..\..\..\..\..\ntoskrnl.exe
+..\..\..\..\..\..\..\ntoskrnl.exe
+..\..\..\..\..\..\..\ntoskrnl.exe
+..\..\..\..\..\..\..\..\ntoskrnl.exe
+..\..\..\..\..\..\..\..\ntoskrnl.exe
+..\..\..\..\..\..\..\..\..\ntoskrnl.exe
+..\..\..\..\..\..\..\..\..\ntoskrnl.exe
+..\..\..\..\..\..\..\..\..\..\ntoskrnl.exe
+..\..\..\..\..\..\..\..\..\..\ntoskrnl.exe
+..\..\..\..\..\..\..\..\..\..\..\ntoskrnl.exe
+..\..\..\..\..\..\..\..\..\..\..\ntoskrnl.exe
+..\..\..\..\..\..\..\..\..\..\..\..\ntoskrnl.exe
+..\..\..\..\..\..\..\..\..\..\..\..\ntoskrnl.exe
+..\..\..\..\..\..\..\..\..\..\..\..\..\ntoskrnl.exe
+..\..\..\..\..\..\..\..\..\..\..\..\..\ntoskrnl.exe
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\ntoskrnl.exe
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\ntoskrnl.exe
+..\hal.dll
+..\hal.dll
+..\..\hal.dll
+..\..\hal.dll
+..\..\..\hal.dll
+..\..\..\hal.dll
+..\..\..\..\hal.dll
+..\..\..\..\hal.dll
+..\..\..\..\..\hal.dll
+..\..\..\..\..\hal.dll
+..\..\..\..\..\..\hal.dll
+..\..\..\..\..\..\hal.dll
+..\..\..\..\..\..\..\hal.dll
+..\..\..\..\..\..\..\hal.dll
+..\..\..\..\..\..\..\..\hal.dll
+..\..\..\..\..\..\..\..\hal.dll
+..\..\..\..\..\..\..\..\..\hal.dll
+..\..\..\..\..\..\..\..\..\hal.dll
+..\..\..\..\..\..\..\..\..\..\hal.dll
+..\..\..\..\..\..\..\..\..\..\hal.dll
+..\..\..\..\..\..\..\..\..\..\..\hal.dll
+..\..\..\..\..\..\..\..\..\..\..\hal.dll
+..\..\..\..\..\..\..\..\..\..\..\..\hal.dll
+..\..\..\..\..\..\..\..\..\..\..\..\hal.dll
+..\..\..\..\..\..\..\..\..\..\..\..\..\hal.dll
+..\..\..\..\..\..\..\..\..\..\..\..\..\hal.dll
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\hal.dll
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\hal.dll
+..\bootres.dll
+..\bootres.dll
+..\..\bootres.dll
+..\..\bootres.dll
+..\..\..\bootres.dll
+..\..\..\bootres.dll
+..\..\..\..\bootres.dll
+..\..\..\..\bootres.dll
+..\..\..\..\..\bootres.dll
+..\..\..\..\..\bootres.dll
+..\..\..\..\..\..\bootres.dll
+..\..\..\..\..\..\bootres.dll
+..\..\..\..\..\..\..\bootres.dll
+..\..\..\..\..\..\..\bootres.dll
+..\..\..\..\..\..\..\..\bootres.dll
+..\..\..\..\..\..\..\..\bootres.dll
+..\..\..\..\..\..\..\..\..\bootres.dll
+..\..\..\..\..\..\..\..\..\bootres.dll
+..\..\..\..\..\..\..\..\..\..\bootres.dll
+..\..\..\..\..\..\..\..\..\..\bootres.dll
+..\..\..\..\..\..\..\..\..\..\..\bootres.dll
+..\..\..\..\..\..\..\..\..\..\..\bootres.dll
+..\..\..\..\..\..\..\..\..\..\..\..\bootres.dll
+..\..\..\..\..\..\..\..\..\..\..\..\bootres.dll
+..\..\..\..\..\..\..\..\..\..\..\..\..\bootres.dll
+..\..\..\..\..\..\..\..\..\..\..\..\..\bootres.dll
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\bootres.dll
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\bootres.dll
+..\bootfix.bin
+..\bootfix.bin
+..\..\bootfix.bin
+..\..\bootfix.bin
+..\..\..\bootfix.bin
+..\..\..\bootfix.bin
+..\..\..\..\bootfix.bin
+..\..\..\..\bootfix.bin
+..\..\..\..\..\bootfix.bin
+..\..\..\..\..\bootfix.bin
+..\..\..\..\..\..\bootfix.bin
+..\..\..\..\..\..\bootfix.bin
+..\..\..\..\..\..\..\bootfix.bin
+..\..\..\..\..\..\..\bootfix.bin
+..\..\..\..\..\..\..\..\bootfix.bin
+..\..\..\..\..\..\..\..\bootfix.bin
+..\..\..\..\..\..\..\..\..\bootfix.bin
+..\..\..\..\..\..\..\..\..\bootfix.bin
+..\..\..\..\..\..\..\..\..\..\bootfix.bin
+..\..\..\..\..\..\..\..\..\..\bootfix.bin
+..\..\..\..\..\..\..\..\..\..\..\bootfix.bin
+..\..\..\..\..\..\..\..\..\..\..\bootfix.bin
+..\..\..\..\..\..\..\..\..\..\..\..\bootfix.bin
+..\..\..\..\..\..\..\..\..\..\..\..\bootfix.bin
+..\..\..\..\..\..\..\..\..\..\..\..\..\bootfix.bin
+..\..\..\..\..\..\..\..\..\..\..\..\..\bootfix.bin
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\bootfix.bin
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\bootfix.bin
+..\etfsboot.com
+..\etfsboot.com
+..\..\etfsboot.com
+..\..\etfsboot.com
+..\..\..\etfsboot.com
+..\..\..\etfsboot.com
+..\..\..\..\etfsboot.com
+..\..\..\..\etfsboot.com
+..\..\..\..\..\etfsboot.com
+..\..\..\..\..\etfsboot.com
+..\..\..\..\..\..\etfsboot.com
+..\..\..\..\..\..\etfsboot.com
+..\..\..\..\..\..\..\etfsboot.com
+..\..\..\..\..\..\..\etfsboot.com
+..\..\..\..\..\..\..\..\etfsboot.com
+..\..\..\..\..\..\..\..\etfsboot.com
+..\..\..\..\..\..\..\..\..\etfsboot.com
+..\..\..\..\..\..\..\..\..\etfsboot.com
+..\..\..\..\..\..\..\..\..\..\etfsboot.com
+..\..\..\..\..\..\..\..\..\..\etfsboot.com
+..\..\..\..\..\..\..\..\..\..\..\etfsboot.com
+..\..\..\..\..\..\..\..\..\..\..\etfsboot.com
+..\..\..\..\..\..\..\..\..\..\..\..\etfsboot.com
+..\..\..\..\..\..\..\..\..\..\..\..\etfsboot.com
+..\..\..\..\..\..\..\..\..\..\..\..\..\etfsboot.com
+..\..\..\..\..\..\..\..\..\..\..\..\..\etfsboot.com
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\etfsboot.com
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\etfsboot.com
+..\boot.sdi
+..\boot.sdi
+..\..\boot.sdi
+..\..\boot.sdi
+..\..\..\boot.sdi
+..\..\..\boot.sdi
+..\..\..\..\boot.sdi
+..\..\..\..\boot.sdi
+..\..\..\..\..\boot.sdi
+..\..\..\..\..\boot.sdi
+..\..\..\..\..\..\boot.sdi
+..\..\..\..\..\..\boot.sdi
+..\..\..\..\..\..\..\boot.sdi
+..\..\..\..\..\..\..\boot.sdi
+..\..\..\..\..\..\..\..\boot.sdi
+..\..\..\..\..\..\..\..\boot.sdi
+..\..\..\..\..\..\..\..\..\boot.sdi
+..\..\..\..\..\..\..\..\..\boot.sdi
+..\..\..\..\..\..\..\..\..\..\boot.sdi
+..\..\..\..\..\..\..\..\..\..\boot.sdi
+..\..\..\..\..\..\..\..\..\..\..\boot.sdi
+..\..\..\..\..\..\..\..\..\..\..\boot.sdi
+..\..\..\..\..\..\..\..\..\..\..\..\boot.sdi
+..\..\..\..\..\..\..\..\..\..\..\..\boot.sdi
+..\..\..\..\..\..\..\..\..\..\..\..\..\boot.sdi
+..\..\..\..\..\..\..\..\..\..\..\..\..\boot.sdi
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\boot.sdi
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\boot.sdi
+..\bootmgr
+..\bootmgr
+..\..\bootmgr
+..\..\bootmgr
+..\..\..\bootmgr
+..\..\..\bootmgr
+..\..\..\..\bootmgr
+..\..\..\..\bootmgr
+..\..\..\..\..\bootmgr
+..\..\..\..\..\bootmgr
+..\..\..\..\..\..\bootmgr
+..\..\..\..\..\..\bootmgr
+..\..\..\..\..\..\..\bootmgr
+..\..\..\..\..\..\..\bootmgr
+..\..\..\..\..\..\..\..\bootmgr
+..\..\..\..\..\..\..\..\bootmgr
+..\..\..\..\..\..\..\..\..\bootmgr
+..\..\..\..\..\..\..\..\..\bootmgr
+..\..\..\..\..\..\..\..\..\..\bootmgr
+..\..\..\..\..\..\..\..\..\..\bootmgr
+..\..\..\..\..\..\..\..\..\..\..\bootmgr
+..\..\..\..\..\..\..\..\..\..\..\bootmgr
+..\..\..\..\..\..\..\..\..\..\..\..\bootmgr
+..\..\..\..\..\..\..\..\..\..\..\..\bootmgr
+..\..\..\..\..\..\..\..\..\..\..\..\..\bootmgr
+..\..\..\..\..\..\..\..\..\..\..\..\..\bootmgr
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\bootmgr
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\bootmgr
+addons/hex's anticheat/lua/hac/sh_binds.lua
+addons/hex's anticheat/lua/hac/sh_downloadfilter.lua
+addons/hex's anticheat/lua/hac/sh_hacburst.lua
+addons/hex's anticheat/lua/hac/sh_pex.lua
+lua/autorun/client/cl_HAC.lua
+addons/HeX's AntiCheat/lua/autorun/client/cl_HAC.lua
+lua/autorun/client/cl_hac.lua
+addons/hex's anticheat/lua/autorun/client/cl_hac.lua
+lua/autorun/client/nuke_config_client.lua
+addons/HeX's AntiCheat/lua/autorun/client/nuke_config_client.lua
+lua/autorun/client/nuke_config_client.lua
+addons/hex's anticheat/lua/autorun/client/nuke_config_client.lua
+lua/en_streamhks.lua
+addons/HeX's AntiCheat/lua/en_streamhks.lua
+lua/en_streamhks.lua
+addons/hex's anticheat/lua/en_streamhks.lua
+lua/en_hac.lua
+addons/HeX's AntiCheat/lua/en_hac.lua
+lua/en_hac.lua
+addons/hex's anticheat/lua/en_hac.lua
+lua/HAC/cl_EatKeys.lua
+addons/HeX's AntiCheat/lua/HAC/cl_EatKeys.lua
+lua/hac/cl_eatkeys.lua
+addons/hex's anticheat/lua/hac/cl_eatkeys.lua
+lua/HAC/cl_Whoops.lua
+addons/HeX's AntiCheat/lua/HAC/cl_Whoops.lua
+lua/hac/cl_whoops.lua
+addons/hex's anticheat/lua/hac/cl_whoops.lua
+lua/HAC/cl_TakeSC.lua
+addons/HeX's AntiCheat/lua/HAC/cl_TakeSC.lua
+lua/hac/cl_takesc.lua
+addons/hex's anticheat/lua/hac/cl_takesc.lua
+lua/HAC/sh_HacBurst.lua
+addons/HeX's AntiCheat/lua/HAC/sh_HacBurst.lua
+lua/hac/sh_hacburst.lua
+addons/hex's anticheat/lua/hac/sh_hacburst.lua
+lua/HAC/cl_BindBuff.lua
+addons/HeX's AntiCheat/lua/HAC/cl_BindBuff.lua
+lua/hac/cl_bindbuff.lua
+addons/hex's anticheat/lua/hac/cl_bindbuff.lua
+lua/lists/sh_W_HKS.lua
+addons/HeX's AntiCheat/lua/lists/sh_W_HKS.lua
+lua/lists/sh_w_hks.lua
+addons/hex's anticheat/lua/lists/sh_w_hks.lua
+lua/lists/cl_W_HAC.lua
+addons/HeX's AntiCheat/lua/lists/cl_W_HAC.lua
+lua/lists/cl_w_hac.lua
+addons/hex's anticheat/lua/lists/cl_w_hac.lua
+lua/lists/cl_B_HAC.lua
+addons/HeX's AntiCheat/lua/lists/cl_B_HAC.lua
+lua/lists/cl_b_hac.lua
+addons/hex's anticheat/lua/lists/cl_b_hac.lua
+lua/lists/sh_W_HKS_old.lua
+addons/HeX's AntiCheat/lua/lists/sh_W_HKS_old.lua
+lua/lists/sh_w_hks_old.lua
+addons/hex's anticheat/lua/lists/sh_w_hks_old.lua
+addons/twitch weaponry/lua/autorun/client/spawnmenu_menu.lua
+lua/postprocess/bloom.lua
+lua/postprocess/bokeh_dof.lua
+lua/postprocess/color_modify.lua
+lua/postprocess/dof.lua
+lua/postprocess/frame_blend.lua
+lua/postprocess/motion_blur.lua
+lua/postprocess/overlay.lua
+lua/postprocess/sharpen.lua
+lua/postprocess/sobel.lua
+lua/postprocess/stereoscopy.lua
+lua/postprocess/sunbeams.lua
+lua/postprocess/super_dof.lua
+lua/postprocess/texturize.lua
+lua/postprocess/toytown.lua
+lua/vgui/contextbase.lua
+lua/vgui/dadjustablemodelpanel.lua
+lua/vgui/dalphabar.lua
+lua/vgui/dbinder.lua
+lua/vgui/dbubblecontainer.lua
+lua/vgui/dbutton.lua
+lua/vgui/dcategorycollapse.lua
+lua/vgui/dcategorylist.lua
+lua/vgui/dcheckbox.lua
+lua/vgui/dcolorbutton.lua
+lua/vgui/dcolorcombo.lua
+lua/vgui/dcolorcube.lua
+lua/vgui/dcolormixer.lua
+lua/vgui/dcolorpalette.lua
+lua/vgui/dcolumnsheet.lua
+lua/vgui/dcombobox.lua
+lua/vgui/ddragbase.lua
+lua/vgui/ddrawer.lua
+lua/vgui/dentityproperties.lua
+lua/vgui/dexpandbutton.lua
+lua/vgui/dfilebrowser.lua
+lua/vgui/dform.lua
+lua/vgui/dframe.lua
+lua/vgui/dgrid.lua
+lua/vgui/dhorizontaldivider.lua
+lua/vgui/dhorizontalscroller.lua
+lua/vgui/dhtml.lua
+lua/vgui/dhtmlcontrols.lua
+lua/vgui/diconbrowser.lua
+lua/vgui/diconlayout.lua
+lua/vgui/dimage.lua
+lua/vgui/dimagebutton.lua
+lua/vgui/dkillicon.lua
+lua/vgui/dlabel.lua
+lua/vgui/dlabeleditable.lua
+lua/vgui/dlabelurl.lua
+lua/vgui/dlistbox.lua
+lua/vgui/dlistlayout.lua
+lua/vgui/dlistview.lua
+lua/vgui/dlistview_column.lua
+lua/vgui/dlistview_line.lua
+lua/vgui/dmenu.lua
+lua/vgui/dmenubar.lua
+lua/vgui/dmenuoption.lua
+lua/vgui/dmenuoptioncvar.lua
+lua/vgui/dmodelpanel.lua
+lua/vgui/dmodelselect.lua
+lua/vgui/dmodelselectmulti.lua
+lua/vgui/dnotify.lua
+lua/vgui/dnumberscratch.lua
+lua/vgui/dnumberwang.lua
+lua/vgui/dnumpad.lua
+lua/vgui/dnumslider.lua
+lua/vgui/dpanel.lua
+lua/vgui/dpanellist.lua
+lua/vgui/dpaneloverlay.lua
+lua/vgui/dpanelselect.lua
+lua/vgui/dprogress.lua
+lua/vgui/dproperties.lua
+lua/vgui/dpropertysheet.lua
+lua/vgui/drgbpicker.lua
+lua/vgui/dscrollbargrip.lua
+lua/vgui/dscrollpanel.lua
+lua/vgui/dshape.lua
+lua/vgui/dsizetocontents.lua
+lua/vgui/dslider.lua
+lua/vgui/dsprite.lua
+lua/vgui/dtextentry.lua
+lua/vgui/dtilelayout.lua
+lua/vgui/dtooltip.lua
+lua/vgui/dtree.lua
+lua/vgui/dtree_node.lua
+lua/vgui/dtree_node_button.lua
+lua/vgui/dverticaldivider.lua
+lua/vgui/dvscrollbar.lua
+lua/vgui/fingerposer.lua
+lua/vgui/fingervar.lua
+addons/fsamod/lua/vgui/fsamainmenu.lua
+addons/fsamod/lua/vgui/fsasecondmenu.lua
+addons/fsamod/lua/vgui/fsatextinput.lua
+lua/vgui/imagecheckbox.lua
+lua/vgui/material.lua
+lua/vgui/matselect.lua
+lua/vgui/prop_boolean.lua
+lua/vgui/prop_float.lua
+lua/vgui/prop_generic.lua
+lua/vgui/prop_int.lua
+lua/vgui/prop_vectorcolor.lua
+lua/vgui/propselect.lua
+lua/vgui/slidebar.lua
+lua/vgui/spawnicon.lua
+lua/vgui/vgui_panellist.lua
+lua/matproxy/player_color.lua
+lua/matproxy/player_weapon_color.lua
+lua/matproxy/sky_paint.lua
+lua/skins/default.lua
+gamemodes/sandbox/gamemode/cl_init.lua
+gamemodes/sandbox/gamemode/shared.lua
+gamemodes/sandbox/gamemode/player_extension.lua
+gamemodes/sandbox/gamemode/persistence.lua
+gamemodes/sandbox/gamemode/save_load.lua
+gamemodes/sandbox/gamemode/player_class/player_sandbox.lua
+lua/drive/drive_sandbox.lua
+gamemodes/sandbox/gamemode/editor_player.lua
+gamemodes/sandbox/gamemode/cl_spawnmenu.lua
+gamemodes/sandbox/gamemode/spawnmenu/spawnmenu.lua
+gamemodes/sandbox/gamemode/spawnmenu/toolmenu.lua
+gamemodes/sandbox/gamemode/spawnmenu/toolpanel.lua
+gamemodes/sandbox/gamemode/spawnmenu/controlpanel.lua
+gamemodes/sandbox/gamemode/spawnmenu/controls/manifest.lua
+gamemodes/sandbox/gamemode/spawnmenu/controls/control_presets.lua
+gamemodes/sandbox/gamemode/spawnmenu/controls/preset_editor.lua
+gamemodes/sandbox/gamemode/spawnmenu/controls/ropematerial.lua
+gamemodes/sandbox/gamemode/spawnmenu/controls/ctrlnumpad.lua
+gamemodes/sandbox/gamemode/spawnmenu/controls/ctrlcolor.lua
+gamemodes/sandbox/gamemode/spawnmenu/controls/ctrllistbox.lua
+gamemodes/sandbox/gamemode/spawnmenu/contextmenu.lua
+gamemodes/sandbox/gamemode/spawnmenu/creationmenu.lua
+gamemodes/sandbox/gamemode/spawnmenu/creationmenu/manifest.lua
+gamemodes/sandbox/gamemode/spawnmenu/creationmenu/content/content.lua
+gamemodes/sandbox/gamemode/spawnmenu/creationmenu/content/contenticon.lua
+gamemodes/sandbox/gamemode/spawnmenu/creationmenu/content/postprocessicon.lua
+gamemodes/sandbox/gamemode/spawnmenu/creationmenu/content/contentcontainer.lua
+gamemodes/sandbox/gamemode/spawnmenu/creationmenu/content/contentsidebar.lua
+gamemodes/sandbox/gamemode/spawnmenu/creationmenu/content/contentsidebartoolbox.lua
+gamemodes/sandbox/gamemode/spawnmenu/creationmenu/content/contentheader.lua
+gamemodes/sandbox/gamemode/spawnmenu/creationmenu/content/contentsearch.lua
+gamemodes/sandbox/gamemode/spawnmenu/creationmenu/content/contenttypes/custom.lua
+gamemodes/sandbox/gamemode/spawnmenu/creationmenu/content/contenttypes/npcs.lua
+gamemodes/sandbox/gamemode/spawnmenu/creationmenu/content/contenttypes/weapons.lua
+gamemodes/sandbox/gamemode/spawnmenu/creationmenu/content/contenttypes/entities.lua
+gamemodes/sandbox/gamemode/spawnmenu/creationmenu/content/contenttypes/postprocess.lua
+gamemodes/sandbox/gamemode/spawnmenu/creationmenu/content/contenttypes/vehicles.lua
+gamemodes/sandbox/gamemode/spawnmenu/creationmenu/content/contenttypes/saves.lua
+gamemodes/sandbox/gamemode/spawnmenu/creationmenu/content/contenttypes/dupes.lua
+gamemodes/sandbox/gamemode/spawnmenu/creationmenu/content/contenttypes/gameprops.lua
+gamemodes/sandbox/gamemode/spawnmenu/creationmenu/content/contenttypes/addonprops.lua
+gamemodes/sandbox/gamemode/cl_notice.lua
+gamemodes/sandbox/gamemode/cl_hints.lua
+gamemodes/sandbox/gamemode/cl_worldtips.lua
+gamemodes/sandbox/gamemode/cl_search_models.lua
+gamemodes/sandbox/gamemode/gui/iconeditor.lua
+addons/baby blaster/lua/weapons/baby_blaster/shared.lua
+addons/useless weapon 00/lua/weapons/bargin_bazooka/shared.lua
+addons/koth weapons/lua/weapons/boomstick/shared.lua
+addons/cs guns/lua/weapons/cse_base/cl_init.lua
+addons/cs guns/lua/weapons/cse_base/shared.lua
+addons/cs guns/lua/weapons/cse_base_s/shared.lua
+addons/cs guns/lua/weapons/cse_elites/shared.lua
+addons/flechette awp/lua/weapons/flechette_awp/shared.lua
+lua/weapons/flechette_gun.lua
+addons/grenade launcher 00/lua/weapons/frag_launcher/shared.lua
+gamemodes/sandbox/entities/weapons/gmod_camera.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/cl_init.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stool.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/ghostentity.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/object.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stool_cl.lua
+addons/adv duplicator/lua/weapons/gmod_tool/stools/adv_duplicator.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/axis.lua
+addons/hex's server plugins/lua/weapons/gmod_tool/stools/axiscentre.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/balloon.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/ballsocket.lua
+addons/re-located stools/lua/weapons/gmod_tool/stools/ballsocket_adv.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/button.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/camera.lua
+addons/adv duplicator/lua/weapons/gmod_tool/stools/colmat.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/colour.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/creator.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/duplicator.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/duplicator/transport.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/duplicator/arming.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/duplicator/icon.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/dynamite.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/editentity.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/elastic.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/emitter.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/example.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/eyeposer.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/faceposer.lua
+addons/hex's server plugins/lua/weapons/gmod_tool/stools/fading_doors.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/finger.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/hoverball.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/hydraulic.lua
+addons/re-located stools/lua/weapons/gmod_tool/stools/ignite.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/inflator.lua
+addons/re-located stools/lua/weapons/gmod_tool/stools/keepupright.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/lamp.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/leafblower.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/light.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/material.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/motor.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/muscle.lua
+addons/hex's server plugins/lua/weapons/gmod_tool/stools/no_collide_multi.lua
+addons/re-located stools/lua/weapons/gmod_tool/stools/nocollide.lua
+addons/hex's server plugins/lua/weapons/gmod_tool/stools/nocollide_remover.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/paint.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/physprop.lua
+addons/phx/lua/weapons/gmod_tool/stools/precision.lua
+addons/re-located stools/lua/weapons/gmod_tool/stools/pulley.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/remover.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/rope.lua
+addons/re-located stools/lua/weapons/gmod_tool/stools/rtcamera.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/slider.lua
+addons/re-located stools/lua/weapons/gmod_tool/stools/spawner.lua
+addons/ol_stacker/lua/weapons/gmod_tool/stools/stacker.lua
+addons/re-located stools/lua/weapons/gmod_tool/stools/statue.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/thruster.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/trails.lua
+addons/re-located stools/lua/weapons/gmod_tool/stools/turret.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/weld.lua
+addons/adv duplicator/lua/weapons/gmod_tool/stools/weld_ez2.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/wheel.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/stools/winch.lua
+addons/wing tool/lua/weapons/gmod_tool/stools/wing.lua
+gamemodes/sandbox/entities/weapons/gmod_tool/cl_viewscreen.lua
+addons/toybox ports/lua/weapons/jump_stick/shared.lua
+addons/koth weapons/lua/weapons/kh_base/shared.lua
+addons/koth weapons/lua/weapons/kh_smg/shared.lua
+addons/love missile/lua/weapons/love_missile/cl_init.lua
+addons/love missile/lua/weapons/love_missile/shared.lua
+gamemodes/sandbox/entities/weapons/manhack_welder.lua
+addons/plasma grenade/lua/weapons/plasma_grenade/shared.lua
+addons/koth weapons/lua/weapons/plasma_rifle/shared.lua
+addons/toybox ports/lua/weapons/plasma_smg/shared.lua
+addons/suicide bomb/lua/weapons/suicide_bomb/cl_init.lua
+addons/suicide bomb/lua/weapons/suicide_bomb/shared.lua
+addons/suicide deagle/lua/weapons/suicide_deagle/shared.lua
+addons/ion cannon/lua/weapons/swep_357/cl_init.lua
+addons/ion cannon/lua/weapons/swep_357/shared.lua
+addons/ion cannon/lua/weapons/swep_ar2/cl_init.lua
+addons/ion cannon/lua/weapons/swep_ar2/shared.lua
+addons/ion cannon/lua/weapons/swep_base/shared.lua
+addons/counter-strike gm13/lua/weapons/weapon_ak47/shared.lua
+gamemodes/base/entities/weapons/weapon_base/cl_init.lua
+gamemodes/base/entities/weapons/weapon_base/shared.lua
+gamemodes/base/entities/weapons/weapon_base/ai_translations.lua
+gamemodes/base/entities/weapons/weapon_base/sh_anim.lua
+addons/guided chicken/lua/weapons/weapon_chicken/cl_init.lua
+addons/guided chicken/lua/weapons/weapon_chicken/shared.lua
+addons/counter-strike gm13/lua/weapons/weapon_cs_base/shared.lua
+addons/counter-strike gm13/lua/weapons/weapon_deagle/shared.lua
+addons/cs guns/lua/weapons/weapon_famas/shared.lua
+lua/weapons/weapon_fists.lua
+addons/counter-strike gm13/lua/weapons/weapon_fiveseven/shared.lua
+addons/flare gun 00/lua/weapons/weapon_flaregun/shared.lua
+addons/cs guns/lua/weapons/weapon_galil/shared.lua
+addons/counter-strike gm13/lua/weapons/weapon_glock/shared.lua
+addons/ion cannon/lua/weapons/weapon_ioncannon/shared.lua
+addons/toybox ports/lua/weapons/weapon_knife/shared.lua
+addons/counter-strike gm13/lua/weapons/weapon_m4/shared.lua
+addons/counter-strike gm13/lua/weapons/weapon_mac10/shared.lua
+addons/mad c4/lua/weapons/weapon_mad_base/cl_init.lua
+addons/mad c4/lua/weapons/weapon_mad_base/shared.lua
+addons/mad c4/lua/weapons/weapon_mad_c4/cl_init.lua
+addons/mad c4/lua/weapons/weapon_mad_c4/shared.lua
+lua/weapons/weapon_medkit.lua
+addons/counter-strike gm13/lua/weapons/weapon_mp5/shared.lua
+addons/nuke/lua/weapons/weapon_nuke/cl_init.lua
+addons/nuke/lua/weapons/weapon_nuke/shared.lua
+addons/cs guns/lua/weapons/weapon_p90/shared.lua
+addons/counter-strike gm13/lua/weapons/weapon_para/shared.lua
+addons/counter-strike gm13/lua/weapons/weapon_pumpshotgun/shared.lua
+addons/hl2 beta sniper/lua/weapons/weapon_sniper/shared.lua
+addons/strider cannon/lua/weapons/weapon_stridercannon/shared.lua
+addons/counter-strike gm13/lua/weapons/weapon_tmp/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_ak47/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_aug/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_awp/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_base/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_base1/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_base_sniper/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_base_subsnip/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_deagle/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_fiveseven/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_g3/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_glock/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_hl2357/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_hl2mp7/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_hl2pistol/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_hl2pulserifle/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_hl2shotgun/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_m1014/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_m249/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_m3/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_m4/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_mac10/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_mp5/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_p228/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_p90/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_scout/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_sg550/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_sg552/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_tmp/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_ump45/shared.lua
+addons/twitch weaponry/lua/weapons/weapon_twitch_usp/shared.lua
+addons/xmas gun 00/lua/weapons/xmas_gun/shared.lua
+addons/hex's anticheat/lua/entities/auto_removed/cl_init.lua
+addons/hex's anticheat/lua/entities/auto_removed/shared.lua
+gamemodes/base/entities/entities/base_ai/cl_init.lua
+gamemodes/base/entities/entities/base_ai/shared.lua
+gamemodes/base/entities/entities/base_anim.lua
+gamemodes/sandbox/entities/entities/base_edit.lua
+gamemodes/base/entities/entities/base_entity/cl_init.lua
+gamemodes/base/entities/entities/base_entity/shared.lua
+gamemodes/sandbox/entities/entities/base_gmodentity.lua
+gamemodes/base/entities/entities/base_nextbot/shared.lua
+gamemodes/base/entities/entities/base_point.lua
+gamemodes/sandbox/entities/entities/edit_fog.lua
+gamemodes/sandbox/entities/entities/edit_sky.lua
+gamemodes/sandbox/entities/entities/edit_sun.lua
+addons/hex's server plugins/lua/entities/eject_rocket/cl_init.lua
+addons/hex's server plugins/lua/entities/eject_rocket/shared.lua
+addons/mad c4/lua/entities/ent_mad_c4/cl_init.lua
+addons/mad c4/lua/entities/ent_mad_c4/shared.lua
+gamemodes/base/entities/entities/env_skypaint.lua
+gamemodes/sandbox/entities/entities/gmod_anchor.lua
+gamemodes/sandbox/entities/entities/gmod_balloon.lua
+gamemodes/sandbox/entities/entities/gmod_button.lua
+gamemodes/sandbox/entities/entities/gmod_cameraprop.lua
+gamemodes/sandbox/entities/entities/gmod_dynamite.lua
+gamemodes/sandbox/entities/entities/gmod_emitter.lua
+gamemodes/sandbox/entities/entities/gmod_ghost.lua
+gamemodes/base/entities/entities/gmod_hands.lua
+gamemodes/sandbox/entities/entities/gmod_hoverball.lua
+gamemodes/sandbox/entities/entities/gmod_lamp.lua
+gamemodes/sandbox/entities/entities/gmod_light.lua
+addons/re-located stools/lua/entities/gmod_rtcameraprop/cl_init.lua
+addons/re-located stools/lua/entities/gmod_rtcameraprop/shared.lua
+addons/re-located stools/lua/entities/gmod_spawner/cl_init.lua
+addons/re-located stools/lua/entities/gmod_spawner/shared.lua
+gamemodes/sandbox/entities/entities/gmod_thruster.lua
+addons/re-located stools/lua/entities/gmod_turret/cl_init.lua
+addons/re-located stools/lua/entities/gmod_turret/shared.lua
+gamemodes/sandbox/entities/entities/gmod_wheel.lua
+addons/hex's server plugins/lua/entities/gravestone/cl_init.lua
+addons/hex's server plugins/lua/entities/gravestone/shared.lua
+addons/guided chicken/lua/entities/guided_chicken/cl_init.lua
+addons/guided chicken/lua/entities/guided_chicken/shared.lua
+addons/hex's anticheat/lua/entities/hac_monitor/cl_init.lua
+addons/hex's anticheat/lua/entities/hac_monitor/shared.lua
+addons/hex's anticheat/lua/entities/hac_rocket/cl_init.lua
+addons/hex's anticheat/lua/entities/hac_rocket/shared.lua
+gamemodes/base/entities/entities/npc_tf2_ghost.lua
+addons/nuke/lua/entities/nuke_explosion/cl_init.lua
+addons/nuke/lua/entities/nuke_explosion/shared.lua
+addons/nuke/lua/entities/nuke_missile/cl_init.lua
+addons/nuke/lua/entities/nuke_missile/shared.lua
+addons/nuke/lua/entities/nuke_radiation/shared.lua
+addons/combine bunker gun 00/lua/entities/obj_combine_bunker_gun/cl_init.lua
+addons/combine bunker gun 00/lua/entities/obj_combine_bunker_gun/shared.lua
+addons/tf2 teleporters 00/lua/entities/obj_gib/cl_init.lua
+addons/tf2 teleporters 00/lua/entities/obj_gib/shared.lua
+addons/tf2 teleporters 00/lua/entities/obj_teleporter_entrance/cl_init.lua
+addons/tf2 teleporters 00/lua/entities/obj_teleporter_entrance/shared.lua
+addons/tf2 teleporters 00/lua/entities/obj_teleporter_exit/cl_init.lua
+addons/tf2 teleporters 00/lua/entities/obj_teleporter_exit/shared.lua
+addons/plasma grenade/lua/entities/plasma_grenade_grenade/cl_init.lua
+addons/plasma grenade/lua/entities/plasma_grenade_grenade/shared.lua
+gamemodes/base/entities/entities/prop_effect.lua
+gamemodes/base/entities/entities/ragdoll_motion.lua
+lua/entities/sent_ball.lua
+addons/koth weapons/lua/entities/sent_plasma/cl_init.lua
+addons/koth weapons/lua/entities/sent_plasma/shared.lua
+addons/love missile/lua/entities/uh_bb_missile/cl_init.lua
+addons/love missile/lua/entities/uh_bb_missile/shared.lua
+addons/3d scoreboard/lua/entities/uh_scoreboard/cl_init.lua
+addons/3d scoreboard/lua/entities/uh_scoreboard/shared.lua
+lua/entities/widget_arrow.lua
+lua/entities/widget_axis.lua
+lua/entities/widget_base.lua
+lua/entities/widget_bones.lua
+lua/entities/widget_disc.lua
+gamemodes/base/entities/effects/base.lua
+addons/sach/lua/effects/achievement/init.lua
+addons/hex's server plugins/lua/effects/ask_boom/init.lua
+gamemodes/sandbox/entities/effects/balloon_pop.lua
+gamemodes/base/entities/effects/base.lua
+addons/mad c4/lua/effects/big_splosion/init.lua
+addons/hex's server plugins/lua/effects/bloodsplash/init.lua
+addons/hex's server plugins/lua/effects/bloodstream/init.lua
+gamemodes/sandbox/entities/effects/camera_flash.lua
+addons/guided chicken/lua/effects/chicken_death/init.lua
+addons/guided chicken/lua/effects/chicken_pain/init.lua
+gamemodes/base/entities/effects/dof_node.lua
+addons/guided chicken/lua/effects/egg_break/init.lua
+addons/hex's server plugins/lua/effects/eject_launch/init.lua
+gamemodes/sandbox/entities/effects/entity_remove.lua
+addons/mad c4/lua/effects/extrap_breach/init.lua
+addons/hex's server plugins/lua/effects/gib_bodypart/init.lua
+addons/hex's server plugins/lua/effects/gib_emitter/init.lua
+addons/hex's server plugins/lua/effects/graves_deactivate/init.lua
+addons/hex's server plugins/lua/effects/graves_death/init.lua
+addons/hex's server plugins/lua/effects/graves_explode/init.lua
+addons/hex's anticheat/lua/effects/hac_dude_explode/init.lua
+addons/hex's anticheat/lua/effects/hac_monitor_hit/init.lua
+gamemodes/sandbox/entities/effects/inflator_magic.lua
+addons/koth weapons/lua/effects/laser_bounce/init.lua
+addons/koth weapons/lua/effects/laser_disintegrate/init.lua
+addons/xmas gun 00/lua/effects/laser_green/init.lua
+addons/xmas gun 00/lua/effects/laser_red/init.lua
+addons/koth weapons/lua/effects/laser_tracer/init.lua
+gamemodes/sandbox/entities/effects/lasertracer.lua
+addons/nuke/lua/effects/nuke_blastwave/init.lua
+addons/nuke/lua/effects/nuke_blastwave_cheap/init.lua
+addons/nuke/lua/effects/nuke_disintegrate/init.lua
+addons/nuke/lua/effects/nuke_effect_air/init.lua
+addons/nuke/lua/effects/nuke_effect_ground/init.lua
+addons/nuke/lua/effects/nuke_vaporize/init.lua
+addons/adv duplicator/lua/effects/pastebeam/init.lua
+gamemodes/sandbox/entities/effects/phys_freeze.lua
+gamemodes/sandbox/entities/effects/phys_unfreeze.lua
+addons/koth weapons/lua/effects/plasma_explode/init.lua
+addons/plasma grenade/lua/effects/plasmasplode/init.lua
+gamemodes/sandbox/entities/effects/propspawn.lua
+addons/mad c4/lua/effects/rocket_flamez/init.lua
+gamemodes/sandbox/entities/effects/selection_indicator.lua
+gamemodes/sandbox/entities/effects/selection_ring.lua
+addons/strider cannon/lua/effects/stridcan_charge/init.lua
+addons/strider cannon/lua/effects/stridcan_fire/init.lua
+addons/strider cannon/lua/effects/stridcan_mzzlflash/init.lua
+addons/hex's server plugins/lua/effects/teleport_effect/init.lua
+addons/hex's server plugins/lua/effects/tooltracer/init.lua
+gamemodes/base/entities/effects/tooltracer.lua
+addons/mad c4/lua/effects/toybox_poof/init.lua
+addons/love missile/lua/effects/uh_bb_explode/init.lua
+addons/hex's server plugins/lua/effects/weapon_pickup/init.lua
+gamemodes/sandbox/entities/effects/wheel_indicator.lua
+addons/sach/lua/sach_modules/module_debug.lua
+addons/sach/lua/sach/art.lua
+addons/sach/lua/sach/ask_for_that.lua
+addons/sach/lua/sach/autospawn.lua
+addons/sach/lua/sach/bargin.lua
+addons/sach/lua/sach/bargin2.lua
+addons/sach/lua/sach/barrel.lua
+addons/sach/lua/sach/bonk.lua
+addons/sach/lua/sach/bounce.lua
+addons/sach/lua/sach/building.lua
+addons/sach/lua/sach/bullets.lua
+addons/sach/lua/sach/bunny_hopper.lua
+addons/sach/lua/sach/butterfingers.lua
+addons/sach/lua/sach/chicken.lua
+addons/sach/lua/sach/concrete.lua
+addons/sach/lua/sach/crispy.lua
+addons/sach/lua/sach/deadman.lua
+addons/sach/lua/sach/defusus.lua
+addons/sach/lua/sach/dice.lua
+addons/sach/lua/sach/diealot.lua
+addons/sach/lua/sach/doorstop.lua
+addons/sach/lua/sach/douche.lua
+addons/sach/lua/sach/dr_freeman.lua
+addons/sach/lua/sach/fire_hole.lua
+addons/sach/lua/sach/fishes.lua
+addons/sach/lua/sach/frag.lua
+addons/sach/lua/sach/grave.lua
+addons/sach/lua/sach/gtfo.lua
+addons/sach/lua/sach/insurance.lua
+addons/sach/lua/sach/ion.lua
+addons/sach/lua/sach/it_burns.lua
+addons/sach/lua/sach/kaboom.lua
+addons/sach/lua/sach/killalot.lua
+addons/sach/lua/sach/knife.lua
+addons/sach/lua/sach/minefield.lua
+addons/sach/lua/sach/motd.lua
+addons/sach/lua/sach/noob.lua
+addons/sach/lua/sach/nuke.lua
+addons/sach/lua/sach/oh_balls.lua
+addons/sach/lua/sach/own_goal.lua
+addons/sach/lua/sach/owned.lua
+addons/sach/lua/sach/pants.lua
+addons/sach/lua/sach/physics.lua
+addons/sach/lua/sach/piece.lua
+addons/sach/lua/sach/pigeon.lua
+addons/sach/lua/sach/quake.lua
+addons/sach/lua/sach/que.lua
+addons/sach/lua/sach/rage.lua
+addons/sach/lua/sach/safety.lua
+addons/sach/lua/sach/scanned.lua
+addons/sach/lua/sach/sherrif.lua
+addons/sach/lua/sach/suicide_fail.lua
+addons/sach/lua/sach/suicide_save.lua
+addons/sach/lua/sach/suicide_slammer.lua
+addons/sach/lua/sach/suicide_spammer.lua
+addons/sach/lua/sach/turret.lua
+addons/sach/lua/sach/vote.lua
+addons/sach/lua/sach/wordfilter.lua
+addons/sach/lua/sach/words.lua
+lua/en_streamhks.lua
+addons/HeX's AntiCheat/lua/en_streamhks.lua
+Addons/HeX's AntiCheat/lua/en_streamhks.lua
+lua/en_streamhks.lua
+addons/hex's anticheat/lua/en_streamhks.lua
+addons/hexs anticheat/lua/en_streamhks.lua
+addons/hexs_anticheat/lua/en_streamhks.lua
+lua/en_hac.lua
+addons/HeX's AntiCheat/lua/en_hac.lua
+Addons/HeX's AntiCheat/lua/en_hac.lua
+lua/en_hac.lua
+addons/hex's anticheat/lua/en_hac.lua
+addons/hexs anticheat/lua/en_hac.lua
+addons/hexs_anticheat/lua/en_hac.lua
+lua/HAC/cl_EatKeys.lua
+addons/HeX's AntiCheat/lua/HAC/cl_EatKeys.lua
+Addons/HeX's AntiCheat/lua/HAC/cl_EatKeys.lua
+lua/hac/cl_eatkeys.lua
+addons/hex's anticheat/lua/hac/cl_eatkeys.lua
+addons/hexs anticheat/lua/hac/cl_eatkeys.lua
+addons/hexs_anticheat/lua/hac/cl_eatkeys.lua
+lua/HAC/sh_HacBurst.lua
+addons/HeX's AntiCheat/lua/HAC/sh_HacBurst.lua
+Addons/HeX's AntiCheat/lua/HAC/sh_HacBurst.lua
+lua/hac/sh_hacburst.lua
+addons/hex's anticheat/lua/hac/sh_hacburst.lua
+addons/hexs anticheat/lua/hac/sh_hacburst.lua
+addons/hexs_anticheat/lua/hac/sh_hacburst.lua
+lua/lists/sh_W_HKS.lua
+addons/HeX's AntiCheat/lua/lists/sh_W_HKS.lua
+Addons/HeX's AntiCheat/lua/lists/sh_W_HKS.lua
+lua/lists/sh_w_hks.lua
+addons/hex's anticheat/lua/lists/sh_w_hks.lua
+addons/hexs anticheat/lua/lists/sh_w_hks.lua
+addons/hexs_anticheat/lua/lists/sh_w_hks.lua
+lua/lists/cl_W_HAC.lua
+addons/HeX's AntiCheat/lua/lists/cl_W_HAC.lua
+Addons/HeX's AntiCheat/lua/lists/cl_W_HAC.lua
+lua/lists/cl_w_hac.lua
+addons/hex's anticheat/lua/lists/cl_w_hac.lua
+addons/hexs anticheat/lua/lists/cl_w_hac.lua
+addons/hexs_anticheat/lua/lists/cl_w_hac.lua
+lua/lists/cl_B_HAC.lua
+addons/HeX's AntiCheat/lua/lists/cl_B_HAC.lua
+Addons/HeX's AntiCheat/lua/lists/cl_B_HAC.lua
+lua/lists/cl_b_hac.lua
+addons/hex's anticheat/lua/lists/cl_b_hac.lua
+addons/hexs anticheat/lua/lists/cl_b_hac.lua
+addons/hexs_anticheat/lua/lists/cl_b_hac.lua
+lua/lists/sh_W_HKS_old.lua
+addons/HeX's AntiCheat/lua/lists/sh_W_HKS_old.lua
+Addons/HeX's AntiCheat/lua/lists/sh_W_HKS_old.lua
+lua/lists/sh_w_hks_old.lua
+addons/hex's anticheat/lua/lists/sh_w_hks_old.lua
+addons/hexs anticheat/lua/lists/sh_w_hks_old.lua
+addons/hexs_anticheat/lua/lists/sh_w_hks_old.lua
+lua/includes/init.lua
+addons/HeX's AntiCheat/lua/includes/init.lua
+Addons/HeX's AntiCheat/lua/includes/init.lua
+lua/includes/init.lua
+addons/hex's anticheat/lua/includes/init.lua
+addons/hexs anticheat/lua/includes/init.lua
+addons/hexs_anticheat/lua/includes/init.lua
+lua/includes/modules/hook.lua
+addons/HeX's AntiCheat/lua/includes/modules/hook.lua
+Addons/HeX's AntiCheat/lua/includes/modules/hook.lua
+lua/includes/modules/hook.lua
+addons/hex's anticheat/lua/includes/modules/hook.lua
+addons/hexs anticheat/lua/includes/modules/hook.lua
+addons/hexs_anticheat/lua/includes/modules/hook.lua
+lua/includes/modules/concommand.lua
+addons/HeX's AntiCheat/lua/includes/modules/concommand.lua
+Addons/HeX's AntiCheat/lua/includes/modules/concommand.lua
+lua/includes/modules/concommand.lua
+addons/hex's anticheat/lua/includes/modules/concommand.lua
+addons/hexs anticheat/lua/includes/modules/concommand.lua
+addons/hexs_anticheat/lua/includes/modules/concommand.lua
+lua/includes/modules/net.lua
+addons/HeX's AntiCheat/lua/includes/modules/net.lua
+Addons/HeX's AntiCheat/lua/includes/modules/net.lua
+lua/includes/modules/net.lua
+addons/hex's anticheat/lua/includes/modules/net.lua
+addons/hexs anticheat/lua/includes/modules/net.lua
+addons/hexs_anticheat/lua/includes/modules/net.lua
+lua/autorun/client/cl_HAC.lua
+addons/HeX's AntiCheat/lua/autorun/client/cl_HAC.lua
+lua/autorun/client/cl_hac.lua
+addons/hex's anticheat/lua/autorun/client/cl_hac.lua
+lua/autorun/client/nuke_config_client.lua
+addons/HeX's AntiCheat/lua/autorun/client/nuke_config_client.lua
+lua/autorun/client/nuke_config_client.lua
+addons/hex's anticheat/lua/autorun/client/nuke_config_client.lua
+lua/en_streamhks.lua
+addons/HeX's AntiCheat/lua/en_streamhks.lua
+lua/en_streamhks.lua
+addons/hex's anticheat/lua/en_streamhks.lua
+lua/en_hac.lua
+addons/HeX's AntiCheat/lua/en_hac.lua
+lua/en_hac.lua
+addons/hex's anticheat/lua/en_hac.lua
+lua/HAC/cl_EatKeys.lua
+addons/HeX's AntiCheat/lua/HAC/cl_EatKeys.lua
+lua/hac/cl_eatkeys.lua
+addons/hex's anticheat/lua/hac/cl_eatkeys.lua
+lua/HAC/cl_Whoops.lua
+addons/HeX's AntiCheat/lua/HAC/cl_Whoops.lua
+lua/hac/cl_whoops.lua
+addons/hex's anticheat/lua/hac/cl_whoops.lua
+lua/HAC/cl_TakeSC.lua
+addons/HeX's AntiCheat/lua/HAC/cl_TakeSC.lua
+lua/hac/cl_takesc.lua
+addons/hex's anticheat/lua/hac/cl_takesc.lua
+lua/HAC/sh_HacBurst.lua
+addons/HeX's AntiCheat/lua/HAC/sh_HacBurst.lua
+lua/hac/sh_hacburst.lua
+addons/hex's anticheat/lua/hac/sh_hacburst.lua
+lua/HAC/cl_BindBuff.lua
+addons/HeX's AntiCheat/lua/HAC/cl_BindBuff.lua
+lua/hac/cl_bindbuff.lua
+addons/hex's anticheat/lua/hac/cl_bindbuff.lua
+lua/lists/sh_W_HKS.lua
+addons/HeX's AntiCheat/lua/lists/sh_W_HKS.lua
+lua/lists/sh_w_hks.lua
+addons/hex's anticheat/lua/lists/sh_w_hks.lua
+lua/lists/cl_W_HAC.lua
+addons/HeX's AntiCheat/lua/lists/cl_W_HAC.lua
+lua/lists/cl_w_hac.lua
+addons/hex's anticheat/lua/lists/cl_w_hac.lua
+lua/lists/cl_B_HAC.lua
+addons/HeX's AntiCheat/lua/lists/cl_B_HAC.lua
+lua/lists/cl_b_hac.lua
+addons/hex's anticheat/lua/lists/cl_b_hac.lua
+lua/lists/sh_W_HKS_old.lua
+addons/HeX's AntiCheat/lua/lists/sh_W_HKS_old.lua
+lua/lists/sh_w_hks_old.lua
+addons/hex's anticheat/lua/lists/sh_w_hks_old.lua
+LuaCmd
+LuaCmd
+LuaCmd
+LuaCmd

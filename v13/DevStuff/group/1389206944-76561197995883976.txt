@@ -1,0 +1,9 @@
+response:
+		groups:
+				1:
+						gid	=	750914
+				2:
+						gid	=	1247317
+				3:
+						gid	=	4188985
+		success	=	true

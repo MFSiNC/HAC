@@ -1,0 +1,312 @@
+﻿[HAC67] / (GMod U114) Module Report log created at [05-03-11 04:19:04PM] 
+
+[HAC67_U114] [05-03-11 04:19:04PM] - CModReport: openBSD <ownageaccount123> (STEAM_0:1:29502701) - CMod=gmcl_cmd.dll:69120
+[HAC67_U114] [05-03-11 04:19:04PM] - CModReport: openBSD <ownageaccount123> (STEAM_0:1:29502701) - CMod=gmcl_hake.dll:130560 --deco
+[HAC67_U114] [05-03-11 04:23:48PM] - CModReport: C0BRA <c0bra51> (STEAM_0:1:18811312) - CMod=gmcl_localcommand.dll:69120
+[HAC67_U114] [05-03-11 04:23:48PM] - CModReport: C0BRA <c0bra51> (STEAM_0:1:18811312) - CMod=gmcl_syshack.dll:277504
+[HAC67_U114] [05-03-11 04:23:48PM] - CModReport: C0BRA <c0bra51> (STEAM_0:1:18811312) - CMod=gm_sourcenet3.dll:151552
+[HAC67_U114] [21-03-11 07:57:21PM] - CModReport: Gabe Newman <ownageaccount123> (STEAM_0:1:29502701) - CMod=gmcl_cmd.dll:69120
+[HAC67_U114] [21-03-11 07:57:21PM] - CModReport: Gabe Newman <ownageaccount123> (STEAM_0:1:29502701) - CMod=gmcl_hake.dll:130560 --deco
+[HAC69_U114] [27-03-11 05:53:26AM] - CModReport: I like dicks... <ownageaccount123> (STEAM_0:1:29502701) - CMod=gm_Ink.dll:13824
+[HAC69_U114] [27-03-11 05:53:26AM] - CModReport: I like dicks... <ownageaccount123> (STEAM_0:1:29502701) - CMod=gm_neon.dll:13824
+[HAC69_U114] [27-03-11 05:53:26AM] - CModReport: I like dicks... <ownageaccount123> (STEAM_0:1:29502701) - CMod=gm_neon_core.dll:7168
+[HAC69_U114] [27-03-11 05:53:26AM] - CModReport: I like dicks... <ownageaccount123> (STEAM_0:1:29502701) - CMod=gm_neon_cvar.dll:88576
+[HAC69_U114] [27-03-11 05:53:26AM] - CModReport: I like dicks... <ownageaccount123> (STEAM_0:1:29502701) - CMod=gm_neon_fvar.dll:16896
+[HAC69_U114] [09-04-11 11:16:40AM] - CModReport: Tojba <tojba2> (STEAM_0:0:37158615) - CMod=gm_saloader.dll:123904
+[HAC69_U117] [17-04-11 06:29:37PM] - CModReport: siviler <dennisdahl99> (STEAM_0:0:30924095) - CMod=gmcl_decz.dll:130560 --deco
+[HAC69_U117] [17-04-11 06:29:37PM] - CModReport: siviler <dennisdahl99> (STEAM_0:0:30924095) - CMod=gm_secret.dll:55808
+[HAC69_U117] [17-04-11 06:29:37PM] - CModReport: siviler <dennisdahl99> (STEAM_0:0:30924095) - CMod=gm_testbot.dll:345088
+[HAC69_U120] [23-04-11 06:05:11AM] - CModReport: KBz | Monster <amokov_sf> (STEAM_0:1:24769606) - CMod=gmcl_disconnect.dll:19456
+[HAC69_U120] [23-04-11 06:05:11AM] - CModReport: KBz | Monster <amokov_sf> (STEAM_0:1:24769606) - CMod=gm_disconnect.dll:19456
+[HAC69_U120] [23-04-11 06:05:11AM] - CModReport: KBz | Monster <amokov_sf> (STEAM_0:1:24769606) - CMod=gm_steamworks.dll:146944
+[HAC69_U120] [23-04-11 06:05:11AM] - CModReport: KBz | Monster <amokov_sf> (STEAM_0:1:24769606) - CMod=gmcl_howboutno.dll:130560 --deco
+[HAC70_U120] [25-04-11 08:36:49AM] - CModReport: Heavenly Perverse <GONE> (STEAM_0:1:GONE) - CMod=gmcl_jell.dll:130560 --deco
+[HAC70_U120] [25-04-11 08:36:49AM] - CModReport: Heavenly Perverse <GONE> (STEAM_0:1:GONE) - CMod=gm_ares_core.dll:7168
+[HAC70_U120] [25-04-11 08:36:49AM] - CModReport: Heavenly Perverse <GONE> (STEAM_0:1:GONE) - CMod=gm_ares_fvar.dll:16896
+[HAC70_U120] [25-04-11 08:36:49AM] - CModReport: Heavenly Perverse <GONE> (STEAM_0:1:GONE) - CMod=gm_clua.dll:13824
+
+[HAC70_U120] [04-05-11 04:45:17PM] - CModReport: Flapadar <masterblaster92> (STEAM_0:0:10839552) - CMod=gmcl_coldfire.dll:47104
+[HAC70_U120] [04-05-11 04:45:17PM] - CModReport: Flapadar <masterblaster92> (STEAM_0:0:10839552) - CMod=gmcl_deco.dll:130560
+[HAC70_U120] [04-05-11 04:45:17PM] - CModReport: Flapadar <masterblaster92> (STEAM_0:0:10839552) - CMod=gmcl_disconnect.dll:19456
+[HAC70_U120] [04-05-11 04:45:17PM] - CModReport: Flapadar <masterblaster92> (STEAM_0:0:10839552) - CMod=gmcl_localcommand.dll:69120
+[HAC70_U120] [04-05-11 04:45:17PM] - CModReport: Flapadar <masterblaster92> (STEAM_0:0:10839552) - CMod=gmcl_luamd5.dll:19968
+[HAC70_U120] [04-05-11 04:45:17PM] - CModReport: Flapadar <masterblaster92> (STEAM_0:0:10839552) - CMod=gmcl_sound.dll:79360
+[HAC70_U120] [04-05-11 04:45:17PM] - CModReport: Flapadar <masterblaster92> (STEAM_0:0:10839552) - CMod=gmcl_voiceinput.dll:69632
+[HAC70_U120] [04-05-11 04:45:17PM] - CModReport: Flapadar <masterblaster92> (STEAM_0:0:10839552) - CMod=gmsv_gatekeeper.dll:83968
+[HAC70_U120] [04-05-11 04:45:17PM] - CModReport: Flapadar <masterblaster92> (STEAM_0:0:10839552) - CMod=gm_chrisaster.dll:79360
+[HAC70_U120] [04-05-11 04:45:18PM] - CModReport: Flapadar <masterblaster92> (STEAM_0:0:10839552) - CMod=gm_crypto.dll:66560
+[HAC70_U120] [04-05-11 04:45:19PM] - CModReport: Flapadar <masterblaster92> (STEAM_0:0:10839552) - CMod=gm_cvar2.dll:36864
+[HAC70_U120] [04-05-11 04:45:19PM] - CModReport: Flapadar <masterblaster92> (STEAM_0:0:10839552) - CMod=gm_enginespew.dll:7680
+[HAC70_U120] [04-05-11 04:45:19PM] - CModReport: Flapadar <masterblaster92> (STEAM_0:0:10839552) - CMod=gm_faphack.dll:69632
+[HAC70_U120] [04-05-11 04:45:19PM] - CModReport: Flapadar <masterblaster92> (STEAM_0:0:10839552) - CMod=gm_forceconvar.dll:56320
+[HAC70_U120] [04-05-11 04:45:19PM] - CModReport: Flapadar <masterblaster92> (STEAM_0:0:10839552) - CMod=gm_luasocket.dll:37888
+[HAC70_U120] [04-05-11 04:45:19PM] - CModReport: Flapadar <masterblaster92> (STEAM_0:0:10839552) - CMod=gm_msgtest.dll:35840
+[HAC70_U120] [04-05-11 04:45:19PM] - CModReport: Flapadar <masterblaster92> (STEAM_0:0:10839552) - CMod=gm_netchannel.dll:9728
+[HAC70_U120] [04-05-11 04:45:19PM] - CModReport: Flapadar <masterblaster92> (STEAM_0:0:10839552) - CMod=gm_nospread.dll:7168
+[HAC70_U120] [04-05-11 04:45:19PM] - CModReport: Flapadar <masterblaster92> (STEAM_0:0:10839552) - CMod=gm_oosocks.dll:40960
+[HAC70_U120] [04-05-11 04:45:19PM] - CModReport: Flapadar <masterblaster92> (STEAM_0:0:10839552) - CMod=gm_pcp.dll:312320
+[HAC70_U120] [04-05-11 04:45:19PM] - CModReport: Flapadar <masterblaster92> (STEAM_0:0:10839552) - CMod=gm_preproc.dll:8192
+[HAC70_U120] [04-05-11 04:45:19PM] - CModReport: Flapadar <masterblaster92> (STEAM_0:0:10839552) - CMod=gm_runstring.dll:7168
+[HAC70_U120] [04-05-11 04:45:19PM] - CModReport: Flapadar <masterblaster92> (STEAM_0:0:10839552) - CMod=gm_sourcenet.dll:128512
+[HAC70_U120] [04-05-11 04:45:19PM] - CModReport: Flapadar <masterblaster92> (STEAM_0:0:10839552) - CMod=gm_sqlite2.dll:464384
+[HAC70_U120] [04-05-11 04:45:19PM] - CModReport: Flapadar <masterblaster92> (STEAM_0:0:10839552) - CMod=gm_sqlites.dll:7680
+[HAC70_U120] [04-05-11 04:45:19PM] - CModReport: Flapadar <masterblaster92> (STEAM_0:0:10839552) - CMod=gm_steamworks.dll:23552
+[HAC70_U120] [04-05-11 04:45:19PM] - CModReport: Flapadar <masterblaster92> (STEAM_0:0:10839552) - CMod=gm_test.dll:8192
+
+[HAC72_U121] [11-05-11 08:14:09PM] - CModReport: theemptykiosk <machina264> (STEAM_0:0:30685741) - CMod=gmcl_mxplayer.dll-581120
+[HAC72_U121] [11-05-11 08:14:09PM] - CModReport: theemptykiosk <machina264> (STEAM_0:0:30685741) - CMod=gmcl_mxutility.dll-498176
+[HAC72_U121] [17-05-11 02:14:03AM] - CModReport: Zomg!NoWai! <jellystomper> (STEAM_0:1:22390206) - CMod=gm_funslover.dll-55808
+[HAC72_U121] [17-05-11 02:14:03AM] - CModReport: Zomg!NoWai! <jellystomper> (STEAM_0:1:22390206) - CMod=gm_luaerror.dll-90624
+[HAC72_U121] [17-05-11 02:14:03AM] - CModReport: Zomg!NoWai! <jellystomper> (STEAM_0:1:22390206) - CMod=gm_sound.dll-80896
+[HAC72_U121] [17-05-11 02:14:03AM] - CModReport: Zomg!NoWai! <jellystomper> (STEAM_0:1:22390206) - CMod=gm_steamworks.dll-146944
+[HAC74_U122] [29-05-11 09:23:18PM] - CModReport: Discord <tfrylover> (STEAM_0:1:24101589) - CMod=gm_clua.dll-13824
+[HAC74_U122] [29-05-11 07:41:42PM] - CModReport: ember <dennisdahl99> (STEAM_0:0:30924095) - CMod=gmcl_decz.dll-130560
+[HAC74_U122] [29-05-11 07:41:42PM] - CModReport: ember <dennisdahl99> (STEAM_0:0:30924095) - CMod=gm_secret.dll-55808
+[HAC74_U122] [29-05-11 07:41:42PM] - CModReport: ember <dennisdahl99> (STEAM_0:0:30924095) - CMod=gm_testbot.dll-345088
+[HAC74_U122] [31-05-11 12:21:13AM] - CModReport: | DPG | Hasular | PoKi | <wannabuy> (STEAM_0:1:24966821) - CMod=gmcl_disconnect.dll-19456
+[HAC75_U122] [01-06-11 02:45:57AM] - CModReport: -[LCG]- Marvincmarvin™ <marvin a. countryman marvincmarvin> (STEAM_0:1:34530784) - CMod=gmcl_deco_2.dll-130560
+[HAC75_U122] [01-06-11 02:45:57AM] - CModReport: -[LCG]- Marvincmarvin™ <marvin a. countryman marvincmarvin> (STEAM_0:1:34530784) - CMod=gm_bbot_2.dll-352768
+[HAC75_U122] [01-06-11 02:45:57AM] - CModReport: -[LCG]- Marvincmarvin™ <marvin a. countryman marvincmarvin> (STEAM_0:1:34530784) - CMod=gm_cvar2.dll-18944
+[HAC75_U122] [01-06-11 02:45:57AM] - CModReport: -[LCG]- Marvincmarvin™ <marvin a. countryman marvincmarvin> (STEAM_0:1:34530784) - CMod=gm_rawio.dll-57344
+[HAC75_U122] [02-06-11 06:58:33PM] - CModReport: kiple <jwchips> (STEAM_0:0:13864350) - CMod=gm_rawio.dll-57344
+[HAC75_U122] [05-06-11 10:14:35PM] - CModReport: FailedMailMan <jcb2006> (STEAM_0:1:11829672) - CMod=gmcl_deco.dll-130560
+[HAC75_U122] [07-06-11 12:42:46AM] - CModReport: Hasular <wannabuy> (STEAM_0:1:24966821) - CMod=gmcl_disconnect.dll-19456
+[HAC76_U122] [08-06-11 10:19:48PM] - CModReport: athlon CONTEST <GONE> (STEAM_0:1:GONE) - CMod=sandvich.dll-310792
+[HAC77_U122] [09-06-11 02:35:30PM] - CModReport: THE Sykranos <GONE> (STEAM_0:1:GONE) - CMod=gm_sykranosissexy.dll-615010
+[HAC77_U124] [17-06-11 12:43:16AM] - CModReport: Kinderknacht <jestercap13> (STEAM_0:1:37692289) - CMod=Emporium.dll-151552
+[HAC77_U124] [17-06-11 12:43:16AM] - CModReport: Kinderknacht <jestercap13> (STEAM_0:1:37692289) - CMod=gm_cvar2.dll-18944
+[HAC77_U124] [17-06-11 12:43:16AM] - CModReport: Kinderknacht <jestercap13> (STEAM_0:1:37692289) - CMod=lss.dll-948736
+[HAC77_U124] [17-06-11 03:02:57AM] - CModReport: Kinderknacht <jestercap13> (STEAM_0:1:37692289) - CMod=gm_enginespew.dll-9728
+[HAC77_U124] [17-06-11 05:08:20AM] - CModReport: Kinderknacht <jestercap13> (STEAM_0:1:37692289) - CMod=gmcl_renderx.dll-606720
+[HAC77_U124] [18-06-11 02:57:24PM] - CModReport: epic mælkesnitte <dennisdahl99> (STEAM_0:0:30924095) - CMod=gmcl_decz.dll-130560
+[HAC77_U124] [18-06-11 02:57:24PM] - CModReport: epic mælkesnitte <dennisdahl99> (STEAM_0:0:30924095) - CMod=gm_secret.dll-55808
+[HAC77_U124] [18-06-11 02:57:24PM] - CModReport: epic mælkesnitte <dennisdahl99> (STEAM_0:0:30924095) - CMod=gm_testbot.dll-345088
+[HAC78_U124] [22-06-11 02:20:18PM] - CModReport: .¤°женёк°¤. <fsb601> (STEAM_0:1:26204457) - CMod=gm_luasocket.dll-37888
+[HAC79_U124] [23-06-11 09:44:27PM] - CModReport: Jon <tfrylover> (STEAM_0:1:24101589) - CMod=gm_sourcenet3.dll-151552
+[HAC79_U125] [28-06-11 09:24:31PM] - CModReport: Zantze <spunkmaster> (STEAM_0:1:13776972) - CMod=gm_luaerror.dll-90624
+[HAC79_U125] [28-06-11 09:24:31PM] - CModReport: Zantze <spunkmaster> (STEAM_0:1:13776972) - CMod=gm_sound.dll-80896
+[HAC79_U125] [28-06-11 09:24:31PM] - CModReport: Zantze <spunkmaster> (STEAM_0:1:13776972) - CMod=gm_steamworks.dll-146944
+[HAC79_U125] [28-06-11 09:47:33PM] - CModReport: [ZBR] [L4G] Zach *Konan* <zach0103xxx> (STEAM_0:0:29414460) - CMod=gm_luaerror.dll-90624
+[HAC79_U125] [28-06-11 09:47:33PM] - CModReport: [ZBR] [L4G] Zach *Konan* <zach0103xxx> (STEAM_0:0:29414460) - CMod=gm_sound.dll-80896
+[HAC79_U125] [28-06-11 09:47:33PM] - CModReport: [ZBR] [L4G] Zach *Konan* <zach0103xxx> (STEAM_0:0:29414460) - CMod=gm_steamworks.dll-146944
+[HAC79_U125] [28-06-11 10:04:56PM] - CModReport: Crackhead <sgtjohnson94> (STEAM_0:0:26306543) - CMod=gmsv_gatekeeper.dll-91648
+[HAC79_U125] [28-06-11 10:04:56PM] - CModReport: Crackhead <sgtjohnson94> (STEAM_0:0:26306543) - CMod=gmsv_mysqloo.dll-93696
+[HAC79_U125] [28-06-11 10:04:56PM] - CModReport: Crackhead <sgtjohnson94> (STEAM_0:0:26306543) - CMod=gm_oosocks.dll-31232
+[HAC79_U125] [28-06-11 10:04:56PM] - CModReport: Crackhead <sgtjohnson94> (STEAM_0:0:26306543) - CMod=gm_rawio.dll-57344
+[HAC79_U125] [30-06-11 08:19:04AM] - CModReport: [MoW]Phage <kelmanwho> (STEAM_0:1:9933049) - CMod=gm_cvar2.dll-36864
+[HAC79_U125] [30-06-11 08:19:05AM] - CModReport: [MoW]Phage <kelmanwho> (STEAM_0:1:9933049) - CMod=gm_gamedescription.dll-84992
+[HAC79_U125] [30-06-11 08:19:05AM] - CModReport: [MoW]Phage <kelmanwho> (STEAM_0:1:9933049) - CMod=gm_sourcenet.dll-122368
+[HAC79_U125] [30-06-11 08:19:05AM] - CModReport: [MoW]Phage <kelmanwho> (STEAM_0:1:9933049) - CMod=gm_tmysql.dll-66560
+[HAC79_U125] [01-07-11 10:30:45AM] - CModReport: Mirc[NL] <death4life57> (STEAM_0:0:26754479) - CMod=gmcl_mysqloo.dll-93696
+[HAC79_U125] [01-07-11 10:30:48AM] - CModReport: Mirc[NL] <death4life57> (STEAM_0:0:26754479) - CMod=gm_steamworks.dll-146944
+[HAC79_U125] [01-07-11 01:43:17PM] - CModReport: FuriousJack95 <tazy4tazy> (STEAM_0:1:32531347) - CMod=gmcl_disconnect.dll-19456
+[HAC79_U125] [01-07-11 11:12:15PM] - CModReport: Discord <tfrylover> (STEAM_0:1:24101589) - CMod=gmcl_disc.dll-130560
+[HAC79_U125] [01-07-11 11:12:16PM] - CModReport: Discord <tfrylover> (STEAM_0:1:24101589) - CMod=gmcl_jell.dll-130560
+[HAC79_U125] [01-07-11 11:12:16PM] - CModReport: Discord <tfrylover> (STEAM_0:1:24101589) - CMod=gm_ares_core.dll-7168
+[HAC79_U125] [01-07-11 11:12:16PM] - CModReport: Discord <tfrylover> (STEAM_0:1:24101589) - CMod=gm_ares_fvar.dll-16896
+[HAC79_U125] [01-07-11 11:12:16PM] - CModReport: Discord <tfrylover> (STEAM_0:1:24101589) - CMod=gm_discord.dll-16384
+[HAC79_U125] [01-07-11 11:12:16PM] - CModReport: Discord <tfrylover> (STEAM_0:1:24101589) - CMod=gm_sourcenet3.dll-151552
+[HAC82_U125] [12-07-11 09:33:14PM] - CModReport: [WG:O] Professor Wolfface <thelol332211> (STEAM_0:1:36831604) - CMod=gmcl_sound.dll-74752
+[HAC82_U125] [12-07-11 09:33:14PM] - CModReport: [WG:O] Professor Wolfface <thelol332211> (STEAM_0:1:36831604) - CMod=gm_cvar2.dll-18944
+[HAC82_U125] [14-07-11 12:28:49AM] - CModReport: «SG.Mem» Mr.Jesus <acetriix> (STEAM_0:1:19872232) - CMod=gm_steamworks.dll-146944
+[HAC84_U125] [21-07-11 07:15:19PM] - CModReport: Cyborg Wolfface <thelol332211> (STEAM_0:1:36831604) - CMod=gmcl_sound.dll-74752
+[HAC84_U125] [21-07-11 07:15:19PM] - CModReport: Cyborg Wolfface <thelol332211> (STEAM_0:1:36831604) - CMod=gm_cvar2.dll-18944
+[HAC85_U125] [25-07-11 09:03:25PM] - CModReport: Discord <tfrylover> (STEAM_0:1:24101589) - CMod=gm_preproc.dll-8192
+[HAC85_U125] [27-07-11 12:05:36AM] - CModReport: -=NrK=- Link2006 *Qc <link2006> (STEAM_0:1:5762375) - CMod=gm_lanes-bin.dll-100864
+[HAC85_U125] [27-07-11 12:05:36AM] - CModReport: -=NrK=- Link2006 *Qc <link2006> (STEAM_0:1:5762375) - CMod=gm_queryphys_linux.dll-126621
+[HAC85_U125] [27-07-11 02:43:21AM] - CModReport: Discord <tfrylover> (STEAM_0:1:24101589) - CMod=gmcl_limes.dll-20992
+[HAC85_U125] [28-07-11 07:38:21PM] - CModReport: -[PuG]- Armyguy! <armyboy113> (STEAM_0:1:13857871) - CMod=gm_filesystem.dll-140288
+[HAC85_U125] [29-07-11 09:53:49PM] - CModReport: Otis DK <madxs1000> (STEAM_0:1:26428156) - CMod=bass.dll-98872
+[HAC85_U125] [29-07-11 09:53:49PM] - CModReport: Otis DK <madxs1000> (STEAM_0:1:26428156) - CMod=tags.dll-16304
+[HAC86_U125] [31-07-11 11:59:48AM] - CModReport: .:CG: Oscor <dingusnin> (STEAM_0:1:24452164) - CMod=gmcl_coldfire_.dll-9216
+[HAC86_U125] [31-07-11 11:59:48AM] - CModReport: .:CG: Oscor <dingusnin> (STEAM_0:1:24452164) - CMod=gmsv_gatekeeper.dll-98304
+[HAC86_U125] [31-07-11 11:59:48AM] - CModReport: .:CG: Oscor <dingusnin> (STEAM_0:1:24452164) - CMod=gmsv_gatekeeper_linux.dll-64390
+[HAC86_U125] [31-07-11 11:59:48AM] - CModReport: .:CG: Oscor <dingusnin> (STEAM_0:1:24452164) - CMod=gm_cvar2.dll-36864
+[HAC86_U125] [31-07-11 11:59:48AM] - CModReport: .:CG: Oscor <dingusnin> (STEAM_0:1:24452164) - CMod=gm_openaura_core.dll-14848
+[HAC86_U125] [31-07-11 11:59:48AM] - CModReport: .:CG: Oscor <dingusnin> (STEAM_0:1:24452164) - CMod=gm_openaura_four.dll-6144
+[HAC86_U125] [31-07-11 11:59:48AM] - CModReport: .:CG: Oscor <dingusnin> (STEAM_0:1:24452164) - CMod=gm_openaura_one.dll-7168
+[HAC86_U125] [31-07-11 11:59:48AM] - CModReport: .:CG: Oscor <dingusnin> (STEAM_0:1:24452164) - CMod=gm_openaura_three.dll-52224
+[HAC86_U125] [31-07-11 11:59:48AM] - CModReport: .:CG: Oscor <dingusnin> (STEAM_0:1:24452164) - CMod=gm_openaura_two.dll-227840
+[HAC86_U125] [31-07-11 11:59:48AM] - CModReport: .:CG: Oscor <dingusnin> (STEAM_0:1:24452164) - CMod=gm_pimpmyride.dll-75776
+[HAC86_U125] [31-07-11 11:59:48AM] - CModReport: .:CG: Oscor <dingusnin> (STEAM_0:1:24452164) - CMod=gm_scriptenforcer.dll-72704
+[HAC86_U125] [31-07-11 11:59:49AM] - CModReport: .:CG: Oscor <dingusnin> (STEAM_0:1:24452164) - CMod=gm_slog.dll-86016
+[HAC86_U125] [31-07-11 11:59:49AM] - CModReport: .:CG: Oscor <dingusnin> (STEAM_0:1:24452164) - CMod=gm_speedtest.dll-55808
+[HAC86_U125] [31-07-11 11:59:49AM] - CModReport: .:CG: Oscor <dingusnin> (STEAM_0:1:24452164) - CMod=gm_tmysql.dll-65024
+[HAC86_U125] [31-07-11 11:59:49AM] - CModReport: .:CG: Oscor <dingusnin> (STEAM_0:1:24452164) - CMod=tier0.dll-234832
+[HAC86_U125] [31-07-11 12:02:32PM] - CModReport: aG | Metrotyranno <brandon44> (STEAM_0:1:14299044) - CMod=gm_steamworks.dll-146944
+[HAC86_U125] [07-08-11 07:28:12PM] - CModReport: Discord <tfrylover> (STEAM_0:1:24101589) - CMod=gmcl_jell.dll-130560
+[HAC87_U125] [11-08-11 04:29:55AM] - CModReport: [UC] Wesker Ashford [DOD] <mikerstin> (STEAM_0:0:16210164) - CMod=gmcl_sound.dll-74752
+[HAC87_U125] [11-08-11 04:29:55AM] - CModReport: [UC] Wesker Ashford [DOD] <mikerstin> (STEAM_0:0:16210164) - CMod=gm_cvar2.dll-18944
+[HAC87_U125] [12-08-11 02:05:00AM] - CModReport: -[LCG]- Marvincmarvin™ <marvin a. countryman marvincmarvin> (STEAM_0:1:34530784) - CMod=gm_cvar2.dll-18944
+[HAC87_U125] [12-08-11 02:05:00AM] - CModReport: -[LCG]- Marvincmarvin™ <marvin a. countryman marvincmarvin> (STEAM_0:1:34530784) - CMod=gm_rawio.dll-57344
+[HAC87_U125] [12-08-11 08:22:27PM] - CModReport: Garbear <thestarblaster> (STEAM_0:0:8742065) - CMod=gmcl_fruitscripts.dll-11264
+[HAC87_U125] [12-08-11 08:22:27PM] - CModReport: Garbear <thestarblaster> (STEAM_0:0:8742065) - CMod=gm_steamworks.dll-146944
+[HAC87_U125] [22-08-11 08:24:47PM] - CModReport: Gangster vs Gangster <kontenlikker93> (STEAM_0:0:23751500) - CMod=gmcl_luamenu.dll-48640
+[HAC87_U125] [22-08-11 08:24:47PM] - CModReport: Gangster vs Gangster <kontenlikker93> (STEAM_0:0:23751500) - CMod=gmcl_menuplayer.dll-19456
+[HAC87_U125] [22-08-11 08:24:47PM] - CModReport: Gangster vs Gangster <kontenlikker93> (STEAM_0:0:23751500) - CMod=gm_curly.dll-1065984
+[HAC87_U125] [22-08-11 08:24:47PM] - CModReport: Gangster vs Gangster <kontenlikker93> (STEAM_0:0:23751500) - CMod=gm_oosocks.dll-40960
+[HAC87_U125] [23-08-11 07:37:15PM] - CModReport: [Quite]AllTheseLimes* <stravenaltron> (STEAM_0:0:21992109) - CMod=gm_WinAmp_interface.dll-61440
+[HAC87_U125] [26-08-11 07:20:49AM] - CModReport: -[LCG]-Marvincmarvin™ <marvin a. countryman marvincmarvin> (STEAM_0:1:34530784) - CMod=gmcl_deco.dll-130560
+[HAC87_U125] [26-08-11 07:20:49AM] - CModReport: -[LCG]-Marvincmarvin™ <marvin a. countryman marvincmarvin> (STEAM_0:1:34530784) - CMod=gm_cvar2.dll-18944
+[HAC87_U125] [26-08-11 07:20:49AM] - CModReport: -[LCG]-Marvincmarvin™ <marvin a. countryman marvincmarvin> (STEAM_0:1:34530784) - CMod=gm_enginespew.dll-9728
+[HAC87_U125] [26-08-11 07:20:49AM] - CModReport: -[LCG]-Marvincmarvin™ <marvin a. countryman marvincmarvin> (STEAM_0:1:34530784) - CMod=gm_rawio.dll-57344
+[HAC87_U125] [26-08-11 07:20:49AM] - CModReport: -[LCG]-Marvincmarvin™ <marvin a. countryman marvincmarvin> (STEAM_0:1:34530784) - CMod=gm_steamworks.dll-28160
+[HAC88_U125] [28-08-11 06:20:26PM] - CModReport: /FL-TPK\ Anthr4X (Swe) <anthr4xz292> (STEAM_0:1:33687954) - CMod=gmcl_disconnect.dll-19456
+[HAC88_U125] [28-08-11 06:54:46PM] - CModReport: inkbote v2 <GONE> (STEAM_0:1:GONE) - CMod=gmcl_disconnect.dll-19456
+[HAC88_U125] [28-08-11 06:54:46PM] - CModReport: inkbote v2 <GONE> (STEAM_0:1:GONE) - CMod=gmcl_downloadfilter.dll-71168
+[HAC88_U125] [28-08-11 06:54:46PM] - CModReport: inkbote v2 <GONE> (STEAM_0:1:GONE) - CMod=gmcl_hermes.dll-25600
+[HAC88_U125] [28-08-11 06:54:46PM] - CModReport: inkbote v2 <GONE> (STEAM_0:1:GONE) - CMod=gm_sourcenet3.dll-151552
+[HAC88_U125] [01-09-11 01:24:02PM] - CModReport: Stoned <the_stoner> (STEAM_0:1:15858852) - CMod=gmcl_bandsox.dll-34816
+[HAC88_U125] [01-09-11 01:24:02PM] - CModReport: Stoned <the_stoner> (STEAM_0:1:15858852) - CMod=gmcl_dispatchum.dll-81408
+[HAC88_U125] [01-09-11 01:24:02PM] - CModReport: Stoned <the_stoner> (STEAM_0:1:15858852) - CMod=gmcl_luamenu.dll-20992
+[HAC88_U125] [01-09-11 01:24:02PM] - CModReport: Stoned <the_stoner> (STEAM_0:1:15858852) - CMod=gmcl_syshack.dll-146432
+
+[HAC89_U125] [03-09-11 08:41:07AM] - CModReport: XTracer <xtracer777> (STEAM_0:1:29327756) - CMod=gmcl_disconnect.dll-19456
+[HAC89_U125] [03-09-11 08:41:07AM] - CModReport: XTracer <xtracer777> (STEAM_0:1:29327756) - CMod=gmsv_socket.dll-90112
+[HAC89_U125] [03-09-11 08:41:07AM] - CModReport: XTracer <xtracer777> (STEAM_0:1:29327756) - CMod=gm_concmdhook.dll-185856
+[HAC89_U125] [03-09-11 08:41:07AM] - CModReport: XTracer <xtracer777> (STEAM_0:1:29327756) - CMod=gm_cryptopeepee.dll-246272
+[HAC89_U125] [03-09-11 08:41:07AM] - CModReport: XTracer <xtracer777> (STEAM_0:1:29327756) - CMod=gm_geoloc.dll-98816
+[HAC89_U125] [03-09-11 08:41:08AM] - CModReport: XTracer <xtracer777> (STEAM_0:1:29327756) - CMod=gm_getcpu.dll-70144
+[HAC89_U125] [03-09-11 08:41:08AM] - CModReport: XTracer <xtracer777> (STEAM_0:1:29327756) - CMod=gm_litesocket.dll-79360
+[HAC89_U125] [03-09-11 08:41:08AM] - CModReport: XTracer <xtracer777> (STEAM_0:1:29327756) - CMod=gm_netchannel.dll-9728
+[HAC89_U125] [03-09-11 08:41:08AM] - CModReport: XTracer <xtracer777> (STEAM_0:1:29327756) - CMod=gm_oosocks.dll-40960
+[HAC89_U125] [03-09-11 08:41:08AM] - CModReport: XTracer <xtracer777> (STEAM_0:1:29327756) - CMod=gm_sourcenet3.dll-151552
+[HAC89_U125] [03-09-11 08:41:08AM] - CModReport: XTracer <xtracer777> (STEAM_0:1:29327756) - CMod=gm_steamworks.dll-146944
+[HAC89_U125] [03-09-11 08:41:08AM] - CModReport: XTracer <xtracer777> (STEAM_0:1:29327756) - CMod=gm_test.dll-6656
+[HAC89_U125] [03-09-11 08:41:08AM] - CModReport: XTracer <xtracer777> (STEAM_0:1:29327756) - CMod=gm_winapi.dll-16896
+[HAC89_U125] [03-09-11 08:41:08AM] - CModReport: XTracer <xtracer777> (STEAM_0:1:29327756) - CMod=gm_zlib_b64.dll-37888
+[HAC89_U125] [03-09-11 08:41:09AM] - CModReport: XTracer <xtracer777> (STEAM_0:1:29327756) - CMod=zlib64.dll-74240
+
+[HAC89_U125] [04-09-11 08:41:03AM] - CModReport: Stafano (STEAM_0:0:25993862) - CMod=gmcl_ihack_disconnect.dll-19456
+[HAC89_U125] [04-09-11 08:41:03AM] - CModReport: Stafano (STEAM_0:0:25993862) - CMod=gmcl_ihack_nospread.dll-130560
+[HAC89_U125] [04-09-11 08:41:03AM] - CModReport: Stafano (STEAM_0:0:25993862) - CMod=gm_cvar2.dll-18944
+[HAC89_U125] [04-09-11 08:41:03AM] - CModReport: Stafano (STEAM_0:0:25993862) - CMod=gm_ihack_bypass.dll-72704
+
+[HAC91_U125] [04-09-11 10:17:09PM] - CModReport: ‮SDRAWKCAB SI GNIHTYREVE <agreedspy> (STEAM_0:0:19573447) - CMod=gmcl_a3mf89silksdlkdgoi.dll-9728
+[HAC92_U125] [11-09-11 06:41:04PM] - CModReport: lawl usa sux <GONE> (STEAM_0:0:GONE) - CMod=gmcl_dec0.dll-130560
+
+[HAC93_U126] [16-09-11 04:49:34PM] - CModReport: Lawl |sethhack v4 is released:( <GONE> (STEAM_0:0:GONE) - CMod=gmcl_1337h4x0rdll.dll-130560
+
+[HAC94_U126] [18-09-11 11:51:44PM] - CModReport: ZpankR <jjpowerd3> (STEAM_0:0:6062057) - CMod=gmcl_zeco.dll-130820
+[HAC94_U126] [18-09-11 11:51:44PM] - CModReport: ZpankR <jjpowerd3> (STEAM_0:0:6062057) - CMod=gmcl_zzlua.dll-7680
+[HAC94_U126] [18-09-11 11:51:50PM] - CModReport: ZpankR <jjpowerd3> (STEAM_0:0:6062057) - CMod=gm_enginespew.dll-9728
+[HAC94_U126] [18-09-11 11:51:50PM] - CModReport: ZpankR <jjpowerd3> (STEAM_0:0:6062057) - CMod=gm_faceapi.dll-75264
+[HAC94_U126] [18-09-11 11:51:50PM] - CModReport: ZpankR <jjpowerd3> (STEAM_0:0:6062057) - CMod=gm_duration.dll-11776
+
+[HAC96_U126] [25-09-11 07:25:18PM] - CModReport: Charcoal Cylinder   <GONE> (STEAM_0:0:GONE) - CMod=gmcl_dllz.dll-65536
+[HAC96_U126] [25-09-11 07:25:19PM] - CModReport: Charcoal Cylinder   <GONE> (STEAM_0:0:GONE) - CMod=gmcl_hermes.dll-30720
+[HAC96_U126] [25-09-11 07:25:19PM] - CModReport: Charcoal Cylinder   <GONE> (STEAM_0:0:GONE) - CMod=gm_console.dll-76800
+[HAC96_U126] [25-09-11 07:25:19PM] - CModReport: Charcoal Cylinder   <GONE> (STEAM_0:0:GONE) - CMod=gm_cvar2.dll-10240
+[HAC96_U126] [25-09-11 07:30:29PM] - CModReport: Idk <GONE> (STEAM_0:0:GONE) - CMod=gmcl_dllz.dll-65536
+[HAC96_U126] [25-09-11 07:30:29PM] - CModReport: Idk <GONE> (STEAM_0:0:GONE) - CMod=gmcl_hermes.dll-30720
+[HAC96_U126] [25-09-11 07:30:29PM] - CModReport: Idk <GONE> (STEAM_0:0:GONE) - CMod=gm_console.dll-76800
+[HAC96_U126] [25-09-11 07:30:29PM] - CModReport: Idk <GONE> (STEAM_0:0:GONE) - CMod=gm_cvar2.dll-10240
+[HAC96_U126] [25-09-11 07:30:35PM] - CModReport: (1)Charcoal Cylinder   <tfrylover> (STEAM_0:1:24101589) - CMod=gmcl_opensteamworks.dll-9728
+[HAC96_U126] [25-09-11 07:30:36PM] - CModReport: (1)Charcoal Cylinder   <tfrylover> (STEAM_0:1:24101589) - CMod=gmsv_anticheat.dll-8704
+[HAC96_U126] [25-09-11 07:44:09PM] - CModReport: Discord <tfrylover> (STEAM_0:1:24101589) - CMod=gmcl_opensteamworks.dll-9728
+[HAC96_U126] [25-09-11 07:44:09PM] - CModReport: Discord <tfrylover> (STEAM_0:1:24101589) - CMod=gmsv_anticheat.dll-8704
+[HAC96_U126] [25-09-11 07:55:24PM] - CModReport: Discord <tfrylover> (STEAM_0:1:24101589) - CMod=gmcl_opensteamworks.dll-9728
+[HAC96_U126] [25-09-11 07:55:24PM] - CModReport: Discord <tfrylover> (STEAM_0:1:24101589) - CMod=gmsv_anticheat.dll-8704
+
+[HAC96_U126] [26-09-11 02:26:20PM] - CModReport: G-Force Connections <gone> (STEAM_0:1:gone) - CMod=gmcl_extras.dll-37376
+[HAC96_U126] [26-09-11 02:26:20PM] - CModReport: G-Force Connections <gone> (STEAM_0:1:gone) - CMod=gmcl_ghack.dll-19968
+[HAC96_U126] [26-09-11 02:26:20PM] - CModReport: G-Force Connections <gone> (STEAM_0:1:gone) - CMod=gmcl_sourcenet3.dll-151552
+[HAC96_U126] [26-09-11 02:26:20PM] - CModReport: G-Force Connections <gone> (STEAM_0:1:gone) - CMod=gm_debugger.dll-3567616
+
+[HAC98_U126] [28-09-11 07:53:21PM] - CModReport: Cobs <pancakemixs> (STEAM_0:0:43709814) - CMod=gm_frostbot.dll-17920
+[HAC98_U126] [28-09-11 09:19:14PM] - CModReport: lulululululul <frostythesnowman802> (STEAM_0:0:18691624) - CMod=gm_frostbot.dll-18432
+
+[HAC99_U126] [03-10-11 05:37:12PM] - CModReport: This Toast is traitor <GONE> (STEAM_0:0:GONE) - CMod=gm_command.dll-244224
+
+[HAC99_U126] [06-10-11 03:00:42AM] - CModReport: dese <quintosh_> (STEAM_0:1:44511758) - CMod=gmcl_hermes.dll-30720
+[HAC101_U129] [18-10-11 12:26:52AM] - CModReport: Drocsid <tfrylover> (STEAM_0:1:24101589) - CMod=gm_obelus.dll
+
+[HAC102_U129] [23-10-11 11:06:43AM] - CModReport: A flying pig? -_^ <thonil100> (STEAM_0:0:15031301) - CMod=gmcl_pall.dll
+[HAC102_U129] [23-10-11 11:06:43AM] - CModReport: A flying pig? -_^ <thonil100> (STEAM_0:0:15031301) - CMod=gm_cvar2.dll
+[HAC102_U129] [23-10-11 11:06:43AM] - CModReport: A flying pig? -_^ <thonil100> (STEAM_0:0:15031301) - CMod=gm_No_core.dll
+[HAC102_U129] [23-10-11 11:06:43AM] - CModReport: A flying pig? -_^ <thonil100> (STEAM_0:0:15031301) - CMod=gm_No_fvar.dll
+
+
+[HAC102_U129] [27-10-11 04:47:18AM] - CModReport: ‏ <jestercap13> (STEAM_0:1:37692289) - CMod=gmcl_jell.dll
+[HAC102_U129] [27-10-11 04:47:18AM] - CModReport: ‏ <jestercap13> (STEAM_0:1:37692289) - CMod=gmcl_voiceinput.dll
+[HAC102_U129] [27-10-11 04:47:18AM] - CModReport: ‏ <jestercap13> (STEAM_0:1:37692289) - CMod=gm_ares_core.dll
+[HAC102_U129] [27-10-11 04:47:18AM] - CModReport: ‏ <jestercap13> (STEAM_0:1:37692289) - CMod=gm_ares_fvar.dll
+[HAC102_U129] [27-10-11 04:47:18AM] - CModReport: ‏ <jestercap13> (STEAM_0:1:37692289) - CMod=gm_command.dll
+[HAC102_U129] [27-10-11 04:47:18AM] - CModReport: ‏ <jestercap13> (STEAM_0:1:37692289) - CMod=gm_cvar2.dll
+
+[HAC103_U129] [29-10-11 07:51:52PM] - CModReport: [5868]|C|MiniMaker <GONE> (STEAM_0:1:GONE) - CMod=gmcl_hera.dll2
+
+[HAC104_U129] [08-11-11 03:19:07AM] - CModReport: [L4G]Mao <compaqcomputer> (STEAM_0:1:30473979) - CMod=gmcl_hake.dll
+[HAC104_U129] [08-11-11 03:19:07AM] - CModReport: [L4G]Mao <compaqcomputer> (STEAM_0:1:30473979) - CMod=gmcl_Predictspread.dll
+
+[HAC105_U129] [17-11-11 01:44:27AM] - CModReport: Wattled Walnut <onebadpeach> (STEAM_0:1:25812285) - CMod=gm_core.dll
+[HAC105_U129] [19-11-11 01:12:46AM] - CModReport: [RR] OrangeBox <eclipse224> (STEAM_0:1:42239129) - CMod=gmcl_coldfire.dll
+[HAC105_U129] [12-11-11 12:19:16AM] - CModReport: ^1watch out! ^3im on your car <196flames> (STEAM_0:0:23622410) - CMod=gmcl_pall.dll
+[HAC105_U129] [12-11-11 12:19:16AM] - CModReport: ^1watch out! ^3im on your car <196flames> (STEAM_0:0:23622410) - CMod=gm_No_core.dll
+[HAC105_U129] [12-11-11 12:19:16AM] - CModReport: ^1watch out! ^3im on your car <196flames> (STEAM_0:0:23622410) - CMod=gm_No_fvar.dll
+[HAC105_U129] [12-11-11 12:37:29AM] - CModReport: ^1watch out! ^3im on your car <196flames> (STEAM_0:0:23622410) - CMod=gmcl_pall.dll
+
+[HAC105_U129] [24-11-11 02:32:17AM] - CModReport: a naked 12 year old girl <compaqcomputer> (STEAM_0:1:30473979) - CMod=gmcl_hake.dll
+[HAC105_U129] [24-11-11 02:32:17AM] - CModReport: a naked 12 year old girl <compaqcomputer> (STEAM_0:1:30473979) - CMod=gmcl_Predictspread.dll
+
+[HAC106_U130] [17-12-11 04:23:04PM] - CModReport: G-Force Connections <gone> (STEAM_0:1:gone) - CMod=gmcl_extras.dll
+[HAC106_U130] [17-12-11 04:23:04PM] - CModReport: G-Force Connections <gone> (STEAM_0:1:gone) - CMod=gm_zlib_b64.dll
+
+[HAC106_U130] [27-12-11 08:14:47PM] - CModReport: [6kx3] Blue Kirby <bluekirby950> (STEAM_0:0:25093119) - CMod=gmcl_openlua.dll
+[HAC106_U130] [27-12-11 08:14:47PM] - CModReport: [6kx3] Blue Kirby <bluekirby950> (STEAM_0:0:25093119) - CMod=gm_test.dll
+
+
+[HAC106_U130] [10-01-12 07:07:58PM] - CModReport: JonBons <jonney934> (STEAM_0:1:15710428) - CMod=gmcl_extras.dll
+[HAC106_U130] [10-01-12 07:07:58PM] - CModReport: JonBons <jonney934> (STEAM_0:1:15710428) - CMod=gmcl_usermessages.dll
+[HAC106_U130] [10-01-12 07:07:59PM] - CModReport: JonBons <jonney934> (STEAM_0:1:15710428) - CMod=gm_modelinfo.dll
+[HAC106_U130] [10-01-12 07:07:59PM] - CModReport: JonBons <jonney934> (STEAM_0:1:15710428) - CMod=gm_slog.dll
+[HAC106_U130] [10-01-12 07:07:59PM] - CModReport: JonBons <jonney934> (STEAM_0:1:15710428) - CMod=gm_syncmodule.dll
+[HAC106_U130] [10-01-12 07:07:59PM] - CModReport: JonBons <jonney934> (STEAM_0:1:15710428) - CMod=gm_faceapi.dll
+
+
+[HAC106_U130] [04-02-12 11:21:26PM] - CModReport: Bot26 <angrychairr> (STEAM_0:1:22948301) - CMod=gmcl_sdef2.dll
+
+[HAC106] / (GMod U130) Module Report log created at [15-02-12 08:07:19PM]
+
+[HAC106_U130] [15-02-12 08:07:19PM] - CModReport: killslick lol fags like ddos us <killslick> (STEAM_0:1:3382836) - CMod=gm_pimpmyride.dll
+[HAC106_U130] [15-02-12 08:07:19PM] - CModReport: killslick lol fags like ddos us <killslick> (STEAM_0:1:3382836) - CMod=gm_slog.dll
+[HAC106_U130] [15-02-12 08:07:19PM] - CModReport: killslick lol fags like ddos us <killslick> (STEAM_0:1:3382836) - CMod=gm_zlib_b64.dll
+[HAC106_U130] [15-02-12 08:07:19PM] - CModReport: killslick lol fags like ddos us <killslick> (STEAM_0:1:3382836) - CMod=query_cache.ext.dll
+[HAC106_U130] [15-02-12 08:07:19PM] - CModReport: killslick lol fags like ddos us <killslick> (STEAM_0:1:3382836) - CMod=Serverplugin_serversecure2.dll
+
+
+[HAC106_U130] - Autobanned: Teh UDS :3 <uds_28297> (STEAM_0:1:25849684) - CModW=gmcl_XyuEnforcer.dll-0 (enforce)
+
+
+[HAC106_U131] [04-06-12 03:14:18PM] - CModReport: fangli :d <czmate10> (STEAM_0:0:19962914) - CMod=gmcl_mat10.dll
+[HAC106_U131] [04-06-12 03:14:18PM] - CModReport: fangli :d <czmate10> (STEAM_0:0:19962914) - CMod=gmcl_sdef22.dll
+[HAC106_U131] [04-06-12 03:14:18PM] - CModReport: fangli :d <czmate10> (STEAM_0:0:19962914) - CMod=gm_hio.dll
+[HAC106_U131] [04-06-12 03:14:18PM] - CModReport: fangli :d <czmate10> (STEAM_0:0:19962914) - CMod=gm_pimpmyride.dll
+
+
+[HAC106_U131] [07-06-12 08:09:22PM] - CModReport: Famous <idontcare002> (STEAM_0:0:33149882) - CMod=gmcl_dongs.dll
+[HAC106_U131] [07-06-12 08:09:22PM] - CModReport: Famous <idontcare002> (STEAM_0:0:33149882) - CMod=gmcl_extras.dll
+[HAC106_U131] [07-06-12 08:09:22PM] - CModReport: Famous <idontcare002> (STEAM_0:0:33149882) - CMod=gmcl_herpes.dll
+[HAC106_U131] [07-06-12 08:09:22PM] - CModReport: Famous <idontcare002> (STEAM_0:0:33149882) - CMod=gmcl_Noob.dll
+
+
+[HAC106_U139] [19-08-12 10:38:54PM] - CModReport: Tyler <snixzz8> (STEAM_0:0:40143824) - CMod=gmcl_cat.dll
+[HAC106_U139] [19-08-12 10:38:54PM] - CModReport: Tyler <snixzz8> (STEAM_0:0:40143824) - CMod=gmcl_extras.dll
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

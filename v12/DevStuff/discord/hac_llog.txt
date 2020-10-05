@@ -1,0 +1,12 @@
+HeX's Anti-Cheat [85] / (GMod U125) log created at [28-07-11 07:12:19PM] 
+
+[HAC85_U125] [28-07-11 07:12:19PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - CVar=host_timescale:Args=[[1.5]]
+[HAC85_U125] [28-07-11 07:12:19PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - KR30=host_timescale=1.5
+[HAC85_U125] [28-07-11 07:14:50PM] - Autokicked: Discord <tfrylover> (STEAM_0:1:24101589) - RCount_105
+[HAC85_U125] [28-07-11 07:14:50PM] - Autobanned: Discord <tfrylover> (STEAM_0:1:24101589) - KR30=host_timescale=1.5
+[HAC85_U125] [28-07-11 07:14:50PM] - Autobanned: Discord <tfrylover> (STEAM_0:1:24101589) - Detour2=[file.FindInLua]
+[HAC85_U125] [28-07-11 07:14:50PM] - Autobanned: Discord <tfrylover> (STEAM_0:1:24101589) - Detour2=[file.Find]
+[HAC85_U125] [28-07-11 07:14:50PM] - Autobanned: Discord <tfrylover> (STEAM_0:1:24101589) - Detour2=[file.Read]
+[HAC85_U125] [28-07-11 07:14:51PM] - Autobanned: Discord <tfrylover> (STEAM_0:1:24101589) - Detour2=[GetConVar]
+[HAC85_U125] [28-07-11 07:14:51PM] - Autobanned: Discord <tfrylover> (STEAM_0:1:24101589) - Detour2=[GetConVarString]
+[HAC85_U125] [28-07-11 07:14:51PM] - Autobanned: Discord <tfrylover> (STEAM_0:1:24101589) - Detour2=[GetConVarNumber]

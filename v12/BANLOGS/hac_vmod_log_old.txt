@@ -1,0 +1,54 @@
+[HAC75] / (GMod U122) Module Report log created at [31-05-11 11:24:31PM] 
+
+[HAC75_U122] [31-05-11 11:24:31PM] - VModReport: Sykranos <GONE> (STEAM_0:1:GONE) - VMod=Name_Enabler.dll-77824
+[HAC75_U122] [31-05-11 11:24:31PM] - VModReport: Sykranos <GONE> (STEAM_0:1:GONE) - VMod=Name_Enabler.vdf-50
+[HAC75_U122] [07-06-11 12:42:46AM] - VModReport: Hasular <wannabuy> (STEAM_0:1:24966821) - VMod=BypassEmporium.dll-151552
+[HAC75_U122] [07-06-11 12:42:46AM] - VModReport: Hasular <wannabuy> (STEAM_0:1:24966821) - VMod=BypassEmporium.vdf-48
+[HAC76_U122] [08-06-11 08:58:14PM] - VModReport: Discord <tfrylover> (STEAM_0:1:24101589) - VMod=discord.dll-140288
+[HAC76_U122] [08-06-11 08:58:14PM] - VModReport: Discord <tfrylover> (STEAM_0:1:24101589) - VMod=discord.vdf-53
+[HAC77_U124] [17-06-11 12:43:15AM] - VModReport: Kinderknacht <jestercap13> (STEAM_0:1:37692289) - VMod=Emporium.dll-151552
+[HAC77_U124] [17-06-11 12:43:15AM] - VModReport: Kinderknacht <jestercap13> (STEAM_0:1:37692289) - VMod=Emporium.vdf-42
+[HAC82_U125] [13-07-11 04:37:26AM] - VModReport: formatme #realitydubstep <sy08> (STEAM_0:0:18980599) - VMod=TTT_Check.dll-151552
+[HAC82_U125] [13-07-11 04:37:26AM] - VModReport: formatme #realitydubstep <sy08> (STEAM_0:0:18980599) - VMod=dosattackfix.vdf-80
+[HAC82_U125] [13-07-11 04:37:26AM] - VModReport: formatme #realitydubstep <sy08> (STEAM_0:0:18980599) - VMod=TTT_Check.vdf-47
+[HAC84_U125] [18-07-11 02:22:03PM] - VModReport: rynicks <kelvinschouten> (STEAM_0:1:18246102) - VMod=Awesomium.dll-12405760
+[HAC84_U125] [18-07-11 02:22:03PM] - VModReport: rynicks <kelvinschouten> (STEAM_0:1:18246102) - VMod=icudt38.dll-8679424
+[HAC84_U125] [18-07-11 02:22:03PM] - VModReport: rynicks <kelvinschouten> (STEAM_0:1:18246102) - VMod=tags.dll-16304
+[HAC85_U125] [29-07-11 09:18:25PM] - VModReport: [JokerIce] Bunny <lordof12> (STEAM_0:1:30049477) - VMod=name_enabler.dll-77824
+[HAC85_U125] [29-07-11 09:18:25PM] - VModReport: [JokerIce] Bunny <lordof12> (STEAM_0:1:30049477) - VMod=name_enabler.vdf-27
+[HAC87_U125] [15-08-11 08:54:02PM] - VModReport: Timoman6 <timoman6> (STEAM_0:0:43154274) - VMod=SharpSvn.dll-2739200
+[HAC88_U125] [28-08-11 06:20:26PM] - VModReport: /FL-TPK\ Anthr4X (Swe) <anthr4xz292> (STEAM_0:1:33687954) - VMod=emporium_fixed.dll-151556
+[HAC88_U125] [28-08-11 06:20:26PM] - VModReport: /FL-TPK\ Anthr4X (Swe) <anthr4xz292> (STEAM_0:1:33687954) - VMod=emporium_fixed.vdf-52
+[HAC88_U125] [30-08-11 08:15:59PM] - VModReport: Rotten <GONE> (STEAM_0:0:GONE) - VMod=ms_cv4r.dll-125952
+[HAC88_U125] [30-08-11 08:15:59PM] - VModReport: Rotten <GONE> (STEAM_0:0:GONE) - VMod=ms_cvar_loader.vdfNOPE-66
+[HAC101_U126] [15-10-11 01:33:11AM] - VModReport: Jesse Jackson <idontcare003> (STEAM_0:1:43732934) - VMod=emporium.dll
+[HAC101_U126] [15-10-11 01:33:11AM] - VModReport: Jesse Jackson <idontcare003> (STEAM_0:1:43732934) - VMod=emporium.vdf
+[HAC101_U126] [15-10-11 01:33:12AM] - VModReport: Jesse Jackson <idontcare003> (STEAM_0:1:43732934) - VMod=Name_Enable.dll
+[HAC101_U126] [15-10-11 01:33:12AM] - VModReport: Jesse Jackson <idontcare003> (STEAM_0:1:43732934) - VMod=Name_Enabler.vdf
+
+[HAC101_U129] [18-10-11 02:02:07AM] - VModReport: HTML programmer <install tendollated> (STEAM_0:1:29226146) - VMod=hake.dll
+[HAC101_U129] [18-10-11 02:02:07AM] - VModReport: HTML programmer <install tendollated> (STEAM_0:1:29226146) - VMod=hake.vdf
+
+
+[HAC102_U129] [27-10-11 04:47:18AM] - VModReport: ? <jestercap13> (STEAM_0:1:37692289) - VMod=Emporium.dll
+[HAC102_U129] [27-10-11 04:47:18AM] - VModReport: ? <jestercap13> (STEAM_0:1:37692289) - VMod=lss.dll
+[HAC102_U129] [27-10-11 04:47:18AM] - VModReport: ? <jestercap13> (STEAM_0:1:37692289) - VMod=Emporium.vdf
+[HAC102_U129] [27-10-11 04:47:18AM] - VModReport: ? <jestercap13> (STEAM_0:1:37692289) - VMod=LSS.vdf
+
+[HAC103_U129] [02-11-11 10:03:26PM] - VModReport: kittyhunter9 <lukaz11851> (STEAM_0:0:43657416) - VMod=d3dx9_33.dll
+[HAC103_U129] [02-11-11 10:03:26PM] - VModReport: kittyhunter9 <lukaz11851> (STEAM_0:0:43657416) - VMod=d3dx9_35.dll
+[HAC103_U129] [02-11-11 10:03:26PM] - VModReport: kittyhunter9 <lukaz11851> (STEAM_0:0:43657416) - VMod=d3dx9_39.dll
+[HAC103_U129] [02-11-11 10:03:26PM] - VModReport: kittyhunter9 <lukaz11851> (STEAM_0:0:43657416) - VMod=HM Public.dll
+[HAC103_U129] [02-11-11 10:03:26PM] - VModReport: kittyhunter9 <lukaz11851> (STEAM_0:0:43657416) - VMod=msvcr71.dll
+
+[HAC104_U129] [08-11-11 03:19:07AM] - VModReport: [L4G]Mao <compaqcomputer> (STEAM_0:1:30473979) - VMod=hake.dll
+[HAC104_U129] [08-11-11 03:19:07AM] - VModReport: [L4G]Mao <compaqcomputer> (STEAM_0:1:30473979) - VMod=hake.vdf
+
+
+
+
+
+
+
+
+

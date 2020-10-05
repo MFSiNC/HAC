@@ -1,0 +1,7 @@
+HeX's Anti-Cheat [85] / (GMod U125) log created at [29-07-11 10:23:54PM] 
+
+[HAC85_U125] [29-07-11 10:23:54PM] - Autokicked: Discord <tfrylover> (STEAM_0:1:24101589) - GCount_2173
+[HAC85_U125] [29-07-11 10:23:54PM] - Autokicked: Discord <tfrylover> (STEAM_0:1:24101589) - RCount_106
+[HAC85_U125] [29-07-11 10:23:54PM] - Autobanned: Discord <tfrylover> (STEAM_0:1:24101589) - KR30=PLHK
+[HAC85_U125] [29-07-11 10:23:54PM] - Autobanned: Discord <tfrylover> (STEAM_0:1:24101589) - HCCMD
+[HAC85_U125] [29-07-11 10:23:54PM] - Autobanned: Discord <tfrylover> (STEAM_0:1:24101589) - PLCount=10

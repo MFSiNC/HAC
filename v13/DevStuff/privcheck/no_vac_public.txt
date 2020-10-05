@@ -1,0 +1,25 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561197995883976",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "-=[UH]=- General HeX",
+				"lastlogoff": 1381236543,
+				"commentpermission": 1,
+				"profileurl": "http://steamcommunity.com/id/MFSiNC/",
+				"avatar": "http://media.steampowered.com/steamcommunity/public/images/avatars/60/608fca989835e10e68e1a50ce61c342fcbf1edfd.jpg",
+				"avatarmedium": "http://media.steampowered.com/steamcommunity/public/images/avatars/60/608fca989835e10e68e1a50ce61c342fcbf1edfd_medium.jpg",
+				"avatarfull": "http://media.steampowered.com/steamcommunity/public/images/avatars/60/608fca989835e10e68e1a50ce61c342fcbf1edfd_full.jpg",
+				"personastate": 1,
+				"realname": "MFSiNC",
+				"primaryclanid": "103582791430768725",
+				"timecreated": 1200512008,
+				"loccountrycode": "GB",
+				"locstatecode": "K2"
+			}
+		]
+		
+	}
+}

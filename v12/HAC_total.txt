@@ -1,0 +1,61 @@
+--[[
+	=== HeX's AntiCheat ===
+	"A good attempt at something impossible"
+	
+	This log was created @ 06.09.10, updated every 2 days from the HAC DB
+	http://dl.dropbox.com/u/3455978/garrysmod/data/hac_total.txt
+]]
+
+
+---== Current Stats ==---
+840 	SteamID bans (incl. duplicates)
+35   	Rejoins after after being banned (removed their hacks)
+18,392  Log entries
+19  	Attempted bypasses
+-------------------------
+
+
+---== Hack counts ==---
+501	counts of FapHack
+231	counts of SethHack
+137	counts of AutoAim
+85	counts of TrooperHack
+81	counts of private hacks
+49	counts of BaconBot
+48	counts of JetBot
+30	counts of PrecisionBot
+22	counts of A-Hack
+19	counts of InkBot
+16	counts of Hermes
+15	counts of Ares
+13 	counts of Integra
+15	counts of the PixelRender exploit
+13	counts of NeonHack
+10	counts of Isis
+9	counts of Coldfire
+6	counts of SlobBot
+5	counts of the Adv Dupe exploit
+5	counts of ASB
+4	counts of nBot
+4	counts of TeeBot
+3 	counts of BEL chars
+3	counts of TurboBot
+2	counts of SimpleAim
+1	count of TacoBot
+1	count of Shenbot
+-----------------------
+
+
+---== Old Stats ==---
+Version 4 to 99:
+627 	 SteamID bans
+15  	 Rejoins after after being banned (removed their hacks)
+7994	 Log entries
+14  	 Attempted bypasses
+---------------------
+
+
+
+
+
+

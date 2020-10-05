@@ -1,0 +1,65 @@
+[12/29/10 20:45:25] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: "E'" "1"
+[12/29/10 20:45:28] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: "E'" "1"
+[12/29/10 20:45:31] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: "E'" "1"
+[12/29/10 20:45:56] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: "E'" "1"
+[12/29/10 20:47:30] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: lua_run_cl RunConsoleCommand("+attack")
+[12/29/10 20:47:30] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: oRsVhhSlnRmnRaqM "RCC=+attack" "User"
+[12/29/10 20:54:12] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: HelloWorldLOL
+[12/29/10 20:54:21] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: oRsVhhSlnRmnRaqM "Key=fap_menu" "User"
+[12/29/10 20:54:25] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: oRsVhhSlnRmnRaqM "Key=fap_aim_antisnap" "User"
+[12/29/10 20:54:43] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: oRsVhhSlnRmnRaqM "Key=fap_aim_autoreload" "User"
+[12/29/10 20:54:44] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: oRsVhhSlnRmnRaqM "Key=fap_aim_autofire" "User"
+[12/29/10 20:54:45] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: oRsVhhSlnRmnRaqM "Key=fap_aim_autofire" "User"
+[12/29/10 20:54:47] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: oRsVhhSlnRmnRaqM "Key=fap_aim_bonemode" "User"
+[12/29/10 20:54:48] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: oRsVhhSlnRmnRaqM "Key=fap_aim_autoreload" "User"
+[12/29/10 20:54:49] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: oRsVhhSlnRmnRaqM "Key=fap_aim_autoreload" "User"
+[12/29/10 20:54:50] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: oRsVhhSlnRmnRaqM "Key=fap_aim_maxdistance" "User"
+[12/29/10 20:54:51] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: oRsVhhSlnRmnRaqM "Key=fap_aim_enabled" "User"
+[12/29/10 20:56:15] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: oRsVhhSlnRmnRaqM "Key=aimbot_headshots_on" "User"
+[12/29/10 20:56:20] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: oRsVhhSlnRmnRaqM "Key=aimbot" "User"
+[12/29/10 20:56:21] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: oRsVhhSlnRmnRaqM "Key=aimbot_hitbox" "User"
+[12/29/10 20:56:23] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: oRsVhhSlnRmnRaqM "Key=aimbot_on" "User"
+[12/29/10 20:56:24] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: oRsVhhSlnRmnRaqM "Key=aimbot_target_closest" "User"
+[12/29/10 20:56:25] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: oRsVhhSlnRmnRaqM "Key=aimbot_on" "User"
+[12/29/10 20:56:26] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: oRsVhhSlnRmnRaqM "Key=aimbot_offset" "User"
+[12/29/10 20:56:28] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: oRsVhhSlnRmnRaqM "Key=aimbot_scan" "User"
+[12/29/10 20:56:29] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: oRsVhhSlnRmnRaqM "Key=aimbot_off" "User"
+[12/29/10 20:59:51] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: falco_cameramode
+[12/29/10 21:00:31] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: falco_cameramode
+[12/29/10 21:07:38] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: oRsVhhSlnRmnRaqM "Key=lol_adminalert" "User"
+[12/29/10 21:13:12] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: oRsVhhSlnRmnRaqM "Key=lol_admins" "User"
+[12/29/10 21:13:39] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: oRsVhhSlnRmnRaqM "Key=lol_aim" "User"
+[12/29/10 21:13:59] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: oRsVhhSlnRmnRaqM "Key=lol_fuckthis" "User"
+[12/29/10 21:27:11] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: hac_printbans
+[12/29/10 21:27:34] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: [SLOG] [12/29/10 21:27:11] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: hac_printbansHAC.TotalBans: 3HAC.TotalHacks: 115
+[12/29/10 21:28:02] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: lua_run [SLOG] [12/29/10 21:27:11] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: hac_printbansHAC.TotalBans: 3HAC.TotalHacks: 115
+[12/29/10 21:35:54] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: ENgKVOdWOWeRGBNn "Key=lol_adminalert" "User"
+[12/29/10 21:45:30] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: run lua_run_cl print( debug.getinfo()[1] )
+[12/29/10 21:46:16] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: hac bot03 "He smelled"
+[12/29/10 21:47:00] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: hac bot04 "He smelled"
+[12/29/10 21:47:00] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: hac bot04 "He smelled"
+[12/29/10 21:47:29] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: hac bot04 "He smelled"
+[12/29/10 21:47:29] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: hac bot04 "He smelled"
+[12/29/10 21:47:30] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: hac bot04 "He smelled"
+[12/29/10 21:47:30] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: hac bot04 "He smelled"
+[12/29/10 21:47:30] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: hac bot04 "He smelled"
+[12/29/10 21:47:30] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: hac bot04 "He smelled"
+[12/29/10 21:47:31] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: hac bot04 "He smelled"
+[12/29/10 21:47:31] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: hac bot04 "He smelled"
+[12/29/10 21:47:31] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: hac bot04 "He smelled"
+[12/29/10 21:47:31] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: hac bot04 "He smelled"
+[12/29/10 21:47:35] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: hac bot04 "He smelled"
+[12/29/10 21:50:09] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: hac bot04 "He smelled"
+[12/29/10 21:50:59] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: lua_run RunString(" print('lol') ")
+[12/29/10 21:52:19] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: lua_run RunString(" print('lol') ")
+[12/29/10 21:52:24] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: lua_run RunString(" print('lol') ")
+[12/29/10 21:53:09] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: run lua_run_cl print(GMG)
+[12/29/10 21:53:18] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: lua_run lua_run_cl print(GMG)
+[12/29/10 21:53:50] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: lua_run lua_run_cl print(GMG)
+[12/29/10 21:53:55] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: run lua_run_cl print(GMG)
+[12/29/10 21:54:10] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: run lua_run_cl print()
+[12/29/10 21:54:16] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: lua_run lua_run_cl print()
+[12/29/10 21:57:36] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: lua_run_cl file.Find = function() end
+[12/29/10 21:57:37] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: ENgKVOdWOWeRGBNn "Detour3=file.Find" "User"
+[12/29/10 21:57:53] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: lua_run_cl file.Find = function() end
+[12/29/10 21:57:58] -=[UH]=- Lt. Henry00 (STEAM_0:1:31421426) Ran: lua_run_cl file.Find = function() end

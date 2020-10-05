@@ -1,0 +1,46 @@
+Next log starting from here
+
+HeX's Anti-Cheat [65] log created at [13-02-11 06:00:38PM] 
+
+[HAC65] [13-02-11 06:00:38PM] - Autobanned: [SEC]|M|Cpt. David <mazecraze96> (STEAM_0:1:23999420) - CVar=sv_cheats:Args=[[1]]
+[HAC65] [13-02-11 06:00:38PM] - Autobanned: [SEC]|M|Cpt. David <mazecraze96> (STEAM_0:1:23999420) - KR30=sv_cheats=1
+[HAC66] [13-02-11 06:40:31PM] - Autobanned: [SEC]|M|Cpt. David <mazecraze96> (STEAM_0:1:23999420) - RCON=sv_cheats 1
+[HAC66] [13-02-11 07:03:11PM] - ManuallyBanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - -=[UH]=- HeX=lawn
+[HAC66] [20-02-11 08:34:37PM] - Autobanned: Stosh <reflectedpower> (STEAM_0:1:25747623) - WAddon=hax/Dr Hax [[This is the Dr Hax NPC from Cl]]
+[HAC66] [20-03-11 10:54:38AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Addon=FapHack V=2.70 (Flapadar) [[An aimbot. Enjoy.This version]]
+[HAC66] [20-03-11 10:54:38AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - WAddon=hack/FapHack V=2.70 (Flapadar) [[An aimbot. Enjoy.This version]]
+[HAC66] [20-03-11 10:54:38AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Detour3=hook.Add
+[HAC66] [20-03-11 10:54:38AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Detour3=hook.Remove
+[HAC66] [20-03-11 10:54:38AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Detour3=file.FindInLua
+[HAC66] [20-03-11 10:54:38AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Detour3=file.Find
+[HAC66] [20-03-11 10:54:38AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Detour3=file.Read
+[HAC66] [20-03-11 10:54:38AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Detour3=GetConVar
+[HAC66] [20-03-11 10:54:38AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Detour3=GetConVarString
+[HAC66] [20-03-11 10:54:38AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Detour3=GetConVarNumber
+[HAC66] [20-03-11 10:54:38AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Detour3=concommand.Add
+[HAC66] [20-03-11 10:54:38AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Detour4=GetConVar
+[HAC66] [20-03-11 10:54:38AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Detour4=GetConVarString
+[HAC66] [20-03-11 10:54:38AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Detour4=GetConVarNumber
+[HAC66] [20-03-11 10:54:39AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - WModule=lua/includes/enum/*faphack*.lua/faphack.lua
+[HAC66] [20-03-11 10:54:39AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - WModule=lua/FapHack/*.lua/faphack.lua
+[HAC66] [20-03-11 10:54:52AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - WModule=lua/includes/enum/*hack*.lua/faphack.lua
+[HAC66] [20-03-11 11:08:49AM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - CVar=host_timescale:Args=[[1]]
+[HAC66] [20-03-11 11:08:50AM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - CVar=host_timescale:Args=[[4]]
+[HAC66] [20-03-11 11:08:50AM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - KR30=host_timescale=4
+[HAC66] [20-03-11 11:09:07AM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - CVar=host_timescale:Args=[[1]]
+[HAC66] [20-03-11 11:09:19AM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - CVar=host_timescale:Args=[[4]]
+[HAC66] [20-03-11 11:09:26AM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - CVar=host_timescale:Args=[[1]]
+[HAC66] [26-03-11 07:13:46AM] - Autobanned: Gingerbear <headhunterdude> (STEAM_0:1:27486080) - Key=+aimbot
+[HAC66] [26-03-11 07:14:13AM] - Autobanned: [SECBD]|M|Cpt. David <mazecraze96> (STEAM_0:1:23999420) - Key=+aimbot
+[HAC66] [18-05-11 04:23:33PM] - Autokicked: The Chosen One (STEAM_0:1:27486080) - HACInit_Fail
+[HAC66] [21-05-11 10:30:28AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Addon=FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [21-05-11 10:30:28AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - WAddon=hack/FapHack V=3.00 (Flapadar) [[An aimbot. Rewritten]]
+[HAC66] [21-05-11 10:30:28AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Datafile=data/faphack_bot.txt
+[HAC66] [21-05-11 10:30:28AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Datafile=data/faphack_entities.txt
+[HAC66] [21-05-11 10:30:28AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - Datafile=data/faphack_friends.txt
+[HAC66] [21-05-11 10:30:29AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - WModule=lua/menu_plugins/*faphack*.lua/faphack.lua
+[HAC66] [21-05-11 10:30:29AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - WModule=lua/includes/enum/*faphack*.lua/faphack.lua
+[HAC66] [21-05-11 10:30:29AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - WDatafile=data/*hack*.txt/faphack_adverthandler.txt
+[HAC66] [21-05-11 10:30:29AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - WDatafile=data/*hack*.txt/faphack_convars.txt
+[HAC66] [21-05-11 10:30:48AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - WModule=lua/menu_plugins/*hack*.lua/faphack.lua
+[HAC66] [21-05-11 10:30:48AM] - Autobanned: Rick Astley <filipsaterli> (STEAM_0:0:21825335) - WModule=lua/includes/enum/*hack*.lua/faphack.lua

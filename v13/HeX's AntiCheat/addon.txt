@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"HeX's Anti-Cheat"
+	"version"			"107/108, but now i just call it HAC"
+	"up_date"			""
+	"author_name"			"-=[UH]=- General HeX"
+	"author_email"			""
+	"author_url"			""
+	"info"				"A good attempt at something impossible"
+	"override"			"0"
+}

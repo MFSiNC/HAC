@@ -1,0 +1,803 @@
+
+{ip="187.194.107.116",s="Death Epic Build [Trouble]",p=27017,}
+{ip="60.68.214.104",s="Kill 365 Addons 365 [12yo Admin]",p=27020,}
+{ip="49.54.109.33",s="Epic Big Ultimate DarkRP Kill [GUNZ]",p=27015,}
+{ip="21.153.49.87",s="[12yo Admin] Addons Ultimate Ultimate Stanley's Kill DarkRP [GUNZ]",p=27015,}
+{ip="196.208.218.99",s="[SERIOUS] RDM Trouser Build [DONATE]",p=27018,}
+{ip="175.114.205.223",s="[12yo Admin] Boner 365 Melon Trouser",p=27019,}
+{ip="42.4.196.188",s="[Inf. Cash] 365 Ultimate Trouser Ultimate Boner",p=27018,}
+{ip="211.208.186.198",s="Boner Big Ultimate 365 [Ultimate]",p=27019,}
+{ip="243.82.157.233",s="Big Melon 365 Build [GUNZ]",p=27016,}
+{ip="112.98.138.12",s="[12yo Admin] 365 Big Build [Ultimate]",p=27018,}
+{ip="106.20.142.66",s="[Inf. Cash] Kill Death 365 Epic Addons [No Lag]",p=27017,}
+{ip="81.53.197.215",s="[SERIOUS] Death Melon Trouble Kill Build Kill [RDM]",p=27019,}
+{ip="180.120.152.140",s="[RDM] Stanley's DarkRP Ultimate [RDM]",p=27018,}
+{ip="96.166.209.228",s="Melon 365 Kill Trouser Melon Melon",p=27015,}
+{ip="44.11.17.244",s="[12yo Admin] Melon DarkRP Ultimate Build Boner No",p=27020,}
+{ip="4.221.161.227",s="Build Ultimate Trouser Kill",p=27017,}
+{ip="24.74.216.57",s="[No Lag] Melon Boner RDM Epic Stanley's",p=27019,}
+{ip="114.19.87.161",s="[GUNZ] Stanley's Epic RDM [12yo Admin]",p=27020,}
+{ip="156.9.98.45",s="[SERIOUS] Addons Death DarkRP DarkRP Kill Death [RDM]",p=27016,}
+{ip="231.8.217.144",s="[Inf. Cash] Build Ultimate Death No [No Lag]",p=27020,}
+{ip="146.88.80.12",s="[RDM] Boner Big Melon [No]",p=27015,}
+{ip="187.239.82.146",s="[Inf. Cash] Kill 365 365 Trouser [Death]",p=27015,}
+{ip="11.175.82.98",s="Trouser Boner Trouser 365 No Build [Inf. Cash]",p=27018,}
+{ip="150.63.52.51",s="Boner Build Kill Epic Melon [Inf. Cash]",p=27017,}
+{ip="73.130.233.95",s="Trouble Melon Stanley's Melon Addons No [Kill]",p=27018,}
+{ip="62.174.98.53",s="365 Ultimate RDM Boner Stanley's Boner",p=27019,}
+{ip="98.190.160.216",s="Epic Stanley's RDM Boner DarkRP Epic [Ultimate]",p=27020,}
+{ip="169.228.4.50",s="Melon Kill Build Build Boner Kill [Kill]",p=27019,}
+{ip="145.146.28.93",s="[RDM] Epic Boner RDM Death Boner Melon [RDM]",p=27019,}
+{ip="67.185.37.199",s="Ultimate No Build Melon Death Boner [Big]",p=27020,}
+{ip="87.27.184.94",s="[SERIOUS] Kill Epic Ultimate Addons DarkRP Big",p=27018,}
+{ip="49.199.240.58",s="Big Epic Melon Epic Addons [SERIOUS]",p=27020,}
+{ip="7.87.236.92",s="Stanley's Big Big DarkRP Epic [GUNZ]",p=27017,}
+{ip="178.185.228.44",s="365 Addons RDM Stanley's Melon Ultimate [Trouble]",p=27015,}
+{ip="153.77.166.175",s="[12yo Admin] Big Ultimate Stanley's",p=27016,}
+{ip="203.15.237.186",s="[12yo Admin] Stanley's Kill Trouser Big Epic Kill [365]",p=27017,}
+{ip="211.132.61.17",s="Addons Addons Build RDM Addons RDM [No Lag]",p=27018,}
+{ip="219.43.23.85",s="Boner Trouser No Trouser Build",p=27020,}
+{ip="164.231.28.29",s="RDM No Trouser Build Kill Big [Death]",p=27019,}
+{ip="35.120.120.132",s="[GUNZ] Melon Epic Kill RDM Boner 365",p=27017,}
+{ip="139.9.224.164",s="[RDM] No Big Kill Melon [No]",p=27017,}
+{ip="158.36.173.137",s="Melon No Build Kill 365 Epic [DONATE]",p=27017,}
+{ip="226.42.157.238",s="Addons Big 365 No",p=27018,}
+{ip="168.191.218.68",s="No Stanley's Epic 365 Epic Trouser [Build]",p=27016,}
+{ip="5.226.36.213",s="No Death Melon DarkRP [Addons]",p=27020,}
+{ip="188.27.25.30",s="No Ultimate Stanley's Addons Epic [RDM]",p=27017,}
+{ip="193.59.110.178",s="Boner Trouser Ultimate Epic Stanley's Epic [Kill]",p=27017,}
+{ip="138.148.192.152",s="[RDM] Ultimate Big Trouble RDM Epic [Epic]",p=27018,}
+{ip="233.13.166.79",s="[No Lag] Kill Addons Addons No Ultimate Trouble [No]",p=27016,}
+{ip="153.242.204.167",s="[DONATE] Stanley's Kill Ultimate [Trouble]",p=27018,}
+{ip="65.193.15.20",s="DarkRP DarkRP Big Melon",p=27020,}
+{ip="116.231.223.193",s="[GUNZ] Ultimate Addons Melon Melon Death [DONATE]",p=27017,}
+{ip="69.141.42.164",s="[12yo Admin] Addons Death Kill Trouble Build Trouser",p=27018,}
+{ip="202.116.157.70",s="Ultimate Stanley's No Stanley's [RDM]",p=27015,}
+{ip="97.234.128.87",s="[No Lag] Melon 365 Death RDM Trouble [Build]",p=27017,}
+{ip="213.207.51.26",s="Addons Trouser Kill Build Epic Big [Build]",p=27020,}
+{ip="4.108.52.39",s="Epic No Trouser RDM No Build [SERIOUS]",p=27015,}
+{ip="53.44.148.94",s="Death Boner Big [12yo Admin]",p=27018,}
+{ip="154.188.57.153",s="365 Ultimate Ultimate Trouser Big [SERIOUS]",p=27018,}
+{ip="229.150.8.220",s="[DONATE] Trouser Kill Ultimate Big [Inf. Cash]",p=27015,}
+{ip="110.107.111.141",s="Stanley's Build Death Ultimate Trouble [Boner]",p=27019,}
+{ip="244.147.65.160",s="DarkRP RDM Big Addons Trouser Epic [SERIOUS]",p=27018,}
+{ip="240.87.199.185",s="No DarkRP 365 365",p=27017,}
+{ip="175.128.3.77",s="Addons Melon Trouser Death Epic [DarkRP]",p=27020,}
+{ip="218.64.209.68",s="Kill Boner Trouser DarkRP Melon 365 [RDM]",p=27020,}
+{ip="65.176.78.161",s="[RDM] Death Epic Trouser Big Death",p=27020,}
+{ip="109.215.56.124",s="[DONATE] Addons Big No Stanley's [SERIOUS]",p=27017,}
+{ip="13.44.75.233",s="[DONATE] Epic Boner Death [Build]",p=27016,}
+{ip="12.114.31.168",s="Kill Death Stanley's Boner Melon Trouser [GUNZ]",p=27016,}
+{ip="165.216.143.130",s="Kill Ultimate Kill Trouser Addons No [Epic]",p=27020,}
+{ip="42.18.118.76",s="[RDM] Kill Kill Big [Big]",p=27020,}
+{ip="231.72.17.21",s="Big RDM No",p=27018,}
+{ip="198.121.120.68",s="[DONATE] Ultimate Melon 365 Big Ultimate Ultimate [Trouble]",p=27015,}
+{ip="182.87.100.74",s="[SERIOUS] Big DarkRP Death RDM [SERIOUS]",p=27019,}
+{ip="153.241.141.12",s="Build Death Death Death 365 DarkRP",p=27016,}
+{ip="177.127.148.101",s="[DONATE] Kill Ultimate Kill Trouser Epic Ultimate [RDM]",p=27016,}
+{ip="70.141.147.237",s="[12yo Admin] Boner Epic Stanley's [Inf. Cash]",p=27020,}
+{ip="194.184.151.59",s="[GUNZ] Trouser Trouble Kill [GUNZ]",p=27018,}
+{ip="203.97.28.154",s="[RDM] DarkRP No Addons [Inf. Cash]",p=27019,}
+{ip="45.44.37.156",s="[SERIOUS] Stanley's Addons Epic Trouser Death Melon",p=27018,}
+{ip="115.77.27.144",s="[No Lag] Addons Kill Build Stanley's",p=27015,}
+{ip="26.138.117.74",s="[SERIOUS] Big No Build DarkRP DarkRP RDM [No]",p=27019,}
+{ip="104.159.38.173",s="Kill Big Melon [Ultimate]",p=27020,}
+{ip="206.68.4.97",s="[SERIOUS] Addons RDM Trouser Build Boner [No Lag]",p=27017,}
+{ip="57.244.194.58",s="[No Lag] Epic Death Addons Boner",p=27018,}
+{ip="180.145.224.183",s="RDM Trouser Kill [RDM]",p=27019,}
+{ip="51.227.149.41",s="[12yo Admin] Big RDM Ultimate DarkRP [DONATE]",p=27018,}
+{ip="205.60.65.184",s="[SERIOUS] No Boner Death RDM [GUNZ]",p=27019,}
+{ip="221.109.117.172",s="RDM Epic Epic Epic Addons Melon [DONATE]",p=27015,}
+{ip="244.135.25.224",s="[RDM] Death RDM Melon [Inf. Cash]",p=27017,}
+{ip="144.72.63.93",s="[SERIOUS] Melon 365 Big [No Lag]",p=27016,}
+{ip="25.188.107.22",s="[SERIOUS] No 365 RDM Trouble No Trouble [No]",p=27015,}
+{ip="171.104.221.101",s="[Inf. Cash] Kill Melon Addons Boner [RDM]",p=27020,}
+{ip="8.164.14.180",s="[12yo Admin] Death Trouser DarkRP No Trouser DarkRP [GUNZ]",p=27015,}
+{ip="23.99.47.143",s="[RDM] Kill Melon Melon 365 [RDM]",p=27020,}
+{ip="228.164.135.32",s="[RDM] Epic 365 Boner Boner 365 [Build]",p=27018,}
+{ip="184.63.154.237",s="[No Lag] Ultimate Stanley's Boner Addons Trouble [Stanley's]",p=27019,}
+{ip="23.220.47.56",s="Ultimate Trouser Trouser Kill Ultimate [12yo Admin]",p=27015,}
+{ip="214.198.233.29",s="[DONATE] No Addons Trouser 365 365 Stanley's [Melon]",p=27019,}
+{ip="34.164.105.76",s="Stanley's Boner Trouble",p=27020,}
+{ip="173.36.30.187",s="DarkRP Addons Ultimate Death Boner [RDM]",p=27018,}
+{ip="111.202.232.138",s="Addons Stanley's Melon RDM Build Stanley's [RDM]",p=27017,}
+{ip="132.70.170.74",s="[Inf. Cash] 365 No Boner [DONATE]",p=27019,}
+{ip="111.11.211.156",s="365 365 Build DarkRP Death Boner",p=27019,}
+{ip="123.73.74.146",s="Death Death Addons 365 DarkRP Addons",p=27016,}
+{ip="202.56.49.42",s="Stanley's Epic Kill Addons [SERIOUS]",p=27015,}
+{ip="136.91.20.96",s="[No Lag] Trouser Melon Melon 365 Ultimate Epic [Inf. Cash]",p=27020,}
+{ip="40.108.134.152",s="Trouble RDM Epic Epic Death Ultimate [Inf. Cash]",p=27020,}
+{ip="199.64.232.209",s="Stanley's Addons Stanley's Addons Epic DarkRP [Addons]",p=27016,}
+{ip="169.100.140.243",s="[DONATE] RDM RDM Stanley's [365]",p=27020,}
+{ip="25.121.141.174",s="Ultimate Epic Kill DarkRP Melon [No]",p=27015,}
+{ip="180.9.125.39",s="[Inf. Cash] RDM Boner Big Boner [Trouble]",p=27018,}
+{ip="232.98.2.142",s="365 Epic Big No [Build]",p=27020,}
+{ip="99.39.64.79",s="Epic Trouser 365 [Inf. Cash]",p=27016,}
+{ip="167.231.3.170",s="Build Death Melon Melon Kill",p=27016,}
+{ip="18.135.201.65",s="[GUNZ] No Epic RDM Stanley's [DONATE]",p=27015,}
+{ip="13.217.25.177",s="[RDM] 365 Death Addons Addons Big Trouble [DarkRP]",p=27015,}
+{ip="64.102.31.9",s="Big Death Big [12yo Admin]",p=27019,}
+{ip="123.225.243.175",s="Epic Melon 365 Big [Melon]",p=27020,}
+{ip="37.40.194.43",s="[RDM] Addons Addons Epic Melon",p=27020,}
+{ip="11.21.148.48",s="[GUNZ] Stanley's 365 RDM Ultimate Boner [DarkRP]",p=27020,}
+{ip="189.43.2.45",s="No Ultimate Melon RDM Ultimate",p=27018,}
+{ip="101.221.187.124",s="[GUNZ] Kill Boner DarkRP Boner",p=27020,}
+{ip="152.217.66.63",s="DarkRP Death Trouble No",p=27018,}
+{ip="124.222.221.167",s="[No Lag] Build Addons Ultimate Trouser RDM",p=27017,}
+{ip="96.229.55.40",s="[Inf. Cash] Epic Build Stanley's 365 [Epic]",p=27017,}
+{ip="1.32.54.94",s="[No Lag] RDM 365 Build Addons [RDM]",p=27015,}
+{ip="83.58.159.193",s="DarkRP RDM Boner Trouble Boner Kill [GUNZ]",p=27018,}
+{ip="137.137.167.109",s="[SERIOUS] RDM Kill Ultimate Melon",p=27020,}
+{ip="147.149.215.29",s="[SERIOUS] Ultimate Melon DarkRP [SERIOUS]",p=27019,}
+{ip="179.91.35.139",s="Trouble Boner Death Trouser DarkRP Addons [DONATE]",p=27016,}
+{ip="136.216.147.43",s="Ultimate Trouser RDM Stanley's 365 Addons",p=27017,}
+{ip="158.165.20.129",s="[Inf. Cash] Trouser Kill No 365 Boner [DONATE]",p=27016,}
+{ip="240.5.4.222",s="DarkRP Ultimate Ultimate [No Lag]",p=27019,}
+{ip="140.158.221.127",s="[RDM] Kill Kill Addons [Trouser]",p=27017,}
+{ip="215.78.139.7",s="Trouble Kill 365 Big Build [GUNZ]",p=27016,}
+{ip="39.69.135.205",s="[SERIOUS] Trouble Big Epic Kill Big [SERIOUS]",p=27015,}
+{ip="227.176.166.125",s="Stanley's Trouser Kill Big No [Inf. Cash]",p=27015,}
+{ip="178.114.159.174",s="Death DarkRP Trouser Ultimate DarkRP [Trouble]",p=27016,}
+{ip="160.141.65.191",s="[DONATE] RDM Addons 365 Trouser Kill [Addons]",p=27016,}
+{ip="74.224.29.61",s="[RDM] Epic Death Addons [Build]",p=27019,}
+{ip="220.147.119.220",s="[Inf. Cash] Epic 365 Trouble [No]",p=27017,}
+{ip="142.19.151.7",s="Melon Trouble Epic Trouser Boner Kill [Big]",p=27020,}
+{ip="241.216.81.42",s="[GUNZ] Trouser Kill No Melon [Epic]",p=27016,}
+{ip="113.148.5.224",s="Trouble Epic Big DarkRP [12yo Admin]",p=27019,}
+{ip="178.10.53.64",s="[12yo Admin] 365 Epic Boner Death Build DarkRP [Build]",p=27020,}
+{ip="238.16.139.116",s="DarkRP RDM No Trouser RDM Epic [Boner]",p=27015,}
+{ip="196.59.144.111",s="RDM DarkRP Trouser Epic [Ultimate]",p=27020,}
+{ip="212.80.7.227",s="Trouser Kill Death Epic Build RDM [Epic]",p=27017,}
+{ip="182.166.242.115",s="Ultimate 365 Boner [GUNZ]",p=27015,}
+{ip="207.184.67.71",s="[DONATE] Addons Stanley's No",p=27017,}
+{ip="70.184.181.47",s="[RDM] Ultimate Addons Kill [DarkRP]",p=27019,}
+{ip="207.213.237.194",s="[RDM] Melon Epic 365 365 [Kill]",p=27016,}
+{ip="60.174.195.14",s="Big Build Ultimate No [Kill]",p=27020,}
+{ip="193.178.68.241",s="[GUNZ] Build 365 Boner Trouble Addons",p=27019,}
+{ip="166.148.26.62",s="[SERIOUS] Death DarkRP Kill [DONATE]",p=27015,}
+{ip="55.102.201.71",s="[RDM] RDM Kill Ultimate",p=27020,}
+{ip="87.13.50.76",s="RDM Build Trouser Epic [No Lag]",p=27019,}
+{ip="104.178.2.57",s="Build DarkRP Boner",p=27020,}
+{ip="144.141.166.78",s="[Inf. Cash] Melon RDM Melon No Epic",p=27020,}
+{ip="118.224.148.97",s="Stanley's Trouser Epic",p=27015,}
+{ip="52.7.173.19",s="[DONATE] Big 365 Trouser No [DONATE]",p=27016,}
+{ip="149.136.3.107",s="[No Lag] Addons Addons Death Kill [SERIOUS]",p=27018,}
+{ip="227.33.10.221",s="RDM RDM Trouser Death 365",p=27020,}
+{ip="52.159.168.51",s="Addons Melon 365 Big No [RDM]",p=27018,}
+{ip="4.86.91.13",s="[No Lag] Big Boner Addons Addons [GUNZ]",p=27015,}
+{ip="167.10.56.103",s="Kill Trouser Melon Kill Addons RDM [Kill]",p=27018,}
+{ip="90.91.211.193",s="[Inf. Cash] Death RDM Ultimate Trouser Big",p=27016,}
+{ip="132.81.137.223",s="[DONATE] Trouble Build Trouser [DONATE]",p=27016,}
+{ip="58.148.94.166",s="[SERIOUS] DarkRP Melon Big",p=27017,}
+{ip="73.60.184.208",s="[12yo Admin] Ultimate Melon RDM DarkRP Big [No Lag]",p=27019,}
+{ip="166.35.85.151",s="[No Lag] Stanley's Boner RDM Addons",p=27019,}
+{ip="93.35.64.6",s="Big Boner Build Kill Stanley's",p=27016,}
+{ip="93.131.223.37",s="[No Lag] Stanley's Death RDM RDM Trouble RDM [Trouser]",p=27017,}
+{ip="223.44.172.93",s="Stanley's Melon Melon [GUNZ]",p=27015,}
+{ip="172.48.79.117",s="[Inf. Cash] Trouser Death Trouser Build No Boner [Build]",p=27019,}
+{ip="164.169.150.215",s="Big Big Trouble DarkRP Addons Epic [No Lag]",p=27019,}
+{ip="203.114.3.158",s="[Inf. Cash] Melon 365 Trouble No 365 [Build]",p=27016,}
+{ip="79.69.26.36",s="Melon Boner Stanley's",p=27015,}
+{ip="21.65.211.131",s="[GUNZ] Epic Trouble Big [Build]",p=27019,}
+{ip="98.140.116.196",s="365 No Melon Kill Stanley's Ultimate [No]",p=27017,}
+{ip="210.158.172.22",s="Stanley's No 365 Build No Big [365]",p=27020,}
+{ip="211.126.33.25",s="Ultimate Addons No DarkRP Trouble",p=27015,}
+{ip="146.102.40.72",s="Epic Epic Death Melon Trouble Build",p=27018,}
+{ip="22.203.83.63",s="Trouser Epic Melon Boner Trouser Melon [RDM]",p=27017,}
+{ip="51.137.66.193",s="Trouser Melon Trouser Death Trouble [DONATE]",p=27015,}
+{ip="66.163.199.198",s="[12yo Admin] RDM Ultimate Trouser Ultimate Big No",p=27017,}
+{ip="133.205.132.228",s="Build Trouser Kill Ultimate Build [DONATE]",p=27020,}
+{ip="182.40.32.38",s="[DONATE] Big Big Death Ultimate Stanley's Boner [Big]",p=27015,}
+{ip="12.146.36.131",s="Addons Stanley's Melon Boner Melon [Epic]",p=27017,}
+{ip="81.14.5.78",s="RDM DarkRP Boner Death Melon Death [Epic]",p=27016,}
+{ip="40.100.77.197",s="[12yo Admin] Trouble Kill Boner Ultimate Ultimate [12yo Admin]",p=27018,}
+{ip="105.21.42.128",s="Kill Trouser DarkRP Death [SERIOUS]",p=27015,}
+{ip="174.140.2.134",s="[No Lag] Stanley's DarkRP Addons [Trouble]",p=27017,}
+{ip="219.32.2.101",s="[RDM] Trouser Trouble Boner Death Stanley's [RDM]",p=27019,}
+{ip="41.217.52.69",s="Ultimate Epic Addons DarkRP [DONATE]",p=27015,}
+{ip="160.205.207.177",s="Trouser Trouble Melon 365 Epic [Inf. Cash]",p=27015,}
+{ip="216.129.30.197",s="Big Trouser RDM DarkRP Trouble Addons [Trouser]",p=27020,}
+{ip="153.221.115.207",s="No No 365 DarkRP Melon [DarkRP]",p=27015,}
+{ip="167.114.236.200",s="Kill No Trouser Big Death Death [No Lag]",p=27020,}
+{ip="34.2.193.127",s="DarkRP DarkRP Stanley's No RDM Big",p=27018,}
+{ip="183.180.1.232",s="[GUNZ] Big Ultimate Big [RDM]",p=27016,}
+{ip="145.55.215.230",s="Build 365 DarkRP DarkRP Addons DarkRP [Ultimate]",p=27017,}
+{ip="26.211.191.51",s="[SERIOUS] Melon Kill Ultimate [Addons]",p=27019,}
+{ip="106.95.1.83",s="Trouser Melon Kill Kill [Epic]",p=27020,}
+{ip="146.8.29.123",s="Epic Death Ultimate RDM DarkRP [DONATE]",p=27015,}
+{ip="59.59.236.24",s="[Inf. Cash] Ultimate Ultimate DarkRP Big",p=27020,}
+{ip="20.162.100.55",s="[RDM] Addons Stanley's Ultimate Addons DarkRP Ultimate",p=27015,}
+{ip="233.84.142.61",s="RDM Epic Addons",p=27019,}
+{ip="11.128.92.210",s="Trouble DarkRP RDM Death [Stanley's]",p=27016,}
+{ip="24.225.70.47",s="Kill Build Melon Trouser DarkRP Ultimate [SERIOUS]",p=27017,}
+{ip="229.180.244.152",s="[RDM] Ultimate Boner Boner Boner [Build]",p=27020,}
+{ip="244.145.113.16",s="[GUNZ] Build Death Addons 365 RDM Stanley's [Big]",p=27015,}
+{ip="238.24.214.61",s="[SERIOUS] Epic 365 RDM [Addons]",p=27017,}
+{ip="211.107.11.18",s="RDM Ultimate Melon Kill Boner [SERIOUS]",p=27016,}
+{ip="208.129.204.126",s="Ultimate No 365",p=27016,}
+{ip="95.60.129.147",s="Stanley's No Addons Build Trouble Big [RDM]",p=27019,}
+{ip="9.208.217.58",s="[DONATE] Kill Boner Kill RDM Build 365 [RDM]",p=27020,}
+{ip="80.147.18.177",s="[GUNZ] Stanley's 365 Addons [SERIOUS]",p=27019,}
+{ip="170.76.189.79",s="Boner 365 Epic RDM [No Lag]",p=27019,}
+{ip="10.117.160.78",s="[RDM] No Epic DarkRP [Build]",p=27019,}
+{ip="1.106.132.13",s="DarkRP Boner Trouble Big [Trouser]",p=27015,}
+{ip="200.22.222.206",s="[Inf. Cash] Boner Addons No Death Trouser Boner [365]",p=27020,}
+{ip="77.58.17.153",s="Boner Epic Ultimate Addons Ultimate",p=27019,}
+{ip="217.46.44.10",s="[SERIOUS] Trouser Build Addons Big [Melon]",p=27018,}
+{ip="200.210.179.5",s="Build Melon Melon No RDM [SERIOUS]",p=27020,}
+{ip="28.221.29.144",s="[RDM] Trouble Melon Death Stanley's Trouser Big [Death]",p=27018,}
+{ip="229.68.50.59",s="[SERIOUS] Stanley's Addons Death Kill Trouser Boner [RDM]",p=27016,}
+{ip="135.136.156.139",s="No Ultimate Melon Trouble 365",p=27020,}
+{ip="204.172.103.205",s="Trouser 365 Kill Melon Build DarkRP",p=27017,}
+{ip="237.169.223.231",s="Big Trouble Death Stanley's",p=27018,}
+{ip="156.8.179.139",s="Trouser Kill Death No [RDM]",p=27016,}
+{ip="126.141.76.124",s="[RDM] Trouser Ultimate Stanley's Addons [Trouser]",p=27020,}
+{ip="72.112.82.126",s="Kill 365 Big [Death]",p=27020,}
+{ip="61.187.144.107",s="[SERIOUS] Build DarkRP Stanley's Stanley's DarkRP [SERIOUS]",p=27015,}
+{ip="122.135.183.8",s="Stanley's Death Stanley's [RDM]",p=27016,}
+{ip="192.41.237.34",s="[SERIOUS] 365 Melon RDM Ultimate Addons [SERIOUS]",p=27015,}
+{ip="158.95.234.181",s="[GUNZ] Ultimate Ultimate Epic Ultimate Trouser",p=27018,}
+{ip="195.90.210.82",s="Ultimate Big Epic [Kill]",p=27017,}
+{ip="230.19.181.78",s="[No Lag] DarkRP RDM Build Epic [SERIOUS]",p=27016,}
+{ip="140.227.76.40",s="Ultimate Build Build Death Boner [DarkRP]",p=27020,}
+{ip="225.49.49.132",s="[Inf. Cash] Epic RDM Stanley's Ultimate Melon DarkRP [Death]",p=27020,}
+{ip="13.139.77.230",s="Kill Addons 365",p=27019,}
+{ip="158.171.133.95",s="Epic Kill Kill",p=27015,}
+{ip="130.140.3.127",s="Ultimate Kill Death Stanley's Kill Death [RDM]",p=27020,}
+{ip="147.104.191.32",s="[12yo Admin] Stanley's Trouble RDM Death Ultimate Ultimate [Build]",p=27015,}
+{ip="111.230.149.64",s="Trouser DarkRP 365 RDM RDM [Ultimate]",p=27016,}
+{ip="109.215.108.27",s="[RDM] Melon Boner Trouser Boner Big [Trouser]",p=27019,}
+{ip="83.194.63.178",s="Ultimate Addons Trouser",p=27020,}
+{ip="87.96.223.223",s="Melon Ultimate Trouble Death Trouble 365",p=27015,}
+{ip="173.183.140.140",s="[RDM] Epic 365 Addons No Melon",p=27017,}
+{ip="49.123.35.57",s="[SERIOUS] Death Addons No Kill Big Trouble [Inf. Cash]",p=27016,}
+{ip="123.183.146.204",s="[DONATE] Stanley's Trouble 365 [Epic]",p=27020,}
+{ip="113.55.110.108",s="Death Trouble Stanley's [12yo Admin]",p=27020,}
+{ip="148.40.78.4",s="[Inf. Cash] 365 365 Trouser Ultimate Trouser [DONATE]",p=27015,}
+{ip="85.178.24.220",s="[SERIOUS] Stanley's Boner RDM 365 Trouser",p=27016,}
+{ip="93.71.9.148",s="Trouser Ultimate Stanley's Build [Death]",p=27017,}
+{ip="78.31.241.119",s="Ultimate RDM Build [SERIOUS]",p=27018,}
+{ip="204.71.216.107",s="No Trouble 365 DarkRP Build Trouble",p=27015,}
+{ip="197.234.204.79",s="[Inf. Cash] Melon Death Ultimate No [No Lag]",p=27015,}
+{ip="34.178.170.126",s="[Inf. Cash] 365 365 Ultimate [Death]",p=27018,}
+{ip="53.28.178.162",s="Stanley's No RDM Epic Death [Kill]",p=27019,}
+{ip="181.192.35.132",s="[No Lag] RDM 365 Melon Trouble Big Build [No Lag]",p=27015,}
+{ip="47.170.114.84",s="[12yo Admin] Ultimate Boner Boner Trouser Big [Trouser]",p=27015,}
+{ip="87.58.153.191",s="[DONATE] Big No Kill Build Ultimate [Build]",p=27020,}
+{ip="41.15.40.240",s="Ultimate Addons Big Trouble Melon [SERIOUS]",p=27020,}
+{ip="192.197.219.68",s="[RDM] Kill Melon Stanley's No 365",p=27015,}
+{ip="2.148.42.11",s="Ultimate RDM Big",p=27019,}
+{ip="132.222.198.139",s="[DONATE] Melon Melon Stanley's Big",p=27020,}
+{ip="114.17.124.190",s="Epic DarkRP RDM Ultimate Kill DarkRP [12yo Admin]",p=27019,}
+{ip="53.83.168.145",s="[DONATE] Boner 365 Build [Addons]",p=27020,}
+{ip="84.201.76.51",s="[GUNZ] RDM Addons No Epic [DONATE]",p=27015,}
+{ip="132.151.243.84",s="Boner Trouble Death Big Kill Build [No Lag]",p=27015,}
+{ip="113.10.212.44",s="[GUNZ] Trouble No RDM",p=27017,}
+{ip="119.194.69.219",s="[No Lag] DarkRP Kill Trouble [Build]",p=27020,}
+{ip="88.224.199.61",s="DarkRP DarkRP Melon Kill [GUNZ]",p=27015,}
+{ip="20.194.178.130",s="Trouble No Kill Addons [RDM]",p=27020,}
+{ip="108.77.130.206",s="Trouble Trouser Death 365 Trouble [Inf. Cash]",p=27018,}
+{ip="14.71.71.240",s="Boner Death Ultimate Trouser RDM Epic [DONATE]",p=27020,}
+{ip="30.62.6.12",s="[Inf. Cash] Addons RDM No Melon Ultimate [Inf. Cash]",p=27017,}
+{ip="203.35.68.120",s="Addons Boner Epic Stanley's",p=27020,}
+{ip="76.236.218.45",s="Trouser Trouser No Build Addons [No Lag]",p=27015,}
+{ip="93.35.59.29",s="[RDM] No 365 Stanley's RDM Melon [SERIOUS]",p=27018,}
+{ip="116.35.149.52",s="[RDM] No RDM Stanley's Build Death [SERIOUS]",p=27020,}
+{ip="38.22.166.71",s="Epic 365 Addons Trouble Ultimate Boner",p=27019,}
+{ip="24.42.150.161",s="Build Epic DarkRP Trouble Death Ultimate [No Lag]",p=27017,}
+{ip="39.199.61.4",s="[RDM] Trouser Trouser Trouble",p=27020,}
+{ip="35.62.157.128",s="[DONATE] Big Build Melon Melon [DONATE]",p=27015,}
+{ip="27.97.128.68",s="[DONATE] Death DarkRP Trouble [DONATE]",p=27017,}
+{ip="69.95.127.2",s="[GUNZ] Kill Epic Kill Epic [Stanley's]",p=27015,}
+{ip="230.144.40.33",s="[12yo Admin] Trouser Kill DarkRP",p=27019,}
+{ip="52.102.92.153",s="[SERIOUS] RDM Addons Ultimate Ultimate",p=27017,}
+{ip="81.107.23.50",s="[12yo Admin] Trouser Big Addons Addons [DONATE]",p=27020,}
+{ip="135.9.26.103",s="Stanley's Ultimate DarkRP Melon Trouser Ultimate [No]",p=27017,}
+{ip="146.39.106.175",s="[GUNZ] Epic Death Stanley's Big Addons [Inf. Cash]",p=27019,}
+{ip="27.176.92.75",s="[12yo Admin] 365 DarkRP DarkRP [Boner]",p=27018,}
+{ip="177.3.73.148",s="[RDM] Addons Trouser Melon",p=27016,}
+{ip="195.165.204.60",s="Trouble DarkRP Epic 365 Epic [Ultimate]",p=27016,}
+{ip="165.132.101.221",s="Big Epic Epic Death DarkRP [GUNZ]",p=27017,}
+{ip="102.131.210.73",s="[12yo Admin] Trouser Epic Stanley's Big Boner [Kill]",p=27016,}
+{ip="152.145.23.214",s="Boner DarkRP Melon Death Trouser [Ultimate]",p=27018,}
+{ip="129.217.165.51",s="No DarkRP Kill",p=27017,}
+{ip="141.148.15.99",s="[GUNZ] No Ultimate Ultimate Big Epic [12yo Admin]",p=27020,}
+{ip="67.199.197.202",s="[RDM] Death Melon No Trouser 365",p=27016,}
+{ip="3.10.208.96",s="365 RDM Trouser Boner Trouser [SERIOUS]",p=27016,}
+{ip="19.103.140.171",s="Stanley's Trouble Boner DarkRP Boner",p=27020,}
+{ip="219.142.158.216",s="No Stanley's Trouble Epic Kill",p=27017,}
+{ip="241.230.85.150",s="[GUNZ] Boner Epic Ultimate Addons [Inf. Cash]",p=27019,}
+{ip="222.4.148.241",s="[RDM] Stanley's Kill Boner Big Stanley's [SERIOUS]",p=27016,}
+{ip="228.160.118.230",s="Big Kill 365 Stanley's No Kill [Melon]",p=27015,}
+{ip="81.226.192.80",s="[GUNZ] 365 Kill DarkRP [Boner]",p=27017,}
+{ip="82.127.239.195",s="Trouser Build Ultimate Trouble Epic",p=27015,}
+{ip="85.39.201.94",s="No Stanley's Trouble [Ultimate]",p=27015,}
+{ip="188.202.43.38",s="[DONATE] Build Epic Trouble [Build]",p=27015,}
+{ip="179.53.106.113",s="Build No DarkRP Build",p=27020,}
+{ip="223.170.21.224",s="[SERIOUS] Build Ultimate 365 [GUNZ]",p=27020,}
+{ip="96.24.205.183",s="[Inf. Cash] Stanley's Stanley's Trouble Kill Big [RDM]",p=27017,}
+{ip="72.26.172.79",s="[12yo Admin] Big 365 Stanley's DarkRP Epic [SERIOUS]",p=27017,}
+{ip="172.51.13.38",s="[DONATE] Stanley's Build Epic Stanley's Big Kill",p=27020,}
+{ip="2.40.111.145",s="[RDM] Boner Big Trouser RDM [No Lag]",p=27019,}
+{ip="146.197.28.171",s="[12yo Admin] Kill Epic Kill No [Death]",p=27015,}
+{ip="20.76.164.226",s="[DONATE] 365 Build No Boner Melon Kill [Inf. Cash]",p=27018,}
+{ip="74.40.185.27",s="[DONATE] Kill No 365 No [No Lag]",p=27018,}
+{ip="138.224.80.173",s="[12yo Admin] No Epic No Boner",p=27019,}
+{ip="169.127.11.191",s="RDM No Build Ultimate RDM Addons [Trouser]",p=27018,}
+{ip="148.43.2.50",s="[No Lag] RDM DarkRP Ultimate DarkRP",p=27015,}
+{ip="63.194.117.17",s="Death Kill Trouser Melon Death",p=27016,}
+{ip="177.210.120.147",s="[GUNZ] Epic Death Build Big [Death]",p=27020,}
+{ip="212.141.134.150",s="[GUNZ] Ultimate RDM Boner Addons [Kill]",p=27017,}
+{ip="1.36.90.18",s="Epic Trouser Kill Epic Big Death [RDM]",p=27015,}
+{ip="8.75.239.14",s="[GUNZ] Stanley's Ultimate Boner [12yo Admin]",p=27017,}
+{ip="170.206.128.8",s="Death Epic No [Trouser]",p=27019,}
+{ip="165.240.184.92",s="[12yo Admin] Build Build Ultimate Big Ultimate [Death]",p=27020,}
+{ip="100.116.4.221",s="Big Trouble Addons Death Ultimate",p=27016,}
+{ip="188.88.228.211",s="[GUNZ] No No DarkRP [SERIOUS]",p=27020,}
+{ip="73.238.93.209",s="[Inf. Cash] RDM Melon Boner Stanley's Boner Ultimate",p=27017,}
+{ip="218.101.110.149",s="[SERIOUS] Addons Stanley's Stanley's Stanley's Big 365 [RDM]",p=27015,}
+{ip="215.180.239.51",s="[Inf. Cash] Build No Big [Big]",p=27016,}
+{ip="203.7.19.147",s="[Inf. Cash] No Boner Epic Ultimate [Addons]",p=27019,}
+{ip="179.230.138.9",s="[Inf. Cash] Stanley's Big Build RDM Big",p=27019,}
+{ip="4.208.141.235",s="[RDM] Melon Addons Big Trouble Boner 365 [Stanley's]",p=27018,}
+{ip="150.171.23.6",s="[GUNZ] Big Stanley's Death Ultimate Stanley's",p=27020,}
+{ip="36.57.15.26",s="[Inf. Cash] Stanley's No Big [Stanley's]",p=27020,}
+{ip="173.137.231.178",s="[Inf. Cash] No Addons Epic DarkRP Epic",p=27017,}
+{ip="111.234.137.243",s="[SERIOUS] Big Big Big No Boner",p=27017,}
+{ip="232.243.150.54",s="[DONATE] Trouser Stanley's Trouser Kill Stanley's Boner [Melon]",p=27016,}
+{ip="185.163.128.110",s="RDM Melon Trouser Death [SERIOUS]",p=27015,}
+{ip="185.43.186.175",s="[Inf. Cash] Trouble DarkRP Trouser [RDM]",p=27020,}
+{ip="60.159.230.86",s="[No Lag] Big Trouser Trouser 365 [RDM]",p=27018,}
+{ip="120.228.168.198",s="Build RDM Addons",p=27016,}
+{ip="233.11.126.169",s="Melon Epic Kill Build Stanley's [No]",p=27017,}
+{ip="165.181.92.112",s="[GUNZ] Ultimate Trouser Kill Trouser Ultimate",p=27018,}
+{ip="185.80.194.171",s="[DONATE] Trouser Boner RDM DarkRP [Death]",p=27017,}
+{ip="149.134.68.110",s="Kill DarkRP RDM Big Stanley's [SERIOUS]",p=27016,}
+{ip="91.217.96.129",s="[RDM] RDM Death Build Addons 365 [Trouble]",p=27017,}
+{ip="50.177.200.159",s="No Trouble Boner [Death]",p=27018,}
+{ip="229.41.201.153",s="[No Lag] Melon DarkRP Death Melon Trouser [Addons]",p=27015,}
+{ip="143.140.144.2",s="[RDM] Stanley's Epic Build No [SERIOUS]",p=27018,}
+{ip="81.20.34.179",s="Ultimate Ultimate Melon Melon Addons Trouble [Ultimate]",p=27016,}
+{ip="160.178.180.32",s="Trouble DarkRP Addons Build Addons [SERIOUS]",p=27016,}
+{ip="35.72.182.174",s="No 365 365 [Build]",p=27018,}
+{ip="235.157.18.65",s="Big Addons No Ultimate",p=27019,}
+{ip="11.100.27.106",s="Boner Big Big [Trouser]",p=27019,}
+{ip="189.130.154.59",s="Ultimate Addons Melon Epic [365]",p=27019,}
+{ip="141.229.169.201",s="No 365 RDM RDM Stanley's Ultimate [12yo Admin]",p=27015,}
+{ip="189.63.199.123",s="[SERIOUS] Ultimate Trouser No Boner [GUNZ]",p=27017,}
+{ip="107.135.128.169",s="Big Ultimate Stanley's Ultimate Stanley's [RDM]",p=27017,}
+{ip="94.204.166.228",s="[GUNZ] Build 365 Stanley's Trouser [Trouser]",p=27018,}
+{ip="93.22.176.194",s="No DarkRP Melon [RDM]",p=27019,}
+{ip="229.241.81.198",s="Epic DarkRP Addons [GUNZ]",p=27015,}
+{ip="239.224.225.188",s="[Inf. Cash] 365 Ultimate Kill RDM Melon [365]",p=27020,}
+{ip="49.15.13.102",s="[RDM] RDM Kill Stanley's No RDM [Big]",p=27016,}
+{ip="90.33.100.239",s="Addons Stanley's Melon Melon [Trouser]",p=27017,}
+{ip="192.12.27.159",s="Death Kill Melon Epic [Trouser]",p=27015,}
+{ip="171.126.111.186",s="[Inf. Cash] Build Big DarkRP RDM 365 Boner [12yo Admin]",p=27020,}
+{ip="230.86.138.41",s="Death DarkRP Boner Trouble Stanley's No [Stanley's]",p=27019,}
+{ip="167.193.133.209",s="Kill 365 Ultimate Trouble DarkRP [365]",p=27017,}
+{ip="166.227.90.109",s="Trouble DarkRP Melon No 365 Build [Stanley's]",p=27017,}
+{ip="8.211.62.80",s="DarkRP Build Stanley's",p=27019,}
+{ip="152.109.147.17",s="365 Stanley's Epic Death [Epic]",p=27020,}
+{ip="218.105.125.240",s="[Inf. Cash] Boner DarkRP Trouser Boner [12yo Admin]",p=27018,}
+{ip="7.124.28.49",s="[DONATE] DarkRP No Addons Build Trouser [No Lag]",p=27019,}
+{ip="106.106.34.111",s="[No Lag] Boner Trouble Build Addons [Ultimate]",p=27019,}
+{ip="110.86.28.46",s="[No Lag] No Trouble Boner [Ultimate]",p=27017,}
+{ip="193.77.155.104",s="[Inf. Cash] Death Kill Melon 365",p=27017,}
+{ip="69.226.101.49",s="Big Trouser Kill Epic 365 Melon [12yo Admin]",p=27020,}
+{ip="97.224.55.225",s="[No Lag] RDM Epic RDM Death Stanley's [DarkRP]",p=27017,}
+{ip="90.175.200.41",s="[GUNZ] Melon Epic Trouser Build Ultimate [Trouble]",p=27019,}
+{ip="193.1.76.47",s="[Inf. Cash] DarkRP DarkRP RDM [Addons]",p=27018,}
+{ip="72.158.95.218",s="Addons Death Melon Ultimate Melon [Kill]",p=27019,}
+{ip="3.244.59.9",s="[12yo Admin] Addons Big Big Epic Boner",p=27017,}
+{ip="151.74.26.86",s="Boner No DarkRP Ultimate Epic Epic",p=27019,}
+{ip="71.30.228.175",s="Boner Death Epic DarkRP 365 [RDM]",p=27018,}
+{ip="26.65.235.71",s="Stanley's Ultimate Epic Stanley's [RDM]",p=27016,}
+{ip="59.53.15.214",s="RDM RDM Big Trouble [RDM]",p=27020,}
+{ip="58.101.46.52",s="Build 365 Build [RDM]",p=27017,}
+{ip="30.76.199.77",s="[Inf. Cash] Epic Death DarkRP Death Big Melon [Boner]",p=27017,}
+{ip="216.100.177.173",s="[SERIOUS] Melon Ultimate Epic 365 [Trouble]",p=27016,}
+{ip="80.178.142.69",s="DarkRP 365 Addons Stanley's [Epic]",p=27016,}
+{ip="43.116.76.35",s="Ultimate No Melon DarkRP RDM [DONATE]",p=27020,}
+{ip="181.97.124.96",s="[12yo Admin] Death No Trouser",p=27017,}
+{ip="133.36.225.211",s="RDM Trouble Build Death No [Trouble]",p=27017,}
+{ip="57.53.123.139",s="[DONATE] Death DarkRP Melon Boner RDM No [No Lag]",p=27018,}
+{ip="157.44.37.98",s="Death Trouser Stanley's [DONATE]",p=27020,}
+{ip="217.67.52.127",s="[Inf. Cash] No Boner Addons [RDM]",p=27019,}
+{ip="136.33.62.153",s="[Inf. Cash] Stanley's DarkRP Build Stanley's Trouser [RDM]",p=27019,}
+{ip="101.50.130.200",s="Epic Stanley's Big Kill Build Trouble",p=27018,}
+{ip="221.92.12.169",s="No 365 Big [No Lag]",p=27018,}
+{ip="19.161.56.199",s="Build No Big Ultimate Kill [SERIOUS]",p=27020,}
+{ip="142.202.148.222",s="Stanley's Melon Trouble Epic",p=27016,}
+{ip="89.207.75.141",s="Trouble 365 Death Trouble [No Lag]",p=27018,}
+{ip="77.87.134.87",s="No Boner Build Melon Melon DarkRP [RDM]",p=27020,}
+{ip="59.229.33.107",s="[No Lag] Kill Kill Build [GUNZ]",p=27019,}
+{ip="211.52.102.167",s="[SERIOUS] Boner Trouble Addons No Epic Trouble",p=27017,}
+{ip="33.13.33.82",s="[DONATE] 365 365 Epic [GUNZ]",p=27020,}
+{ip="96.112.44.150",s="[SERIOUS] Boner Ultimate Epic [Epic]",p=27015,}
+{ip="133.115.154.94",s="Stanley's Melon Addons 365 [Build]",p=27018,}
+{ip="199.150.102.15",s="Kill Ultimate Trouble Kill DarkRP",p=27019,}
+{ip="20.18.82.91",s="[RDM] Death Kill Stanley's Addons [RDM]",p=27020,}
+{ip="152.185.41.131",s="[No Lag] Boner Ultimate 365 Addons No [12yo Admin]",p=27020,}
+{ip="121.56.241.41",s="[SERIOUS] No RDM RDM Stanley's RDM [Death]",p=27018,}
+{ip="26.38.85.100",s="[Inf. Cash] 365 Big DarkRP Death [12yo Admin]",p=27015,}
+{ip="17.184.106.74",s="[No Lag] 365 Ultimate Big Stanley's RDM [RDM]",p=27016,}
+{ip="215.232.98.156",s="[RDM] Kill Trouser Kill [12yo Admin]",p=27017,}
+{ip="39.36.79.177",s="[GUNZ] Addons No RDM [Trouble]",p=27020,}
+{ip="210.210.131.230",s="Epic Trouser Boner [DarkRP]",p=27018,}
+{ip="18.84.203.151",s="Boner No Boner 365 DarkRP Kill [Stanley's]",p=27015,}
+{ip="49.35.57.183",s="Big Ultimate Kill Big Melon Ultimate [12yo Admin]",p=27015,}
+{ip="101.104.175.223",s="Stanley's Death Epic Ultimate Build",p=27016,}
+{ip="174.171.91.36",s="No Ultimate Trouser Stanley's Trouser [Trouble]",p=27015,}
+{ip="239.218.154.170",s="Death Build Ultimate Trouble 365 Build [RDM]",p=27017,}
+{ip="168.76.210.65",s="[GUNZ] 365 Melon Addons Big Boner [Death]",p=27019,}
+{ip="199.107.143.147",s="Trouser Build RDM Ultimate Trouser",p=27017,}
+{ip="135.118.56.57",s="[12yo Admin] Stanley's Kill Trouser No No",p=27017,}
+{ip="95.220.17.6",s="Addons Melon Kill",p=27017,}
+{ip="236.76.79.181",s="[DONATE] No No Kill Boner Build [GUNZ]",p=27019,}
+{ip="194.198.237.205",s="[No Lag] Big 365 Trouble Epic [365]",p=27020,}
+{ip="184.75.170.189",s="Build RDM No [Stanley's]",p=27020,}
+{ip="23.193.38.13",s="[SERIOUS] 365 Trouser No Big RDM Big [SERIOUS]",p=27019,}
+{ip="23.104.42.88",s="Epic Big Trouble Ultimate [Inf. Cash]",p=27016,}
+{ip="143.39.99.40",s="[GUNZ] Build Trouser RDM Epic Big Big [Inf. Cash]",p=27017,}
+{ip="190.213.89.150",s="[SERIOUS] RDM RDM No",p=27016,}
+{ip="133.164.109.40",s="[No Lag] No No Trouble Build Build Boner [12yo Admin]",p=27016,}
+{ip="241.93.116.18",s="DarkRP Melon Trouble [Trouble]",p=27018,}
+{ip="210.142.11.135",s="[SERIOUS] Stanley's Build No [SERIOUS]",p=27018,}
+{ip="18.106.130.27",s="[GUNZ] DarkRP Trouser Build Addons Boner [Inf. Cash]",p=27020,}
+{ip="230.171.225.68",s="[Inf. Cash] Trouble 365 Death [Kill]",p=27017,}
+{ip="79.38.95.81",s="[No Lag] RDM Boner Trouser Epic Trouble Ultimate [DONATE]",p=27018,}
+{ip="221.141.214.58",s="Kill Stanley's 365 Kill Boner [No Lag]",p=27020,}
+{ip="96.60.110.155",s="[No Lag] Boner Build Boner Melon Ultimate [Boner]",p=27020,}
+{ip="186.238.163.71",s="Trouble Death Trouser Build [Boner]",p=27018,}
+{ip="115.217.207.161",s="[No Lag] DarkRP Big Boner Stanley's No [GUNZ]",p=27018,}
+{ip="195.104.184.162",s="Trouble Kill Melon No",p=27019,}
+{ip="162.86.111.49",s="Stanley's Ultimate 365 Addons Boner Big [DONATE]",p=27017,}
+{ip="40.133.141.137",s="RDM Trouser RDM Kill [12yo Admin]",p=27018,}
+{ip="151.152.61.108",s="[No Lag] Trouble Death Boner Boner Boner",p=27019,}
+{ip="128.210.153.30",s="[12yo Admin] Kill RDM Addons [No Lag]",p=27016,}
+{ip="76.71.79.111",s="[SERIOUS] Boner RDM No No [GUNZ]",p=27019,}
+{ip="235.64.27.41",s="[No Lag] Build Ultimate Kill RDM DarkRP",p=27015,}
+{ip="150.141.200.143",s="[DONATE] Addons Build Boner Trouble [Boner]",p=27020,}
+{ip="130.106.36.17",s="RDM Stanley's Big",p=27020,}
+{ip="205.190.208.55",s="[SERIOUS] Trouser DarkRP Ultimate No Death",p=27015,}
+{ip="66.14.179.236",s="[RDM] DarkRP Boner Big Boner DarkRP [Inf. Cash]",p=27018,}
+{ip="199.53.77.146",s="Kill Boner Melon Build [365]",p=27017,}
+{ip="115.84.142.206",s="RDM Kill Ultimate Death [Inf. Cash]",p=27017,}
+{ip="137.160.112.65",s="Trouser No Kill Big 365 [GUNZ]",p=27015,}
+{ip="123.54.228.68",s="[Inf. Cash] Melon Death Stanley's [Trouser]",p=27015,}
+{ip="95.195.170.91",s="[SERIOUS] Death Boner RDM Trouble Trouble Melon [365]",p=27018,}
+{ip="209.87.127.138",s="[Inf. Cash] No Build Build DarkRP Boner No",p=27019,}
+{ip="128.5.38.13",s="[No Lag] No Stanley's Trouble [12yo Admin]",p=27015,}
+{ip="204.208.218.32",s="[No Lag] Boner Epic Ultimate [Addons]",p=27018,}
+{ip="223.174.116.187",s="Ultimate Big DarkRP Epic Boner Trouser [Death]",p=27020,}
+{ip="138.137.30.213",s="Kill Big RDM Big RDM",p=27018,}
+{ip="168.83.141.230",s="[12yo Admin] Addons Trouble Boner Epic",p=27019,}
+{ip="165.111.97.4",s="[DONATE] Trouser Build Addons No [Melon]",p=27019,}
+{ip="203.141.51.122",s="RDM Ultimate Build Kill [No Lag]",p=27019,}
+{ip="234.182.1.185",s="[12yo Admin] Big Death Build Trouser [365]",p=27020,}
+{ip="216.94.164.103",s="[No Lag] Stanley's Build Death [Build]",p=27017,}
+{ip="157.192.168.178",s="[RDM] Addons Addons Death Kill Big DarkRP [RDM]",p=27019,}
+{ip="45.218.202.38",s="No DarkRP Build [Stanley's]",p=27019,}
+{ip="46.227.201.199",s="[DONATE] Epic Trouser No No [Epic]",p=27019,}
+{ip="216.122.19.80",s="Ultimate Epic 365 Addons Melon Epic [Inf. Cash]",p=27019,}
+{ip="14.150.7.38",s="[DONATE] Death Addons Big [RDM]",p=27020,}
+{ip="220.191.39.1",s="[No Lag] Death Stanley's DarkRP Epic Boner Epic",p=27020,}
+{ip="234.201.46.116",s="DarkRP Big Trouser Trouser Stanley's Epic",p=27015,}
+{ip="174.141.150.107",s="DarkRP Epic Big Trouser [No Lag]",p=27017,}
+{ip="1.130.194.6",s="RDM DarkRP No Melon Big Stanley's [Boner]",p=27018,}
+{ip="214.153.156.36",s="Melon RDM DarkRP DarkRP Boner Death",p=27016,}
+{ip="33.242.100.90",s="[No Lag] Build Epic 365 Boner",p=27018,}
+{ip="219.42.50.131",s="Build RDM Trouble [DarkRP]",p=27016,}
+{ip="109.96.107.242",s="[SERIOUS] Death Melon Trouser Big RDM Stanley's",p=27016,}
+{ip="148.28.204.23",s="[RDM] DarkRP Death No 365 Ultimate [RDM]",p=27019,}
+{ip="135.126.186.17",s="[DONATE] Death Epic RDM Ultimate [Trouble]",p=27015,}
+{ip="142.190.6.151",s="Trouble Melon No Death Kill 365 [Big]",p=27015,}
+{ip="170.156.214.26",s="Stanley's Stanley's RDM Trouser No Melon",p=27015,}
+{ip="11.181.240.199",s="[12yo Admin] RDM Boner Trouser Addons DarkRP [SERIOUS]",p=27019,}
+{ip="6.203.94.149",s="[GUNZ] No Stanley's 365 No",p=27019,}
+{ip="59.135.75.66",s="Big Death Build [365]",p=27016,}
+{ip="121.201.132.169",s="[RDM] No Trouble Boner 365 Epic",p=27020,}
+{ip="174.133.215.18",s="[12yo Admin] Big Stanley's Addons Build Epic Trouble [Inf. Cash]",p=27017,}
+{ip="132.219.113.45",s="[No Lag] No No Build Big Boner Melon [No Lag]",p=27020,}
+{ip="209.72.199.228",s="365 Stanley's Trouser [12yo Admin]",p=27018,}
+{ip="26.156.231.205",s="[GUNZ] No RDM Stanley's 365 Death [Inf. Cash]",p=27019,}
+{ip="188.205.120.7",s="[Inf. Cash] Boner Death Addons Epic Addons [GUNZ]",p=27017,}
+{ip="130.78.99.45",s="Stanley's RDM Big Epic",p=27019,}
+{ip="218.96.179.90",s="Addons RDM Melon Kill [Epic]",p=27016,}
+{ip="206.61.214.122",s="RDM RDM DarkRP Trouble No 365 [RDM]",p=27017,}
+{ip="81.212.223.212",s="[RDM] Ultimate Kill Kill Ultimate Build [Inf. Cash]",p=27015,}
+{ip="59.29.242.121",s="[12yo Admin] Ultimate Trouble Addons Melon [No Lag]",p=27020,}
+{ip="113.150.16.26",s="Addons RDM Stanley's",p=27020,}
+{ip="240.151.181.164",s="Death Death Build No Trouble Build [No Lag]",p=27015,}
+{ip="2.120.186.170",s="[SERIOUS] Stanley's Kill 365 No Trouser DarkRP [RDM]",p=27017,}
+{ip="243.174.50.222",s="[DONATE] Build RDM Kill Trouser",p=27017,}
+{ip="229.110.233.142",s="[DONATE] Kill DarkRP Boner Kill RDM [Big]",p=27019,}
+{ip="72.37.128.205",s="Build RDM Stanley's Death Ultimate Boner",p=27019,}
+{ip="152.33.145.139",s="[RDM] Big Trouble 365 [Melon]",p=27016,}
+{ip="147.191.183.100",s="365 Stanley's Addons Trouser Death Trouser [Trouser]",p=27018,}
+{ip="134.9.238.147",s="[GUNZ] Big No Big Big Trouble Addons",p=27019,}
+{ip="33.173.69.228",s="Stanley's Melon Epic [12yo Admin]",p=27018,}
+{ip="100.15.216.60",s="Trouser Ultimate Build [Big]",p=27020,}
+{ip="185.204.36.66",s="[SERIOUS] Addons Addons Kill Addons DarkRP",p=27020,}
+{ip="64.8.163.87",s="No Trouble Build Boner RDM [Melon]",p=27019,}
+{ip="184.27.46.30",s="[No Lag] Trouser DarkRP Boner Stanley's Trouser [Melon]",p=27017,}
+{ip="105.169.182.4",s="DarkRP 365 Addons No No RDM [DONATE]",p=27015,}
+{ip="141.195.209.187",s="Death RDM Addons No DarkRP [SERIOUS]",p=27018,}
+{ip="165.77.29.114",s="[12yo Admin] Addons RDM Build Death Addons [Melon]",p=27020,}
+{ip="17.94.110.139",s="Melon Trouser RDM No Kill [GUNZ]",p=27018,}
+{ip="192.155.81.178",s="365 Big No 365 365 [No Lag]",p=27020,}
+{ip="194.208.47.43",s="[RDM] Stanley's Epic Trouble Trouser Build [GUNZ]",p=27016,}
+{ip="23.139.17.48",s="Death Build Epic",p=27018,}
+{ip="154.153.55.136",s="[RDM] Ultimate Boner Kill Kill Ultimate Epic [RDM]",p=27018,}
+{ip="110.179.234.195",s="[12yo Admin] Epic DarkRP Kill Trouble Addons [Inf. Cash]",p=27015,}
+{ip="180.209.75.159",s="[DONATE] Ultimate Big Ultimate Trouser Build [12yo Admin]",p=27017,}
+{ip="220.125.203.15",s="[12yo Admin] Big Epic Stanley's Trouble [Inf. Cash]",p=27016,}
+{ip="152.184.238.221",s="[RDM] 365 Death 365 Ultimate 365 Death [Stanley's]",p=27020,}
+{ip="117.122.7.14",s="DarkRP Epic Kill 365 Addons Death [Build]",p=27020,}
+{ip="239.99.49.110",s="[Inf. Cash] Death Boner Death Death 365 Big [DONATE]",p=27020,}
+{ip="223.226.189.144",s="Kill 365 Melon Boner Melon [Epic]",p=27017,}
+{ip="208.29.242.226",s="DarkRP Big 365 [Epic]",p=27018,}
+{ip="237.234.63.241",s="Kill Kill Ultimate Addons",p=27015,}
+{ip="229.37.102.29",s="Ultimate DarkRP Trouble No Trouser [No]",p=27018,}
+{ip="183.14.209.212",s="[12yo Admin] Stanley's DarkRP RDM Boner",p=27015,}
+{ip="136.38.124.37",s="Build Boner Ultimate [Epic]",p=27017,}
+{ip="128.223.17.142",s="[12yo Admin] Stanley's 365 Epic Addons Ultimate Epic",p=27015,}
+{ip="14.47.45.26",s="[GUNZ] Epic DarkRP Death Kill [Inf. Cash]",p=27018,}
+{ip="88.196.119.150",s="[Inf. Cash] Kill Death Death Boner Build [No Lag]",p=27015,}
+{ip="167.149.111.239",s="Kill Epic Melon Build Boner DarkRP [365]",p=27015,}
+{ip="169.115.166.221",s="Death Big Boner Trouble Stanley's [RDM]",p=27015,}
+{ip="20.29.109.233",s="Stanley's Trouser Big",p=27019,}
+{ip="112.7.18.198",s="[No Lag] Trouble Trouble Boner Trouser Kill Death",p=27019,}
+{ip="2.237.102.12",s="[RDM] Melon DarkRP Trouser Stanley's [12yo Admin]",p=27020,}
+{ip="117.82.183.224",s="DarkRP Stanley's Trouser DarkRP RDM [No Lag]",p=27019,}
+{ip="58.75.163.34",s="[RDM] 365 No Epic Build RDM",p=27015,}
+{ip="78.43.6.22",s="Epic Melon Death DarkRP Boner Trouble",p=27016,}
+{ip="80.92.66.81",s="[GUNZ] No Melon Melon [12yo Admin]",p=27017,}
+{ip="214.197.16.48",s="[12yo Admin] Epic Stanley's Boner RDM Melon Trouser [Melon]",p=27020,}
+{ip="27.59.145.52",s="Epic 365 Melon 365 Death Melon [No Lag]",p=27018,}
+{ip="150.93.154.110",s="[12yo Admin] Stanley's Melon Build No Kill Trouble [SERIOUS]",p=27016,}
+{ip="72.27.43.130",s="RDM DarkRP Trouser [Inf. Cash]",p=27016,}
+{ip="207.84.220.184",s="[DONATE] No Ultimate DarkRP [Stanley's]",p=27015,}
+{ip="117.205.135.18",s="No Big 365 RDM",p=27017,}
+{ip="212.156.60.120",s="[Inf. Cash] Kill Epic Big Kill Build [Addons]",p=27019,}
+{ip="225.101.172.88",s="No Ultimate No Trouser 365 [GUNZ]",p=27018,}
+{ip="58.41.51.134",s="[SERIOUS] Ultimate Addons Addons Ultimate Boner Ultimate [Death]",p=27015,}
+{ip="153.16.207.57",s="Stanley's RDM No Boner [DONATE]",p=27020,}
+{ip="134.62.51.34",s="Ultimate Big RDM No [Addons]",p=27016,}
+{ip="92.206.25.62",s="Build RDM Trouser Addons Big DarkRP [Inf. Cash]",p=27020,}
+{ip="227.28.229.123",s="Addons Addons Trouble No",p=27016,}
+{ip="147.241.151.28",s="RDM Big Stanley's [DarkRP]",p=27020,}
+{ip="176.136.21.151",s="Death No Epic Trouble DarkRP Big [Death]",p=27016,}
+{ip="7.52.129.43",s="[12yo Admin] Trouble Kill Big Ultimate Trouser 365 [Inf. Cash]",p=27015,}
+{ip="162.230.131.179",s="[GUNZ] Build Stanley's Build Addons DarkRP [Kill]",p=27018,}
+{ip="43.9.87.184",s="Melon Addons Boner 365 Boner [GUNZ]",p=27015,}
+{ip="224.179.147.117",s="[SERIOUS] Trouser Ultimate Stanley's Trouble Build",p=27015,}
+{ip="140.5.171.133",s="Trouble No No Addons Kill [RDM]",p=27016,}
+{ip="62.54.55.208",s="Death Big Ultimate Boner [RDM]",p=27015,}
+{ip="188.232.213.142",s="[Inf. Cash] Epic DarkRP Build [RDM]",p=27015,}
+{ip="128.29.109.73",s="Melon Death RDM RDM Stanley's Trouble [Trouble]",p=27020,}
+{ip="107.186.197.87",s="Stanley's Boner Boner [SERIOUS]",p=27019,}
+{ip="125.106.202.241",s="Build Boner Epic Boner 365 365 [Inf. Cash]",p=27015,}
+{ip="135.180.145.106",s="Stanley's Epic No Kill RDM [Inf. Cash]",p=27017,}
+{ip="135.235.181.103",s="[DONATE] DarkRP DarkRP Stanley's Stanley's No [DONATE]",p=27020,}
+{ip="225.49.125.241",s="[GUNZ] Kill Kill Addons Big [Stanley's]",p=27017,}
+{ip="4.45.220.172",s="No DarkRP Boner Kill Boner Trouser",p=27019,}
+{ip="131.36.17.157",s="Trouser Melon Melon [Trouble]",p=27019,}
+{ip="228.70.125.191",s="[SERIOUS] Stanley's Epic Trouble Death Stanley's Epic [SERIOUS]",p=27017,}
+{ip="176.113.96.135",s="[SERIOUS] Addons Trouble Trouser",p=27020,}
+{ip="124.20.144.111",s="[DONATE] Epic RDM Trouser DarkRP Boner [Trouser]",p=27018,}
+{ip="214.97.193.43",s="[SERIOUS] Build RDM DarkRP Trouble [Boner]",p=27017,}
+{ip="17.95.48.41",s="[GUNZ] Stanley's 365 Epic Boner [365]",p=27018,}
+{ip="241.237.156.225",s="[DONATE] Kill RDM Boner Kill",p=27015,}
+{ip="33.9.2.198",s="[No Lag] Ultimate Boner Trouble DarkRP [No Lag]",p=27015,}
+{ip="160.123.73.46",s="Boner 365 Epic 365",p=27019,}
+{ip="243.86.198.10",s="No Big Trouser No",p=27018,}
+{ip="220.93.136.65",s="Melon DarkRP No No 365 Melon [Kill]",p=27016,}
+{ip="176.38.85.30",s="Ultimate Trouser Ultimate Addons Addons 365 [DONATE]",p=27017,}
+{ip="182.166.81.171",s="[12yo Admin] Stanley's Kill Epic Epic Build Trouser",p=27019,}
+{ip="206.23.93.115",s="[DONATE] Ultimate Big Epic DarkRP Melon Addons [No]",p=27016,}
+{ip="12.16.90.137",s="[12yo Admin] Kill Melon 365 [365]",p=27019,}
+{ip="113.175.135.153",s="Trouble Trouble Trouser Ultimate Build Trouble [DarkRP]",p=27015,}
+{ip="221.187.228.23",s="Trouser Big Stanley's 365 365 Trouble [DONATE]",p=27017,}
+{ip="128.164.150.80",s="[DONATE] Trouble Epic Trouser Big",p=27019,}
+{ip="138.152.236.64",s="[SERIOUS] Epic Build Melon RDM Build Boner",p=27015,}
+{ip="11.164.28.62",s="[DONATE] DarkRP Build Melon [RDM]",p=27019,}
+{ip="7.111.74.52",s="Boner Ultimate Big Stanley's",p=27017,}
+{ip="198.1.89.159",s="365 RDM Stanley's [Kill]",p=27017,}
+{ip="172.188.99.86",s="[SERIOUS] Death RDM Trouser Build Stanley's Ultimate",p=27019,}
+{ip="96.241.66.43",s="[Inf. Cash] Build Stanley's Kill",p=27016,}
+{ip="213.224.191.143",s="Death Melon DarkRP Ultimate Stanley's Kill [DarkRP]",p=27016,}
+{ip="43.176.72.62",s="[Inf. Cash] Kill Kill Boner Boner Melon Ultimate [No Lag]",p=27016,}
+{ip="87.51.240.28",s="Kill 365 Death Death RDM Trouble",p=27020,}
+{ip="128.72.118.79",s="[GUNZ] Trouser Boner Build Boner Boner [GUNZ]",p=27016,}
+{ip="74.90.3.206",s="RDM Death RDM [No Lag]",p=27016,}
+{ip="221.139.130.172",s="Trouser DarkRP DarkRP Melon [No Lag]",p=27018,}
+{ip="162.166.59.99",s="365 DarkRP Addons Build Stanley's Stanley's [DONATE]",p=27017,}
+{ip="223.95.192.24",s="Epic Trouser Death Build Kill Epic [12yo Admin]",p=27016,}
+{ip="54.88.148.139",s="Big Trouser RDM Addons Kill [Epic]",p=27015,}
+{ip="158.25.57.174",s="365 Melon Kill [Stanley's]",p=27020,}
+{ip="214.217.69.91",s="[SERIOUS] Trouser 365 Trouble [DONATE]",p=27018,}
+{ip="201.84.180.164",s="[Inf. Cash] Trouser Stanley's Boner Death Trouser [Trouser]",p=27017,}
+{ip="151.103.31.93",s="[No Lag] DarkRP Death DarkRP No RDM",p=27017,}
+{ip="123.68.126.22",s="[SERIOUS] Big 365 Trouble Stanley's Trouser Trouble [Trouser]",p=27015,}
+{ip="86.149.162.5",s="[DONATE] Trouser Addons Stanley's Ultimate [RDM]",p=27017,}
+{ip="105.102.108.222",s="[No Lag] DarkRP No Kill [Epic]",p=27020,}
+{ip="167.157.118.53",s="Boner Boner Ultimate Kill RDM Big",p=27020,}
+{ip="33.31.94.106",s="Trouble Trouble RDM 365 Epic RDM [Death]",p=27016,}
+{ip="191.127.169.191",s="[No Lag] Addons Build Epic No",p=27016,}
+{ip="157.93.143.165",s="[No Lag] No Melon 365 Trouser Addons [No Lag]",p=27019,}
+{ip="9.190.43.63",s="Boner Melon Ultimate Melon Kill [Kill]",p=27016,}
+{ip="240.156.180.100",s="[RDM] No Melon Stanley's RDM [DONATE]",p=27018,}
+{ip="168.81.140.193",s="[GUNZ] Ultimate Stanley's Trouser Big Stanley's [Death]",p=27016,}
+{ip="145.97.85.137",s="Stanley's Death Death",p=27017,}
+{ip="135.71.38.63",s="[GUNZ] Death Trouser Melon DarkRP [DarkRP]",p=27017,}
+{ip="131.16.229.180",s="365 DarkRP Ultimate",p=27019,}
+{ip="20.84.83.194",s="No Trouser Addons Build",p=27019,}
+{ip="112.148.144.161",s="[GUNZ] Death 365 Trouser Trouser Death [SERIOUS]",p=27018,}
+{ip="135.116.207.99",s="Stanley's RDM DarkRP Addons DarkRP [DONATE]",p=27016,}
+{ip="163.196.106.10",s="[12yo Admin] 365 Kill Melon Build Trouble Trouser [DarkRP]",p=27018,}
+{ip="7.63.146.28",s="Big Big DarkRP DarkRP [RDM]",p=27018,}
+{ip="187.153.67.83",s="[Inf. Cash] Boner Big Epic Kill [Inf. Cash]",p=27016,}
+{ip="59.136.23.82",s="[Inf. Cash] Melon Trouble Big Boner",p=27015,}
+{ip="38.99.10.7",s="[Inf. Cash] Epic Epic Trouble 365 [12yo Admin]",p=27015,}
+{ip="201.93.165.239",s="Kill Trouser DarkRP Epic Build [12yo Admin]",p=27016,}
+{ip="123.28.9.27",s="[RDM] 365 Trouble Big No [Kill]",p=27018,}
+{ip="157.10.242.167",s="Stanley's RDM Addons No No Melon [GUNZ]",p=27016,}
+{ip="107.210.201.153",s="RDM Ultimate Kill Addons Big",p=27020,}
+{ip="100.31.69.48",s="[GUNZ] Trouser Death Death Melon RDM [GUNZ]",p=27015,}
+{ip="7.21.217.103",s="[DONATE] Ultimate Death Build [Big]",p=27017,}
+{ip="20.24.122.223",s="[12yo Admin] Stanley's 365 Kill Trouble Trouble [RDM]",p=27016,}
+{ip="227.54.177.223",s="[DONATE] Death Death RDM 365 Melon [Kill]",p=27019,}
+{ip="7.104.100.206",s="[RDM] Boner Boner Kill 365 Trouser Build",p=27015,}
+{ip="74.5.137.223",s="[No Lag] Addons Trouble Ultimate Boner Trouser",p=27017,}
+{ip="172.101.200.234",s="Big 365 Epic DarkRP Build [SERIOUS]",p=27018,}
+{ip="53.67.207.100",s="Trouble Trouser Kill Ultimate No",p=27020,}
+{ip="146.202.197.184",s="[DONATE] DarkRP Ultimate Kill Death [RDM]",p=27017,}
+{ip="207.75.121.76",s="No Ultimate DarkRP No Boner Build [No]",p=27019,}
+{ip="94.35.173.51",s="[GUNZ] No Build Death Stanley's Big [Inf. Cash]",p=27016,}
+{ip="97.185.16.214",s="[GUNZ] Addons 365 365 DarkRP [SERIOUS]",p=27016,}
+{ip="83.34.196.229",s="[Inf. Cash] Big 365 No Kill Death Big [DONATE]",p=27016,}
+{ip="192.85.199.157",s="[GUNZ] Trouser Melon Epic DarkRP [12yo Admin]",p=27016,}
+{ip="84.135.232.141",s="[SERIOUS] 365 Big Build 365 Boner Trouser [12yo Admin]",p=27018,}
+{ip="79.63.58.158",s="[DONATE] Build Addons Addons RDM Stanley's [Trouser]",p=27017,}
+{ip="27.213.62.60",s="[DONATE] Melon RDM DarkRP Ultimate",p=27020,}
+{ip="129.243.114.3",s="[GUNZ] Kill Death Boner",p=27018,}
+{ip="62.119.205.204",s="[Inf. Cash] 365 Big Build Trouser Trouser Epic [Trouble]",p=27015,}
+{ip="177.210.232.194",s="Boner Addons 365 [No Lag]",p=27019,}
+{ip="79.4.129.244",s="Build Stanley's Big [GUNZ]",p=27015,}
+{ip="159.202.202.211",s="[Inf. Cash] Stanley's No Melon [Big]",p=27018,}
+{ip="50.4.180.226",s="RDM Ultimate 365 No",p=27018,}
+{ip="73.61.130.55",s="Trouble Boner Melon RDM Trouble Trouser",p=27016,}
+{ip="9.54.189.229",s="[SERIOUS] Stanley's Melon Trouble Build",p=27016,}
+{ip="24.128.149.229",s="RDM Addons Build DarkRP RDM RDM [SERIOUS]",p=27020,}
+{ip="184.155.19.60",s="[SERIOUS] Addons RDM Melon Build Kill No [DONATE]",p=27015,}
+{ip="173.58.206.186",s="[No Lag] Death Death Kill Addons Death Boner [SERIOUS]",p=27018,}
+{ip="80.60.219.94",s="[GUNZ] Melon Death Epic RDM Big Build [12yo Admin]",p=27015,}
+{ip="69.46.207.189",s="Stanley's Death Boner [365]",p=27018,}
+{ip="156.240.205.141",s="Trouble Stanley's Ultimate Melon Build [No Lag]",p=27015,}
+{ip="120.141.53.13",s="Build Death Addons No 365 No [Ultimate]",p=27017,}
+{ip="225.228.232.26",s="[No Lag] 365 Build Stanley's Epic Trouble RDM",p=27016,}
+{ip="51.140.134.59",s="Epic Trouser Big",p=27020,}
+{ip="105.93.5.139",s="DarkRP Melon Epic [SERIOUS]",p=27016,}
+{ip="236.22.220.6",s="[GUNZ] Ultimate Melon Build Epic Kill",p=27016,}
+{ip="39.193.115.135",s="DarkRP Kill Ultimate RDM Boner",p=27018,}
+{ip="151.27.83.101",s="[RDM] Epic Stanley's Melon DarkRP Ultimate [DONATE]",p=27017,}
+{ip="72.146.93.174",s="Addons 365 Stanley's [No]",p=27016,}
+{ip="62.92.220.156",s="[12yo Admin] Big Epic Kill Melon Death Addons",p=27019,}
+{ip="76.33.210.230",s="[Inf. Cash] Melon Kill Epic Stanley's [RDM]",p=27017,}
+{ip="133.27.192.234",s="[GUNZ] Big Kill Build",p=27020,}
+{ip="103.38.56.100",s="Trouser Kill Trouble [Epic]",p=27016,}
+{ip="120.76.172.196",s="Boner No Stanley's Addons Trouser [No Lag]",p=27018,}
+{ip="155.204.156.57",s="[RDM] Big Stanley's Big Death RDM Trouser [365]",p=27019,}
+{ip="143.48.168.194",s="[12yo Admin] Melon Death Death Epic RDM Melon [Addons]",p=27019,}
+{ip="128.102.35.122",s="[No Lag] Death Kill Addons Death Ultimate",p=27015,}
+{ip="144.174.56.43",s="Addons Boner Kill Boner Melon [No]",p=27019,}
+{ip="229.198.36.52",s="[RDM] Ultimate Melon No DarkRP [RDM]",p=27017,}
+{ip="131.25.116.37",s="[RDM] Addons 365 Trouble Big Epic Death [DarkRP]",p=27018,}
+{ip="10.163.48.26",s="Melon No No DarkRP Stanley's Stanley's [Melon]",p=27015,}
+{ip="159.9.80.108",s="[SERIOUS] Addons RDM DarkRP Kill Stanley's Kill",p=27015,}
+{ip="186.47.123.197",s="[RDM] Melon Epic RDM Death [Ultimate]",p=27016,}
+{ip="109.109.98.88",s="Epic No RDM Trouble Boner Ultimate [Epic]",p=27015,}
+{ip="199.58.165.145",s="Boner Trouser Boner Kill Kill [12yo Admin]",p=27015,}
+{ip="59.225.130.112",s="[DONATE] Death DarkRP No 365 [RDM]",p=27018,}
+{ip="75.78.26.76",s="[RDM] RDM Ultimate 365 Build [RDM]",p=27018,}
+{ip="194.209.35.191",s="Stanley's Death Epic Boner Epic [RDM]",p=27020,}
+{ip="39.94.163.50",s="[RDM] No Trouble Epic Build Boner Stanley's",p=27018,}
+{ip="192.22.152.145",s="Kill Boner Trouser",p=27015,}
+{ip="51.138.210.242",s="[12yo Admin] Addons Boner Kill Trouble [RDM]",p=27019,}
+{ip="152.156.4.152",s="[DONATE] Epic Build Big Stanley's Stanley's [Melon]",p=27017,}
+{ip="241.142.47.68",s="[SERIOUS] RDM RDM Trouble Stanley's Death",p=27016,}
+{ip="20.44.202.156",s="Trouser DarkRP Build 365 Big RDM [12yo Admin]",p=27020,}
+{ip="203.106.149.44",s="[No Lag] Stanley's Kill Boner No No Kill [RDM]",p=27017,}
+{ip="187.11.206.168",s="Build Trouser Big",p=27020,}
+{ip="161.23.70.122",s="[Inf. Cash] Epic Build Kill Melon RDM Trouser",p=27019,}
+{ip="98.241.64.58",s="[DONATE] 365 Build Trouser Trouble Ultimate [GUNZ]",p=27017,}
+{ip="31.91.225.171",s="Big Trouser Death Trouser [365]",p=27018,}
+{ip="152.38.229.19",s="Build Epic Trouser RDM No Addons",p=27016,}
+{ip="183.17.151.234",s="[DONATE] Epic Big Epic [No]",p=27017,}
+{ip="242.238.65.194",s="[Inf. Cash] 365 Kill Melon Kill [GUNZ]",p=27020,}
+{ip="85.133.108.154",s="[SERIOUS] Boner Death No No Build Trouser",p=27016,}
+{ip="32.237.106.28",s="[DONATE] DarkRP 365 Kill Addons Build No [DarkRP]",p=27015,}
+{ip="217.162.222.134",s="[SERIOUS] RDM Trouser Trouble Stanley's [Trouble]",p=27020,}
+{ip="145.158.8.57",s="No Boner RDM 365 DarkRP Ultimate [SERIOUS]",p=27015,}
+{ip="126.234.58.119",s="[12yo Admin] Stanley's Ultimate 365 Death Melon [RDM]",p=27018,}
+{ip="138.201.204.21",s="Big RDM DarkRP 365 [RDM]",p=27015,}
+{ip="123.117.200.76",s="RDM DarkRP No",p=27015,}
+{ip="212.43.168.179",s="[GUNZ] No Stanley's Big Melon 365 365 [No Lag]",p=27016,}
+{ip="123.165.72.203",s="Big Death Big Big Big",p=27016,}
+{ip="241.239.28.87",s="RDM 365 Stanley's Trouble RDM Trouser [RDM]",p=27020,}
+{ip="66.51.109.41",s="Trouble Stanley's RDM Melon 365",p=27017,}
+{ip="104.22.117.127",s="Epic RDM DarkRP Trouble [Inf. Cash]",p=27020,}
+{ip="24.52.192.215",s="No DarkRP Kill Trouser Epic Stanley's [DONATE]",p=27018,}
+{ip="60.220.65.173",s="365 365 Epic Trouble Ultimate Death",p=27016,}
+{ip="114.167.239.166",s="Boner Boner 365 Death No [No Lag]",p=27020,}
+{ip="16.87.30.5",s="No Boner 365 Melon [Ultimate]",p=27016,}
+{ip="154.81.177.82",s="No Build Melon Build [Ultimate]",p=27019,}
+{ip="237.165.176.56",s="Trouser Addons DarkRP 365 Big Trouble [DONATE]",p=27016,}
+{ip="160.80.4.188",s="[GUNZ] Build Boner Melon [DONATE]",p=27018,}
+{ip="142.14.202.198",s="Ultimate Trouser RDM [Boner]",p=27015,}
+{ip="40.121.120.152",s="Addons Epic 365 Ultimate [No]",p=27019,}
+{ip="168.1.3.86",s="Big No Trouble Melon RDM",p=27019,}
+{ip="76.105.44.209",s="Trouble Ultimate Addons Stanley's Stanley's [RDM]",p=27016,}
+{ip="228.193.100.212",s="[Inf. Cash] Addons Death Build 365 [GUNZ]",p=27019,}
+{ip="61.111.28.126",s="[No Lag] Big Trouser Build Death",p=27016,}
+{ip="163.219.202.179",s="[GUNZ] Kill 365 Kill Build Build Addons [12yo Admin]",p=27015,}
+{ip="78.91.79.66",s="[RDM] Ultimate Kill RDM [Trouble]",p=27015,}
+{ip="244.211.142.14",s="Build 365 RDM 365 [RDM]",p=27018,}
+{ip="60.98.143.214",s="Trouble RDM Big 365 365 [RDM]",p=27018,}
+{ip="209.219.109.52",s="[12yo Admin] Kill Trouser RDM Death [RDM]",p=27019,}
+{ip="209.202.162.190",s="[DONATE] Death Big Boner 365 [Build]",p=27020,}
+{ip="231.153.119.23",s="Big Death Death 365 Build Trouble [Kill]",p=27015,}
+{ip="135.174.132.169",s="Kill Melon Death Stanley's Kill [Addons]",p=27016,}
+{ip="120.173.59.73",s="[12yo Admin] DarkRP Epic DarkRP [No Lag]",p=27016,}
+{ip="14.241.38.166",s="[12yo Admin] No Boner RDM DarkRP Ultimate Ultimate [Inf. Cash]",p=27017,}
+{ip="48.166.70.139",s="Stanley's Build Epic",p=27020,}
+{ip="141.143.90.173",s="[SERIOUS] RDM 365 Kill Death Big Big [12yo Admin]",p=27018,}
+{ip="142.180.129.58",s="Boner No Addons Build Kill [Inf. Cash]",p=27018,}
+{ip="219.100.75.229",s="[GUNZ] 365 Stanley's Epic Build No [DONATE]",p=27017,}
+{ip="43.161.184.181",s="[Inf. Cash] Epic 365 DarkRP",p=27016,}
+{ip="97.148.237.74",s="[GUNZ] Build Trouser Trouser Big Death [RDM]",p=27017,}
+{ip="228.208.26.103",s="[12yo Admin] Stanley's Kill RDM No No DarkRP [DONATE]",p=27016,}
+{ip="194.176.171.144",s="DarkRP RDM Build DarkRP Trouser [No Lag]",p=27016,}
+{ip="192.152.197.50",s="No Kill DarkRP RDM Death Ultimate [12yo Admin]",p=27017,}
+{ip="136.38.163.146",s="[GUNZ] Addons No Build [Ultimate]",p=27018,}
+{ip="159.241.145.21",s="Ultimate RDM No [Stanley's]",p=27020,}
+{ip="88.216.204.101",s="[RDM] DarkRP Trouser Death RDM Boner [Build]",p=27020,}
+{ip="5.50.198.82",s="DarkRP Kill RDM RDM",p=27019,}
+{ip="142.202.98.143",s="[12yo Admin] Kill 365 Big Trouser Trouser Kill [12yo Admin]",p=27020,}
+{ip="14.163.29.186",s="Kill Ultimate No Ultimate [No Lag]",p=27020,}
+{ip="154.29.87.176",s="[12yo Admin] DarkRP Trouble Ultimate Ultimate 365 Stanley's",p=27020,}
+{ip="244.96.176.174",s="Trouble Addons Boner 365 [Boner]",p=27020,}
+{ip="12.213.184.16",s="[12yo Admin] RDM Addons RDM Boner [Melon]",p=27018,}
+{ip="148.232.92.113",s="Trouser RDM 365 Big Boner Death [12yo Admin]",p=27020,}
+{ip="238.92.124.141",s="[12yo Admin] Addons Melon Build Kill Kill 365 [RDM]",p=27016,}
+{ip="102.82.211.154",s="Big Addons RDM [Stanley's]",p=27019,}
+{ip="37.88.90.15",s="RDM Ultimate Addons Epic Melon",p=27018,}
+{ip="59.52.224.49",s="RDM Stanley's Big [Inf. Cash]",p=27016,}
+{ip="49.101.132.165",s="Kill Ultimate RDM RDM [DarkRP]",p=27020,}
+{ip="135.182.60.123",s="[12yo Admin] Trouble Trouble 365 Boner Ultimate RDM [Trouser]",p=27019,}
+{ip="147.177.12.108",s="Melon Big 365",p=27020,}
+{ip="54.127.80.184",s="[DONATE] No Trouser Melon Addons Boner No [DONATE]",p=27017,}
+{ip="109.2.151.48",s="Boner Kill Addons [DONATE]",p=27018,}
+{ip="82.205.218.211",s="Stanley's Boner Stanley's [SERIOUS]",p=27017,}
+{ip="53.218.203.52",s="[SERIOUS] Addons RDM Build [DarkRP]",p=27016,}
+{ip="48.9.56.244",s="Death Trouser Build [12yo Admin]",p=27019,}
+{ip="118.153.47.241",s="[DONATE] Melon Epic Trouble Trouble Trouser Epic",p=27020,}
+{ip="75.187.142.231",s="Build Boner Kill",p=27018,}
+{ip="162.226.55.27",s="Epic Big Trouser Trouble Kill [GUNZ]",p=27016,}
+{ip="80.57.27.213",s="[No Lag] Trouser Melon Big Addons Trouser [Inf. Cash]",p=27016,}
+{ip="49.149.59.14",s="[GUNZ] Build Epic Boner Stanley's DarkRP Ultimate",p=27019,}
+{ip="172.203.105.191",s="[No Lag] Ultimate Big Death Ultimate RDM [Trouser]",p=27019,}
+{ip="168.162.221.78",s="[Inf. Cash] Melon DarkRP Melon DarkRP DarkRP Ultimate [Death]",p=27017,}
+{ip="4.189.233.41",s="Addons Trouser Stanley's Addons [Trouser]",p=27020,}
+{ip="87.127.80.151",s="No Trouser Build Ultimate Ultimate [12yo Admin]",p=27019,}
+{ip="9.220.166.171",s="[DONATE] 365 365 Trouble DarkRP [Boner]",p=27020,}
+{ip="167.37.237.34",s="Addons Trouser Trouble Big [Ultimate]",p=27016,}
+{ip="218.174.235.226",s="[RDM] Build DarkRP Death Addons Trouble Boner [Big]",p=27020,}
+{ip="53.48.228.131",s="Death Build Addons Addons",p=27016,}
+{ip="219.231.184.214",s="[12yo Admin] Boner Melon Trouser Ultimate Addons Ultimate",p=27015,}
+{ip="117.29.50.135",s="Trouble No Trouser Epic Ultimate [GUNZ]",p=27017,}
+{ip="116.60.143.105",s="No Melon Stanley's Death Big Ultimate [Kill]",p=27017,}
+{ip="244.207.225.239",s="[No Lag] Stanley's 365 Epic [No Lag]",p=27018,}
+{ip="5.155.158.229",s="[RDM] Kill Big 365 Stanley's Boner RDM",p=27016,}

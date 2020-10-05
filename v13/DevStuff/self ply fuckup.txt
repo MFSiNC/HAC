@@ -1,0 +1,344 @@
+Hacburst hook 'HAC.SendBinds' failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+
+[ERROR] addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+  1. WriteLog - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642
+   2. LogOnly - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:701
+    3. BurstCode - addons/hex's anticheat/lua/hac/sv_burstcode.lua:122
+     4. CVarList - addons/hex's anticheat/lua/hac/sv_cvl.lua:344
+      5. unknown - addons/hex's anticheat/lua/hac/sv_cvl.lua:393
+
+
+[ERROR] addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+  1. WriteLog - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642
+   2. LogOnly - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:701
+    3. BurstCode - addons/hex's anticheat/lua/hac/sv_burstcode.lua:122
+     4. EatKeys - addons/hex's anticheat/lua/hac/sv_eatkeys.lua:41
+      5. unknown - addons/hex's anticheat/lua/hac/sv_eatkeys.lua:9
+
+
+[ERROR] addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+  1. WriteLog - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642
+   2. LogOnly - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:701
+    3. BurstCode - addons/hex's anticheat/lua/hac/sv_burstcode.lua:122
+     4. OnForward - addons/hex's anticheat/lua/hac/sv_burstcode.lua:59
+      5. Forward - addons/hex's anticheat/lua/hac/sv_burstcode.lua:315
+       6. Spawn - addons/hex's anticheat/lua/hac/sv_burstcode.lua:63
+        7. unknown - addons/hex's anticheat/lua/hac/sv_burstcode.lua:97
+
+Hacburst hook 'DLF' failed: addons/hex's anticheat/lua/hac/sv_downloadfilter.lua:46: attempt to perform arithmetic on local 'Lev' (a nil value)
+Hacburst hook 'HAC.SendBinds' failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+
+[ERROR] addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+  1. WriteLog - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642
+   2. SpinRound - addons/hex's anticheat/lua/hac/sv_spinmeround.lua:17
+    3. CheckPercent - addons/hex's anticheat/lua/hac/sv_ucmd.lua:162
+     4. HAC_StoreSeed - addons/hex's anticheat/lua/hac/sv_ucmd.lua:93
+      5. v - addons/hex's anticheat/lua/hac/sv_ucmd.lua:32
+       6. unknown - lua/includes/modules/hook.lua:84
+
+concon hook 'ConCon' Limp dick larry (STEAM_0:1:60057192) failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+
+[ERROR] addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+  1. WriteLog - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642
+   2. LogOnly - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:701
+    3. BurstCode - addons/hex's anticheat/lua/hac/sv_burstcode.lua:122
+     4. CVarList - addons/hex's anticheat/lua/hac/sv_cvl.lua:344
+      5. unknown - addons/hex's anticheat/lua/hac/sv_cvl.lua:393
+
+Hacburst hook 'HAC.SendBinds' failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+
+[ERROR] addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+  1. WriteLog - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642
+   2. SpinRound - addons/hex's anticheat/lua/hac/sv_spinmeround.lua:17
+    3. CheckPercent - addons/hex's anticheat/lua/hac/sv_ucmd.lua:162
+     4. HAC_StoreSeed - addons/hex's anticheat/lua/hac/sv_ucmd.lua:93
+      5. v - addons/hex's anticheat/lua/hac/sv_ucmd.lua:32
+       6. unknown - lua/includes/modules/hook.lua:84
+
+
+[ERROR] addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+  1. WriteLog - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642
+   2. LogOnly - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:701
+    3. Shared - addons/hex's anticheat/lua/hac/sv_steamapi.lua:540
+     4. unknown - addons/hex's anticheat/lua/hac/sv_steamapi.lua:623
+
+
+[ERROR] addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+  1. WriteLog - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642
+   2. LogOnly - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:701
+    3. BurstCode - addons/hex's anticheat/lua/hac/sv_burstcode.lua:122
+     4. CVarList - addons/hex's anticheat/lua/hac/sv_cvl.lua:344
+      5. unknown - addons/hex's anticheat/lua/hac/sv_cvl.lua:393
+
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+Hacburst hook 'HAC.SendBinds' failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+concon hook 'ConCon' Doremi Harukaze (STEAM_0:1:80599466) failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+concon hook 'ConCon' Doremi Harukaze (STEAM_0:1:80599466) failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+concon hook 'ConCon' Doremi Harukaze (STEAM_0:1:80599466) failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+concon hook 'ConCon' Doremi Harukaze (STEAM_0:1:80599466) failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+concon hook 'ConCon' Doremi Harukaze (STEAM_0:1:80599466) failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+concon hook 'ConCon' Doremi Harukaze (STEAM_0:1:80599466) failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+concon hook 'ConCon' Doremi Harukaze (STEAM_0:1:80599466) failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+Hacburst hook '7336' failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+concon hook 'ConCon' Doremi Harukaze (STEAM_0:1:80599466) failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+concon hook 'ConCon' Doremi Harukaze (STEAM_0:1:80599466) failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+concon hook 'ConCon' Doremi Harukaze (STEAM_0:1:80599466) failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+concon hook 'ConCon' Doremi Harukaze (STEAM_0:1:80599466) failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+concon hook 'ConCon' Doremi Harukaze (STEAM_0:1:80599466) failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+concon hook 'ConCon' Doremi Harukaze (STEAM_0:1:80599466) failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+concon hook 'ConCon' Doremi Harukaze (STEAM_0:1:80599466) failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+concon hook 'ConCon' Doremi Harukaze (STEAM_0:1:80599466) failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+concon hook 'ConCon' Doremi Harukaze (STEAM_0:1:80599466) failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+concon hook 'ConCon' Doremi Harukaze (STEAM_0:1:80599466) failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+concon hook 'ConCon' Doremi Harukaze (STEAM_0:1:80599466) failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+concon hook 'ConCon' Doremi Harukaze (STEAM_0:1:80599466) failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+concon hook 'ConCon' Doremi Harukaze (STEAM_0:1:80599466) failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+concon hook 'ConCon' Doremi Harukaze (STEAM_0:1:80599466) failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+
+[ERROR] addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+  1. WriteLog - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642
+   2. LogOnly - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:701
+    3. BurstCode - addons/hex's anticheat/lua/hac/sv_burstcode.lua:122
+     4. EatKeys - addons/hex's anticheat/lua/hac/sv_eatkeys.lua:41
+      5. unknown - addons/hex's anticheat/lua/hac/sv_eatkeys.lua:9
+
+
+[ERROR] addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+  1. WriteLog - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642
+   2. LogOnly - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:701
+    3. BurstCode - addons/hex's anticheat/lua/hac/sv_burstcode.lua:122
+     4. OnForward - addons/hex's anticheat/lua/hac/sv_burstcode.lua:59
+      5. Forward - addons/hex's anticheat/lua/hac/sv_burstcode.lua:315
+       6. Spawn - addons/hex's anticheat/lua/hac/sv_burstcode.lua:63
+        7. unknown - addons/hex's anticheat/lua/hac/sv_burstcode.lua:97
+
+
+[ERROR] addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+  1. WriteLog - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642
+   2. LogOnly - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:701
+    3. BurstCode - addons/hex's anticheat/lua/hac/sv_burstcode.lua:122
+     4. CVarList - addons/hex's anticheat/lua/hac/sv_cvl.lua:344
+      5. unknown - addons/hex's anticheat/lua/hac/sv_cvl.lua:393
+
+
+[ERROR] addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+  1. WriteLog - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642
+   2. LogOnly - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:701
+    3. BurstCode - addons/hex's anticheat/lua/hac/sv_burstcode.lua:122
+     4. OnForward - addons/hex's anticheat/lua/hac/sv_burstcode.lua:59
+      5. Forward - addons/hex's anticheat/lua/hac/sv_burstcode.lua:315
+       6. Spawn - addons/hex's anticheat/lua/hac/sv_burstcode.lua:63
+        7. unknown - addons/hex's anticheat/lua/hac/sv_burstcode.lua:97
+
+Hacburst hook '3668' failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+concon hook 'ConCon' Doremi Harukaze (STEAM_0:1:80599466) failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+concon hook 'ConCon' Doremi Harukaze (STEAM_0:1:80599466) failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+Hacburst hook '3668' failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+
+[ERROR] addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+  1. WriteLog - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642
+   2. HAC_EmitSound - addons/hex's anticheat/lua/hac_base.lua:491
+    3. SkidCheck - addons/hex's anticheat/lua/hac/sv_skidcheck.lua:69
+     4. unknown - addons/hex's anticheat/lua/hac/sv_skidcheck.lua:93
+
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+
+[ERROR] addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+  1. WriteLog - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642
+   2. LogOnly - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:701
+    3. BurstCode - addons/hex's anticheat/lua/hac/sv_burstcode.lua:122
+     4. SendXDetector - addons/hex's anticheat/lua/hac/sv_xdetector.lua:89
+      5. unknown - addons/hex's anticheat/lua/hac/sv_xdetector.lua:158
+
+
+[ERROR] addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+  1. WriteLog - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642
+   2. Filter - addons/hex's anticheat/lua/hac/sv_hspfilter.lua:25
+    3. v - addons/hex's server plugins/lua/hsp/chatfilter/sv_b_chatfilter.lua:302
+     4. unknown - lua/includes/modules/hook.lua:84
+
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+Hacburst hook 'HAC.SendBinds' failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+
+[ERROR] addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+  1. WriteLog - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642
+   2. SpinRound - addons/hex's anticheat/lua/hac/sv_spinmeround.lua:17
+    3. CheckPercent - addons/hex's anticheat/lua/hac/sv_ucmd.lua:162
+     4. HAC_StoreSeed - addons/hex's anticheat/lua/hac/sv_ucmd.lua:93
+      5. v - addons/hex's anticheat/lua/hac/sv_ucmd.lua:32
+       6. unknown - lua/includes/modules/hook.lua:84
+
+
+[ERROR] addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+  1. WriteLog - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642
+   2. LogOnly - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:701
+    3. BurstCode - addons/hex's anticheat/lua/hac/sv_burstcode.lua:122
+     4. CVarList - addons/hex's anticheat/lua/hac/sv_cvl.lua:344
+      5. unknown - addons/hex's anticheat/lua/hac/sv_cvl.lua:393
+
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+
+[ERROR] addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+  1. WriteLog - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642
+   2. LogOnly - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:701
+    3. BurstCode - addons/hex's anticheat/lua/hac/sv_burstcode.lua:122
+     4. EatKeys - addons/hex's anticheat/lua/hac/sv_eatkeys.lua:41
+      5. unknown - addons/hex's anticheat/lua/hac/sv_eatkeys.lua:9
+
+
+[ERROR] addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+  1. WriteLog - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642
+   2. LogOnly - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:701
+    3. BurstCode - addons/hex's anticheat/lua/hac/sv_burstcode.lua:122
+     4. OnForward - addons/hex's anticheat/lua/hac/sv_burstcode.lua:59
+      5. Forward - addons/hex's anticheat/lua/hac/sv_burstcode.lua:315
+       6. Spawn - addons/hex's anticheat/lua/hac/sv_burstcode.lua:63
+        7. unknown - addons/hex's anticheat/lua/hac/sv_burstcode.lua:97
+
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+Hacburst hook 'HAC.SendBinds' failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+
+[ERROR] addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+  1. WriteLog - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642
+   2. SpinRound - addons/hex's anticheat/lua/hac/sv_spinmeround.lua:17
+    3. CheckPercent - addons/hex's anticheat/lua/hac/sv_ucmd.lua:162
+     4. HAC_StoreSeed - addons/hex's anticheat/lua/hac/sv_ucmd.lua:93
+      5. v - addons/hex's anticheat/lua/hac/sv_ucmd.lua:32
+       6. unknown - lua/includes/modules/hook.lua:84
+
+
+[ERROR] addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+  1. WriteLog - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642
+   2. LogOnly - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:701
+    3. BurstCode - addons/hex's anticheat/lua/hac/sv_burstcode.lua:122
+     4. CVarList - addons/hex's anticheat/lua/hac/sv_cvl.lua:344
+      5. unknown - addons/hex's anticheat/lua/hac/sv_cvl.lua:393
+
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+
+[ERROR] addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+  1. WriteLog - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642
+   2. LogOnly - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:701
+    3. BurstCode - addons/hex's anticheat/lua/hac/sv_burstcode.lua:122
+     4. EatKeys - addons/hex's anticheat/lua/hac/sv_eatkeys.lua:41
+      5. unknown - addons/hex's anticheat/lua/hac/sv_eatkeys.lua:9
+
+
+[ERROR] addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+  1. WriteLog - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642
+   2. LogOnly - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:701
+    3. BurstCode - addons/hex's anticheat/lua/hac/sv_burstcode.lua:122
+     4. OnForward - addons/hex's anticheat/lua/hac/sv_burstcode.lua:59
+      5. Forward - addons/hex's anticheat/lua/hac/sv_burstcode.lua:315
+       6. Spawn - addons/hex's anticheat/lua/hac/sv_burstcode.lua:63
+        7. unknown - addons/hex's anticheat/lua/hac/sv_burstcode.lua:97
+
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+
+[ERROR] addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+  1. WriteLog - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642
+   2. Filter - addons/hex's anticheat/lua/hac/sv_hspfilter.lua:25
+    3. v - addons/hex's server plugins/lua/hsp/chatfilter/sv_b_chatfilter.lua:302
+     4. unknown - lua/includes/modules/hook.lua:84
+
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+Hacburst hook 'HAC.SendBinds' failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+concon hook 'ConCon' Limp dick larry (STEAM_0:1:60057192) failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+Hacburst hook 'HAC.SendBinds' failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+
+[ERROR] addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+  1. WriteLog - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642
+   2. SpinRound - addons/hex's anticheat/lua/hac/sv_spinmeround.lua:17
+    3. CheckPercent - addons/hex's anticheat/lua/hac/sv_ucmd.lua:162
+     4. HAC_StoreSeed - addons/hex's anticheat/lua/hac/sv_ucmd.lua:93
+      5. v - addons/hex's anticheat/lua/hac/sv_ucmd.lua:32
+       6. unknown - lua/includes/modules/hook.lua:84
+
+
+[ERROR] addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+  1. WriteLog - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642
+   2. LogOnly - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:701
+    3. BurstCode - addons/hex's anticheat/lua/hac/sv_burstcode.lua:122
+     4. CVarList - addons/hex's anticheat/lua/hac/sv_cvl.lua:344
+      5. unknown - addons/hex's anticheat/lua/hac/sv_cvl.lua:393
+
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+Hacburst hook 'HAC.SendBinds' failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+
+[ERROR] addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+  1. WriteLog - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642
+   2. SpinRound - addons/hex's anticheat/lua/hac/sv_spinmeround.lua:17
+    3. CheckPercent - addons/hex's anticheat/lua/hac/sv_ucmd.lua:162
+     4. HAC_StoreSeed - addons/hex's anticheat/lua/hac/sv_ucmd.lua:93
+      5. v - addons/hex's anticheat/lua/hac/sv_ucmd.lua:32
+       6. unknown - lua/includes/modules/hook.lua:84
+
+concon hook 'ConCon' Limp dick larry (STEAM_0:1:60057192) failed: addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+
+[ERROR] addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value)
+  1. WriteLog - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642
+   2. LogOnly - addons/hex's anticheat/lua/autorun/server/sv_hac.lua:701
+    3. BurstCode - addons/hex's anticheat/lua/hac/sv_burstcode.lua:122
+     4. CVarList - addons/hex's anticheat/lua/hac/sv_cvl.lua:344
+      5. unknown - addons/hex's anticheat/lua/hac/sv_cvl.lua:393
+
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), sv_rphysicstime) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!
+CheckCVars(Doremi Harukaze (STEAM_0:1:80599466), host_framerate) error (addons/hex's anticheat/lua/autorun/server/sv_hac.lua:642: attempt to index global 'ply' (a nil value))!

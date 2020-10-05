@@ -1,0 +1,25 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198054974642",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "[BON] Freshmintyy",
+				"lastlogoff": 1381179050,
+				"profileurl": "http://steamcommunity.com/id/freshmintyy/",
+				"avatar": "http://media.steampowered.com/steamcommunity/public/images/avatars/c9/c9d5a3187f69e9c765c0165bae479827ba611f29.jpg",
+				"avatarmedium": "http://media.steampowered.com/steamcommunity/public/images/avatars/c9/c9d5a3187f69e9c765c0165bae479827ba611f29_medium.jpg",
+				"avatarfull": "http://media.steampowered.com/steamcommunity/public/images/avatars/c9/c9d5a3187f69e9c765c0165bae479827ba611f29_full.jpg",
+				"personastate": 0,
+				"realname": "Big black juicy suculant fresh cocks.",
+				"primaryclanid": "103582791433156659",
+				"timecreated": 1324510514,
+				"loccountrycode": "AF",
+				"locstatecode": "01",
+				"loccityid": 5094
+			}
+		]
+		
+	}
+}

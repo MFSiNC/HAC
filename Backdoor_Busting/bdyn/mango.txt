@@ -1,0 +1,287 @@
+——————————————¬
+go loader     |
+ command guide|
+———————————————
+
+
+
+
+INTERNALS:
+	goodies:
+		This is an internal list of 'goodies' used by other loads. Ripped from old shit.
+	protolua:
+		Loads lua onto the server using the bdsm bootstrap.
+	poveride:
+		Overrides player functions to make you, yes YOU untargatable. (SteamID, IPAddress, Kick, Ban.)
+	html:
+		Loads html.lua on all clients, making it very easy to create a simple derma browser frame using SendLua.
+	os_validate:
+		Provides a smoother interface for sending lua and files to the client and server through a net message.
+	SENDs:
+		SEND:
+			Sends a thing through os_validate.
+		SEND_LUA, SEND_URL, SEND_CLUA, SEND_CURL:
+			Aliases.
+
+
+
+quick_query net message command
+
+qq (mode [FILE_EXISTS]) (file [lua/functiondump.lua]) (dir [MOD])
+
+latest result is saved to data/qq-rep.txt
+
+qq FILE_EXISTS file dir
+	Checks to see if file exists in mod.
+qq FILE_GET file dir
+	Gets the file.
+qq DIR_CONTENT search dir
+	Gets a list of files. Make sure to include the wildcard (*).
+
+
+
+
+----
+payload command
+ user's manual
+----
+
+General Syntax:
+	payload <subcommnad> <subcommandargs>...
+
+
+Player Targeting:
+	@groups:
+		all - Everyone
+		admins - IsAdmin() or UserGroup not nil, blank, user, or guest
+		users - opposite of admnins
+		goodies - Whitelist (us)
+		baddies - opposite of goodies
+		me - You
+		them - opposite of me
+		targ - The guy you're looking at
+		rand - random people.
+	#sets:
+		group|usg - usergroup usg
+		rand|num - one out of num chance to target each person
+	Otherwise it uses patterns (http://www.lua.org/pil/20.2.html, http://lua-users.org/wiki/PatternsTutorial.)
+
+
+Subcommands:
+	test:
+		Args: player (get test)[@baddies]
+		Desc: Tests what players the group you entered will target.
+	
+	help:
+		Args: none
+		Desc: This.
+	
+	damage:
+		Args: player (do damage)[@all], player (get damage)[@all], string (damage)[100]
+		Desc: Make someone plasma someone.
+	
+	cheat:
+		Args: player (get cheat)[@baddies], string (cheat)[hera]
+		Desc: Load a cheat from https://dl.dropboxusercontent.com/u/101744766/servers/gmod/lua/bot/
+	
+	fov:
+		Args: player (get fov), string (fov), string (time)
+		Desc:
+	
+	crash:
+		Args: player (get crash)[@baddies]
+		Desc: Crashes the player.
+	
+	cexec:
+		Args: player (get exec)[@baddies], string (command)[echo dicks]
+		Desc: cexec (bypasses FCVAR_SERVER_CAN_EXECUTE.) Does not bypass glua built in command checks.
+	
+	cexech:
+		Args: player (get exec)[@baddies], string (command)[echo dicks]
+		Desc: cexec, but ran every tick.
+	
+	playurl:
+		Args: player (get play)[@all], string (url)[http://k004.kiwi6.com/hotlink/9gma9f7gbk/Triple-Q_The_Boys_Speed_Highway.mp3]
+		Desc: plays a sound from a url.
+	
+	kick:
+		Args: player (get kick)[@baddies], string (reason)[globally banned for cheating: hera]
+		Desc: kicks a player.
+	
+	ban:
+		Args: player (get ban)[@baddies], string (time)[0], string (reason)[hack]
+		Desc: bans a player. does not kick.
+	
+	rcon:
+		Args: string (command)[echo dicks]
+		Desc: runs command as though rcon. some commands are blocked to lua.
+	
+	ent:
+		Args: string (class)[npc_crow]
+		Desc: Spawns an entity where you are looking.
+	
+	lock:
+		Args: player (get lock)[@baddies]
+		Desc: Like freeze, but lock.
+	
+	unlock:
+		Args: player (get unlock)[@goodies]
+		Desc: Like lock, but backwards.
+	
+	spawn:
+		Args: player (get spawn)[@all]
+		Desc: Spawn()s the player, but doesn't quite respawn them. Nice to randomly teleport someone to spawn points though.
+	
+	setclass:
+		Args: player (get class)[@me], string (playerclass)[player_sandbox]
+		Desc: Set a player's class.
+	
+	lua:
+		Args: string (lua)[--]
+		Desc: Run lua on server.
+	
+	clua:
+		Args: player (get lua)[@baddies], string (lua)[--]
+		Desc: Run lua on client(s).
+	
+	html:
+		Args: player (get html)[@all], string (url)[http://www.youtube.com/watch?v=XsaWJ6-zcm0&feature=share&list=UU1Do4y5Xq60Nr-IMKVqkdDg], string (closeable)[true]
+		Desc: Opens an html frame.
+	
+	redirect:
+		Args: string (ip:port)[127.0.0.1:1337]
+		Desc: Causes the server to redirect all players that join 10 seconds after their initial spawn.
+	
+	forcesphere:
+		Args: number (radius)[128], number (force multiplyer)[16]
+		Desc: Creates a forcesphere where you are looking. Will be retooled with better mathes once I figure out why it is not quite scaling as intended.
+	
+	saysound:
+		Args: player (say sound)[@me], string (sounds)[bot/wheres_the_bomb.wav,bot/wheres_the_bomb2.wav,bot/wheres_the_bomb3.wav,bot/where_is_it.wav]
+		Desc: Makes the player(s) say one of the sounds.
+	
+	tp:
+		Args: player (get tp)[@me], number (x)[trace.x], number (y)[trace.y], number (z)[trace.z]
+		Desc: Teleports player(s) to the position.
+	
+	stepup:
+		Args: player (get stepup)[@me], number (stepsize)[72]
+		Desc: Let's a player step up to number units. 72 is enough to walk on players.
+	
+	spec:
+		Args: player (get set)[@me], string (observer mode)[ROAMING]
+		Desc: Sets a player to an observer mode. (ROAMING, CHASE, NONE are some of them.) 
+	
+	ping:
+		Args: none
+		Desc: Makes the server ping the master list. Or whatever.
+	
+	removep:
+		Args: player (get remove)[@targ]
+		Desc: Removes player.
+	
+	203:
+		Args: none
+		Desc: Removes the entity you are looking at.
+	
+	hp:
+		Args: player (get hp)[@me], string (health)[100]
+		Desc: Sets a player's health.
+	
+	superman:
+		Args: palyer (get superman)[@me], string (multiplyer)[10]
+		Desc: Sets crouch, walk, and sprint speed, as well as jump power.
+	
+	sendfile:
+		Args: string (filename)[if arguement or file is empty, doesn't try to send.]
+		Desc: Makes the server run a file you have.
+	
+	infammo:
+		Args: player (to infammo)[@me]
+		Desc: Gives infinite ammo to player.
+
+
+
+there are also some addon commands.
+	PointShop:
+		givepoints:
+			Args: player (to give points), string (point number)
+			Desc: Give point shop points to a player.
+		
+		setpoints:
+			Args: player (to set points), string (point number)
+			Desc: Set point shop points of player.
+	ULX:
+		ulxkill:
+			Args: player (get ulxkill)[@admins]
+			Desc: Breaks ULX on players. Note chat commands still work (parsed serverside.)
+		setgroup:
+			Args: player (get grouped)[@all], string (group)[superadmin]
+
+
+
+
+Now as well as all this wonderfull, there are also gamemode specific things. Here they are.
+
+DarkRP:
+	@groups:
+		police - not implemented
+	
+	Subcommands:
+		setmoney:
+			Args: player (get setmoney)[@all], string (money)[0]
+			Desc: Sets money.
+		doorlock:
+			Args: none
+			Desc: Locks the door you are looking at.
+		doorunlock:
+			Args: none
+			Desc: UnLocks the door you are looking at. _SHOULD_ work on fading doors as well.
+		arrest:
+			Args: player (do arrest)[@baddies], player (get arrest)[@all]
+			Desc: Tries to force arrest. Doesn't really work.
+		job:
+			Args: player (get job)[@me], string (job)[mayor]
+			Desc: Forces job change.
+TTT:
+	@groups:
+		traitors - all the traitors YOUR CLIENT knows about
+		detectives - all the detectives YOUR CLIENT knows about
+		innocents - all the people YOUR CLIENT identifies as neither of those
+		
+	Subcommands:
+		traitor:
+			Args: player (get traitor)[@me]
+			Desc: Set a player to traitor. Without anyone knowing.
+		
+		detective:
+			Args: player (get detective)[@goodies]
+			Desc: Set a player to detective. Without anyone knowing.
+		
+		innocent:
+			Args: player (get innocnet)[@baddies]
+			Desc: Set a player to innocent. Without anyone knowing.
+		
+		karma:
+			Args: player (get karma)[@all], string (karma)[1000]
+			Desc: Change karma. ngov should prevent karma bans, but really it doesn't.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feature Req:
+	Serverside targeting (not likely. I'd have to change a lot to manage that.)

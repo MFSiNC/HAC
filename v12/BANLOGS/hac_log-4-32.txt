@@ -1,0 +1,79 @@
+﻿Attepmted exploits:
+
+[HSP4] Autokicked: GᄂΛDӨƧ_IƧ_BΛᄃΚ [GER] (STEAM_0:1:21155797) - 84.171.63.82:27005 - [06/09/10 17:18:41] - Module - autorun/client/AutoAim.lua
+[HSP4] Autokicked: xxRebirthxx (STEAM_0:1:16291619) - 66.68.71.31:27005 - [06/09/10 18:50:21] - Module - autorun/client/AutoAim.lua
+[HSP4] Autokicked: -=[UH]=- Cpl. MegaGeek77234 (STEAM_0:0:20735157) - 92.24.188.69:59252 - [06/09/10 20:17:32] - Module - autorun/client/AutoAim.lua
+[HSP4] Autokicked: xxRebirthxx (STEAM_0:1:16291619) - 66.68.71.31:27005 - [06/09/10 21:07:23] - Module - autorun/client/AutoAim.lua
+[HSP4] Autokicked: olivialimone (STEAM_0:0:33118960) - 95.118.130.224:27005 - [06/12/10 15:30:24] - Module - Key=name_change
+[HSP4] Autokicked: ilikepancake<3 ッ (STEAM_0:0:5851469) - 86.14.21.64:27005 - [06/12/10 19:53:54] - Module - autorun/client/[GzF]AimBot.lua
+[HSP4] Autokicked: Nightware8 (STEAM_666:88:666) - 194.204.22.14:5815 - [06/13/10 23:26:55] - Module - Key=name_change
+[HSP4] Autokicked: matthew (STEAM_0:0:28656241) - 68.59.23.8:42403 - [06/14/10 22:46:49] - Module - autorun/client/A-Hack.lua
+[HSP4] Autokicked: matthew (STEAM_0:0:28656241) - 68.59.23.8:42403 - [06/14/10 22:46:49] - Module - autorun/client/AutoAim.lua
+[HSP5] Autokicked: Samdum Famgee (STEAM_0:0:16255199) - 74.102.97.156:27005 - [06/15/10 20:25:17] - Module - Key=+asb
+[HSP6] Autokicked: HellRaiser [Ninja] (STEAM_0:0:18643494) - 89.180.137.25:27005 - [06/17/10 16:37:53] - Module - cl_cmdrate=100
+[HSP7] Autokicked: [CF] Racoon (STEAM_0:1:12437251) - 212.159.115.157:27005 - [06/19/10 00:50:09] - Module - db_steamid_ip.txt
+[HSP75] Autokicked: Dorian (STEAM_0:0:26572959) - 86.204.36.203:27005 - [06/20/10 12:26:14] - Module - FapHack/faphack.lua
+[HSP9] Autokicked: -=[UH] =- • divine • (STEAM_0:0:19299002) - 81.82.84.186:27005 - [06/21/10 22:18:39] - Module - cl_cmdrate=100
+[HSP92] Autokicked: Teh Easy Buttonz (STEAM_0:1:24878393) - 24.34.84.183:47473 - [06/23/10 21:52:53] - Module - autorun/client/A-Hack.lua
+[HSP11] Autokicked: [SG] Neji ^aWp| (STEAM_0:0:18902527) - 69.196.133.171:27005 - [06/24/10 13:59:19] - Module=FapHack/faphack.lua
+[HSP12] Autokicked: [DX]Wolf (STEAM_0:0:26461048) - 84.169.146.21:27005 - [06/25/10 11:16:12] - Module=FapHack/faphack.lua
+[HSP14] Autokicked: -=[UH]=- Nightware8 (STEAM_666:88:666) - 194.204.22.14:6755 - [06/28/10 15:47:41] - Module=includes/modules/gmcl_unblock.dll
+[HSP15] Autokicked: [ZXS]iceknight (STEAM_0:1:17581858) - 77.220.134.134:62919 - [06/28/10 18:20:17] - Module=autorun/client/AutoAim.lua
+[HSP15] Autokicked: The Nazi Kat (STEAM_0:1:19659959) - 173.217.14.94:10853 - [06/28/10 21:30:21] - Module=autorun/client/AutoAim.lua
+[HSP15] Autokicked: Teh Easy Buttonz (STEAM_0:1:24878393) - 24.34.84.183:39514 - [06/28/10 21:52:20] - Module=autorun/client/A-Hack.lua
+[HSP17] Autokicked: Kyle Tosaishi (STEAM_0:1:33154811) - 71.83.220.21:27005 - [07/03/10 08:46:38] - Key - name_menu
+[HSP17] Autokicked: Kyle Tosaishi (STEAM_0:1:33154811) - 71.83.220.21:27005 - [07/03/10 21:02:56] - SLOG=NPC_CREATE ZOMBIE
+[HSP17] Autokicked: ^1d^4a^3k^2k^5^6y^11^42^33 (STEAM_0:0:30627765) - 69.76.243.65:43621 - [07/03/10 21:04:36] - SLOG=npc_create
+[HSP17] Autokicked: ᴆэλԍLέ-šĦФσTᶓʁ (STEAM_0:0:32687515) - 88.69.241.179:27005 - [07/04/10 14:57:05] - Module=autorun/client/AutoAim.lua
+[HSP19] Autokicked: T0BY [DK] (STEAM_0:1:29298724) - 87.57.1.69:27005 - [07/05/10 13:33:45] - Module=autorun/client/keypad_cracker.lua
+[HSP19] Autokicked: Ydaer (STEAM_0:1:33429007) - 95.27.252.142:27005 - [07/06/10 10:53:47] - SLOG=npc_select
+[HSP20] Autokicked: [DX]||--<Wolf>--|| (STEAM_0:0:26461048) - 84.169.142.80:27005 - [07/08/10 01:05:55] - faphack_entities.txt
+[HSP20] Autokicked: Professionalrapist (STEAM_0:0:24672043) - 68.103.177.109:27005 - [07/09/10 01:01:38] - Module=autorun/client/keypadcracker_menu.lua
+[HSP20] Autokicked: Professionalrapist (STEAM_0:0:24672043) - 68.103.177.109:27005 - [07/09/10 01:01:38] - Module=autorun/client/[gzf]aimbot108.lua
+[HSP20] Autokicked: Professionalrapist (STEAM_0:0:24672043) - 68.103.177.109:27005 - [07/09/10 01:01:38] - Module=FapHack/faphack.lua
+[HSP23] Autokicked: PBML (STEAM_0:0:4772620) - 84.197.102.205:27005 - [07/13/10 11:16:31] - Module=autorun/client/module_bot.lua
+[HSP23] Autokicked: PBML (STEAM_0:0:4772620) - 84.197.102.205:27005 - [07/13/10 11:16:31] - Module=autorun/client/_TEMPLATE.lua
+[HSP23] Autokicked: PBML (STEAM_0:0:4772620) - 84.197.102.205:27005 - [07/13/10 11:16:31] - Module=autorun/client/asb_base.lua
+[HSP23] Autokicked: PBML (STEAM_0:0:4772620) - 84.197.102.205:27005 - [07/13/10 11:16:31] - Module=autorun/client/A-Hack.lua
+[HSP23] Autokicked: PoLOteN4iK (STEAM_0:0:31240874) - 85.141.98.130:28093 - [07/13/10 14:40:46] - KR30=cl_cmdrate=100
+[HSP23] Autokicked: Ydaer (STEAM_0:1:33429007) - 95.26.5.166:27005 - [07/14/10 16:12:29] - SLOG=npc_select
+[NoBB25] Autobanned: dakky123 (STEAM_0:0:30627765) - 69.76.243.65:43622 - [07/15/10 21:12:25] - SLOG=god
+[NoBB25] Autobanned: [AB] кinuнudai (STEAM_0:1:21962584) - 84.52.17.73:27005 - [07/16/10 13:29:55] - Module=FapHack/faphack.lua
+[NoBB25] Autobanned: [AB] кinuнudai (STEAM_0:1:21962584) - 84.52.17.73:27005 - [07/16/10 13:29:55] - Module=faphack/faphack.lua
+[NoBB25] Autobanned: [AB] кinuнudai (STEAM_0:1:21962584) - 84.52.17.73:27005 - [07/16/10 13:29:55] - Module=includes/enum/faphack.lua
+[NoBB25] Autobanned: [AB] кinuнudai (STEAM_0:1:21962584) - 84.52.17.73:27005 - [07/16/10 13:29:55] - TS=FapHack
+[NoBB25] Autobanned: Xelazam24 (STEAM_0:0:12477758) - 84.102.20.165:27005 - [07/16/10 14:40:20] - SLOG=god
+[NoBB25] Autobanned: Xelazam24 (STEAM_0:0:12477758) - 84.102.20.165:27005 - [07/16/10 16:06:13] - SLOG=god
+[NoBB25] Autobanned: Ydaer (STEAM_0:1:33429007) - 95.24.128.177:27005 - [07/17/10 13:19:26] - SLOG=npc_select
+[NoBB26] Autobanned: Unknown (STEAM_0:1:26179536) - 88.105.96.66:60170 - [07/17/10 20:30:43] - Module=autorun/client/asb.lua
+[NoBB26] Autobanned: Unknown (STEAM_0:1:26179536) - 88.105.96.66:60170 - [07/17/10 20:30:43] - Module=autorun/client/_TEMPLATE.lua
+[NoBB26] Autobanned: Unknown (STEAM_0:1:26179536) - 88.105.96.66:60170 - [07/17/10 20:30:43] - Module=autorun/client/asb_base.lua
+[NoBB26] Autobanned: [GgS]DarkVirus(TeH ApOcOlYpSe) (STEAM_0:1:19361874) - 71.170.157.240:27005 - [07/17/10 22:08:11] - Module=autorun/client/A-Hack.lua
+[NoBB26] Autobanned: [GgS]DarkVirus(TeH ApOcOlYpSe) (STEAM_0:1:19361874) - 71.170.157.240:27005 - [07/17/10 22:08:11] - Module=autorun/client/AutoAim.lua
+[NoBB26] Autobanned: Xelazam24 (STEAM_0:0:12477758) - 84.102.20.165:27005 - [07/17/10 23:09:41] - SLOG=god
+[NoBB26] Autobanned: Xelazam24 (STEAM_0:0:12477758) - 84.102.20.165:27005 - [07/17/10 23:38:46] - SLOG=god
+[NoBB28] Autobanned: reaper-of-death-666 (STEAM_0:0:33710434) - 173.17.153.1:27005 - [07/19/10 15:16:43] - SLOG=ent_create health
+[NoBB30] Autobanned: bryansmercenaries (STEAM_0:1:32039765) - 68.115.178.87:27005 - [07/21/10 15:28:53] - Module=autorun/client/AutoAim.lua
+[NoBB30] Autobanned: {DCW}dakky123 (STEAM_0:0:30627765) - 69.76.243.65:43622 - [07/21/10 18:29:19] - Module=autorun/client/AutoAim.lua
+[NoBB30] Autobanned: Ydaer (STEAM_0:1:33429007) - 95.25.156.216:27005 - [07/23/10 09:19:28] - SLOG=npc_go
+[NoBB30] Autobanned: Kotolaz (STEAM_0:0:25177734) - 93.90.251.111:27005 - [07/23/10 15:38:27] - KR30=cl_cmdrate=10
+[NoBB31] Autobanned: Fick_dich_jude_99 (STEAM_0:1:31193181) - 92.195.102.3:27005 - [07/24/10 10:35:38] - SLOG=god 1
+[NoBB31] Autobanned: ^0]{O.B.W}[^1 Pri^3ce (STEAM_0:1:23039474) - 92.196.168.252:27005 - [07/24/10 10:36:30] - SLOG=god
+[NoBB32] Autobanned: Xelazam24 (STEAM_0:0:12477758) - 84.102.20.165:27005 - [07/24/10 20:26:28] - SLOG=god
+[NoBB32] Autobanned: -=[UH]=- Cpt. Dλvid -Sdb- (STEAM_0:1:23999420) - 97.81.1.135:27005 - [07/24/10 21:17:30] - TS=cl_cmdrate=66
+[NoBB32] Autobanned: Ydaer (STEAM_0:1:33429007) - 95.26.242.201:27005 - [07/25/10 10:05:40] - SLOG=npc_go
+[NoBB32] Autobanned: Ydaer (STEAM_0:1:33429007) - 95.26.242.201:27005 - [07/25/10 10:54:35] - SLOG=npc_go
+[NoBB32] Autobanned: Xelazam24 (STEAM_0:0:12477758) - 84.102.20.165:27005 - [07/25/10 13:44:05] - SLOG=god
+[NoBB32] Autobanned: Superslay16 (STEAM_0:0:12101136) - 71.59.249.232:27005 - [07/25/10 22:47:49] - Module=autorun/client/A-Hack.lua
+[NoBB32] Autobanned: Superslay16 (STEAM_0:0:12101136) - 71.59.249.232:27005 - [07/25/10 22:47:49] - TS=ASB:TargetCheck
+[NoBB32] Autobanned: Lt Stokes (STEAM_0:1:4593221) - 69.92.97.17:27005 - [07/25/10 23:05:07] - Namehack: was Lt Stokes, Should be: Cell-Ops
+[NoBB32] Autobanned: homamhomam (STEAM_0:0:33912112) - 94.59.173.197:27005 - [07/26/10 10:17:27] - SLOG=god
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+
+206.174.207.169:27015
+67.212.165.187:27017
+
+
+
+
+
+
+
+print( "Testing FapHack detection methods" )
+
+-- Detects all detours
+print( "1:", debug.getupvalue( file.Read, 1 ) ~= nil )
+
+-- I don't like this one, too specific
+print( "2:", #file.FindInLua( "FapHack" ) > 0 )
+
+-- Bonus: messed up FapHack WHILE detecting it
+print( "3:", debug.setupvalue( ConVarExists, 2, {} ) ~= nil ) -- Sets FapHack table to {}
+
+
+

@@ -1,0 +1,19 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561197999006300",
+				"communityvisibilitystate": 1,
+				"profilestate": 1,
+				"personaname": "admin hater",
+				"lastlogoff": 1381215466,
+				"profileurl": "http://steamcommunity.com/id/dimadonut/",
+				"avatar": "http://media.steampowered.com/steamcommunity/public/images/avatars/75/75ff5a0be72e678a174c0bfab03163699c88c81d.jpg",
+				"avatarmedium": "http://media.steampowered.com/steamcommunity/public/images/avatars/75/75ff5a0be72e678a174c0bfab03163699c88c81d_medium.jpg",
+				"avatarfull": "http://media.steampowered.com/steamcommunity/public/images/avatars/75/75ff5a0be72e678a174c0bfab03163699c88c81d_full.jpg",
+				"personastate": 0
+			}
+		]
+		
+	}
+}

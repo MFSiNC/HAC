@@ -1,0 +1,4 @@
+Ply: 1 / 8 Ent: 60
+Map: UH Poolsclosed Mono V1
+Wep: Suicide
+HAC: 1/28 Deaths: 1

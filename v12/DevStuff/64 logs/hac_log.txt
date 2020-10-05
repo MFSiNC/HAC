@@ -1,0 +1,127 @@
+HeX's Anti-Cheat [64] log created at [29-12-10 08:47:30PM] 
+
+[HAC64] [29-12-10 08:47:30PM] - Autokicked: -=[UH]=- Lt. Henry00 <henry00is> (STEAM_0:1:31421426) - RCC=+attack
+[HAC64] [29-12-10 08:48:06PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - Key=aa_enabled
+[HAC64] [29-12-10 08:50:22PM] - Autobanned: -=[UH]=- HeX <GONE> (STEAM_0:0:17809124) - Detour3=file.FindInLua
+[HAC64] [29-12-10 08:50:22PM] - Autobanned: -=[UH]=- HeX <GONE> (STEAM_0:0:17809124) - Detour3=file.Find
+[HAC64] [29-12-10 08:50:22PM] - Autobanned: -=[UH]=- HeX <GONE> (STEAM_0:0:17809124) - Detour3=file.Read
+[HAC64] [29-12-10 08:50:22PM] - Autobanned: -=[UH]=- HeX <GONE> (STEAM_0:0:17809124) - Detour3=GetConVar
+[HAC64] [29-12-10 08:50:22PM] - Autobanned: -=[UH]=- HeX <GONE> (STEAM_0:0:17809124) - Detour3=GetConVarString
+[HAC64] [29-12-10 08:50:22PM] - Autobanned: -=[UH]=- HeX <GONE> (STEAM_0:0:17809124) - Detour3=GetConVarNumber
+[HAC64] [29-12-10 08:50:22PM] - Autobanned: -=[UH]=- HeX <GONE> (STEAM_0:0:17809124) - Detour3=concommand.Add
+[HAC64] [29-12-10 08:50:22PM] - Autobanned: -=[UH]=- HeX <GONE> (STEAM_0:0:17809124) - Detour4=GetConVar
+[HAC64] [29-12-10 08:50:22PM] - Autobanned: -=[UH]=- HeX <GONE> (STEAM_0:0:17809124) - Detour4=GetConVarString
+[HAC64] [29-12-10 08:50:22PM] - Autobanned: -=[UH]=- HeX <GONE> (STEAM_0:0:17809124) - Detour4=GetConVarNumber
+[HAC64] [29-12-10 08:50:23PM] - Autobanned: -=[UH]=- HeX <GONE> (STEAM_0:0:17809124) - WModule=lua/includes/enum/*faphack*.lua/faphack.lua
+[HAC64] [29-12-10 08:50:23PM] - Autobanned: -=[UH]=- HeX <GONE> (STEAM_0:0:17809124) - WModule=lua/FapHack/*.lua/faphack.lua
+[HAC64] [29-12-10 08:50:24PM] - Autobanned: -=[UH]=- HeX <GONE> (STEAM_0:0:17809124) - Detour1=[addons\faphack\lua\faphack\faphack.lua:FFIL]
+[HAC64] [29-12-10 08:50:24PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - Detour1=[addons\faphack\lua\faphack\faphack.lua:FF]
+[HAC64] [29-12-10 08:50:24PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - Detour1=[addons\faphack\lua\faphack\faphack.lua:FR]
+[HAC64] [29-12-10 08:50:24PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - Detour1=[addons\faphack\lua\faphack\faphack.lua:GC]
+[HAC64] [29-12-10 08:50:24PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - Detour1=[addons\faphack\lua\faphack\faphack.lua:GCS]
+[HAC64] [29-12-10 08:50:25PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - Detour1=[addons\faphack\lua\faphack\faphack.lua:GCN]
+[HAC64] [29-12-10 08:50:25PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - Detour2=[file.FindInLua]
+[HAC64] [29-12-10 08:50:25PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - Detour2=[file.Find]
+[HAC64] [29-12-10 08:50:25PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - Detour2=[file.Read]
+[HAC64] [29-12-10 08:50:26PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - Detour2=[GetConVar]
+[HAC64] [29-12-10 08:50:26PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - Detour2=[GetConVarString]
+[HAC64] [29-12-10 08:50:26PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - Detour2=[GetConVarNumber]
+[HAC64] [29-12-10 08:50:38PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - Key=Fap_Menu
+[HAC64] [29-12-10 08:50:39PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - Key=Fap_Menu
+[HAC64] [29-12-10 08:50:42PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - WModule=lua/includes/enum/*hack*.lua/faphack.lua
+[HAC64] [29-12-10 08:53:24PM] - ManuallyBanned: -=[UH]=- Lt. Henry00 <henry00is> (STEAM_0:1:31421426) - poop
+[HAC64] [29-12-10 08:53:52PM] - ManuallyBanned: -=[UH]=- Lt. Henry00 <henry00is> (STEAM_0:1:31421426) - poop
+[HAC64] [29-12-10 08:54:21PM] - Autobanned: -=[UH]=- Lt. Henry00 <henry00is> (STEAM_0:1:31421426) - Key=fap_menu
+[HAC64] [29-12-10 08:54:25PM] - Autobanned: -=[UH]=- Lt. Henry00 <henry00is> (STEAM_0:1:31421426) - Key=fap_aim_antisnap
+[HAC64] [29-12-10 08:54:42PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - SLOG=oRsVhhSlnRmnRaqM "CVar=sv_cheats:Args=[[1]]" "User"
+[HAC64] [29-12-10 08:54:42PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - SLOG=oRsVhhSlnRmnRaqM "KR30=sv_cheats=1" "User"
+[HAC64] [29-12-10 08:54:42PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - CVar=host_timescale:Args=[[1]]
+[HAC64] [29-12-10 08:54:43PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - CVar=host_timescale:Args=[[4]]
+[HAC64] [29-12-10 08:54:43PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - KR30=host_timescale=4
+[HAC64] [29-12-10 08:54:43PM] - Autobanned: -=[UH]=- Lt. Henry00 <henry00is> (STEAM_0:1:31421426) - Key=fap_aim_autoreload
+[HAC64] [29-12-10 08:54:44PM] - Autobanned: -=[UH]=- Lt. Henry00 <henry00is> (STEAM_0:1:31421426) - Key=fap_aim_autofire
+[HAC64] [29-12-10 08:54:45PM] - Autobanned: -=[UH]=- Lt. Henry00 <henry00is> (STEAM_0:1:31421426) - Key=fap_aim_autofire
+[HAC64] [29-12-10 08:54:46PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - CVar=host_timescale:Args=[[1]]
+[HAC64] [29-12-10 08:54:47PM] - Autobanned: -=[UH]=- Lt. Henry00 <henry00is> (STEAM_0:1:31421426) - Key=fap_aim_bonemode
+[HAC64] [29-12-10 08:54:48PM] - Autobanned: -=[UH]=- Lt. Henry00 <henry00is> (STEAM_0:1:31421426) - Key=fap_aim_autoreload
+[HAC64] [29-12-10 08:54:49PM] - Autobanned: -=[UH]=- Lt. Henry00 <henry00is> (STEAM_0:1:31421426) - Key=fap_aim_autoreload
+[HAC64] [29-12-10 08:54:50PM] - Autobanned: -=[UH]=- Lt. Henry00 <henry00is> (STEAM_0:1:31421426) - Key=fap_aim_maxdistance
+[HAC64] [29-12-10 08:54:51PM] - Autobanned: -=[UH]=- Lt. Henry00 <henry00is> (STEAM_0:1:31421426) - Key=fap_aim_enabled
+[HAC64] [29-12-10 08:55:20PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - CVar=host_timescale:Args=[[4]]
+[HAC64] [29-12-10 08:55:25PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - CVar=host_timescale:Args=[[1]]
+[HAC64] [29-12-10 08:55:39PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - CVar=host_framerate:Args=[[1500]]
+[HAC64] [29-12-10 08:55:39PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - KR30=host_framerate=1500
+[HAC64] [29-12-10 08:55:42PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - CVar=host_framerate:Args=[[0]]
+[HAC64] [29-12-10 08:55:43PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - CVar=host_framerate:Args=[[1500]]
+[HAC64] [29-12-10 08:55:45PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - CVar=host_framerate:Args=[[0]]
+[HAC64] [29-12-10 08:55:46PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - CVar=host_framerate:Args=[[1500]]
+[HAC64] [29-12-10 08:55:46PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - CVar=host_framerate:Args=[[0]]
+[HAC64] [29-12-10 08:56:06PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - SLOG=oRsVhhSlnRmnRaqM "CVar=sv_cheats:Args=[[0]]" "User"
+[HAC64] [29-12-10 08:56:08PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - SLOG=oRsVhhSlnRmnRaqM "CVar=sv_cheats:Args=[[1]]" "User"
+[HAC64] [29-12-10 08:56:15PM] - Autobanned: -=[UH]=- Lt. Henry00 <henry00is> (STEAM_0:1:31421426) - Key=aimbot_headshots_on
+[HAC64] [29-12-10 08:56:20PM] - Autobanned: -=[UH]=- Lt. Henry00 <henry00is> (STEAM_0:1:31421426) - Key=aimbot
+[HAC64] [29-12-10 08:56:21PM] - Autobanned: -=[UH]=- Lt. Henry00 <henry00is> (STEAM_0:1:31421426) - Key=aimbot_hitbox
+[HAC64] [29-12-10 08:56:23PM] - Autobanned: -=[UH]=- Lt. Henry00 <henry00is> (STEAM_0:1:31421426) - Key=aimbot_on
+[HAC64] [29-12-10 08:56:24PM] - Autobanned: -=[UH]=- Lt. Henry00 <henry00is> (STEAM_0:1:31421426) - Key=aimbot_target_closest
+[HAC64] [29-12-10 08:56:25PM] - Autobanned: -=[UH]=- Lt. Henry00 <henry00is> (STEAM_0:1:31421426) - Key=aimbot_on
+[HAC64] [29-12-10 08:56:26PM] - Autobanned: -=[UH]=- Lt. Henry00 <henry00is> (STEAM_0:1:31421426) - Key=aimbot_offset
+[HAC64] [29-12-10 08:56:28PM] - Autobanned: -=[UH]=- Lt. Henry00 <henry00is> (STEAM_0:1:31421426) - Key=aimbot_scan
+[HAC64] [29-12-10 08:56:29PM] - Autobanned: -=[UH]=- Lt. Henry00 <henry00is> (STEAM_0:1:31421426) - Key=aimbot_off
+[HAC64] [29-12-10 08:58:03PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - Key=aa_enabled
+[HAC64] [29-12-10 08:58:28PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - SLOG=npc_test
+[HAC64] [29-12-10 08:58:44PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - SLOG=oRsVhhSlnRmnRaqM "CVar=sv_cheats:Args=[[0]]" "User"
+--break
+[HAC64] [29-12-10 09:07:25PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - CVar=sv_cheats:Args=[[1]]
+[HAC64] [29-12-10 09:07:25PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - KR30=sv_cheats=1
+[HAC64] [29-12-10 09:07:27PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - CVar=host_timescale:Args=[[1]]
+[HAC64] [29-12-10 09:07:28PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - CVar=host_timescale:Args=[[4]]
+[HAC64] [29-12-10 09:07:29PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - KR30=host_timescale=4
+[HAC64] [29-12-10 09:07:30PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - CVar=host_timescale:Args=[[1]]
+[HAC64] [29-12-10 09:07:31PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - CVar=host_framerate:Args=[[1500]]
+[HAC64] [29-12-10 09:07:32PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - KR30=host_framerate=1500
+[HAC64] [29-12-10 09:07:32PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - CVar=host_framerate:Args=[[0]]
+[HAC64] [29-12-10 09:07:38PM] - Autobanned: -=[UH]=- Lt. Henry00 <henry00is> (STEAM_0:1:31421426) - Key=lol_adminalert
+[HAC64] [29-12-10 09:13:12PM] - Autobanned: -=[UH]=- Lt. Henry00 <henry00is> (STEAM_0:1:31421426) - Key=lol_admins
+[HAC64] [29-12-10 09:13:39PM] - Autobanned: -=[UH]=- Lt. Henry00 <henry00is> (STEAM_0:1:31421426) - Key=lol_aim
+[HAC64] [29-12-10 09:13:59PM] - Autobanned: -=[UH]=- Lt. Henry00 <henry00is> (STEAM_0:1:31421426) - Key=lol_fuckthis
+--17 aimbots
+[HAC64] [29-12-10 09:15:53PM] - Autobanned: -=[UH]=- HeX <GONE> (STEAM_0:0:17809124) - Detour3=file.FindInLua
+[HAC64] [29-12-10 09:15:53PM] - Autobanned: -=[UH]=- HeX <GONE> (STEAM_0:0:17809124) - Detour3=file.Find
+[HAC64] [29-12-10 09:15:53PM] - Autobanned: -=[UH]=- HeX <GONE> (STEAM_0:0:17809124) - Detour3=file.Read
+[HAC64] [29-12-10 09:15:53PM] - Autobanned: -=[UH]=- HeX <GONE> (STEAM_0:0:17809124) - Detour3=GetConVar
+[HAC64] [29-12-10 09:15:53PM] - Autobanned: -=[UH]=- HeX <GONE> (STEAM_0:0:17809124) - Detour3=GetConVarNumber
+[HAC64] [29-12-10 09:15:53PM] - Autobanned: -=[UH]=- HeX <GONE> (STEAM_0:0:17809124) - Detour3=concommand.Add
+[HAC64] [29-12-10 09:15:53PM] - Autobanned: -=[UH]=- HeX <GONE> (STEAM_0:0:17809124) - Detour4=GetConVar
+[HAC64] [29-12-10 09:15:53PM] - Autobanned: -=[UH]=- HeX <GONE> (STEAM_0:0:17809124) - Detour4=GetConVarNumber
+[HAC64] [29-12-10 09:15:55PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - Detour1=[lua\autorun\client\pb_pub.lua:FFIL]
+[HAC64] [29-12-10 09:15:55PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - Detour1=[lua\autorun\client\pb_pub.lua:FF]
+[HAC64] [29-12-10 09:15:55PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - WModule=lua/autorun/client/*trooper_*.lua/trooper_v1_public.lua
+[HAC64] [29-12-10 09:15:55PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - Detour1=[lua\autorun\client\pb_pub.lua:FR]
+[HAC64] [29-12-10 09:15:55PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - Detour1=[lua\autorun\client\pb_pub.lua:GC]
+[HAC64] [29-12-10 09:15:55PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - WModule=lua/autorun/client/*pb_*.lua/pb_pub.lua
+[HAC64] [29-12-10 09:15:56PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - Detour1=[lua\autorun\client\pb_pub.lua:GCN]
+[HAC64] [29-12-10 09:15:56PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - Module=lua/autorun/client/AutoAim.lua
+[HAC64] [29-12-10 09:15:56PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - Detour2=[file.FindInLua]
+[HAC64] [29-12-10 09:15:56PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - WModule=lua/autorun/client/asb.lua/Asb.lua
+[HAC64] [29-12-10 09:15:56PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - Detour2=[file.Find]
+[HAC64] [29-12-10 09:15:56PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - Detour2=[file.Read]
+[HAC64] [29-12-10 09:15:57PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - TC=ShenBot
+[HAC64] [29-12-10 09:15:57PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - HUDPaint=AIMBOT
+[HAC64] [29-12-10 09:15:57PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - CreateMove=Generic:Autoaim
+[HAC64] [29-12-10 09:15:57PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - Think=AGT:Autoshoot
+[HAC64] [29-12-10 09:15:57PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - Move=JetBot:Teleportin
+[HAC64] [29-12-10 09:15:57PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - ProcessSetConVar=SEIsShit
+[HAC64] [29-12-10 09:15:57PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - Detour2=[GetConVar]
+[HAC64] [29-12-10 09:15:57PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - Detour2=[GetConVarNumber]
+[HAC64] [29-12-10 09:16:06PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - Module=lua/autorun/client/AGT.lua
+[HAC64] [29-12-10 09:16:15PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - WModule=lua/autorun/client/*hack*.lua/lolhack.lua
+[HAC64] [29-12-10 09:16:15PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - WModule=lua/autorun/client/*hack*.lua/Nishack.lua
+[HAC64] [29-12-10 09:16:15PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - WModule=lua/autorun/client/*hack*.lua/sethhackv2.lua
+[HAC64] [29-12-10 09:16:16PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - WModule=lua/autorun/client/*crack*.lua/crackme.lua
+[HAC64] [29-12-10 09:16:19PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - WModule=lua/autorun/client/*cvar*.lua/cvar2_SE.lua
+[HAC64] [29-12-10 09:16:24PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - WModule=lua/autorun/client/*spam*.lua/Spam_Chat_v2.lua
+[HAC64] [29-12-10 09:16:24PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - WModule=lua/autorun/client/*spam*.lua/Spam_Props_v2.lua
+[HAC64] [29-12-10 09:16:25PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - WModule=lua/autorun/client/*bypass*.lua/bypass_sourcenet.lua
+[HAC64] [29-12-10 09:16:26PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - WModule=lua/autorun/client/*bot*.lua/jetbot.lua
+[HAC64] [29-12-10 09:16:26PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - WModule=lua/autorun/client/*bot*.lua/nBot.lua
+[HAC64] [29-12-10 09:16:26PM] - Autobanned: -=[UH]=- HeX <ADMIN> (STEAM_0:0:17809124) - WModule=lua/autorun/client/*bot*.lua/shenbot.lua
