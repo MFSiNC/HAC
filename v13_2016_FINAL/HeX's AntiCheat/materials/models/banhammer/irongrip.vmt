@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/banhammer/irongrip"
+	"$bumpmap" "models/banhammer/irongrip_normal"
+
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "SlipperyMetal" 
+	"$envmaptint" "[0.1 0.1 0.1]"
+	"$envmapsaturation" "1"
+
+}

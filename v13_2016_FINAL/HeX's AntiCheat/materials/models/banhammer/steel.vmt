@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/banhammer/steel"
+	 "$bumpmap" "models/banhammer/steel_normal"
+	 $normalmapalphaenvmapmask 1
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "SlipperyMetal" 
+	"$envmaptint" "[0.2 0.2 0.15]"
+	"$envmapsaturation" "1"
+	$phong			1
+	$phongexponent			4	
+	$PhongExponentTexture "models/banhammer/bullet_exp"
+	"$envmapmask" "models/banhammer/monitor_mask"
+	$phongboost				32
+	$phongfresnelranges		"[0 0.5 1]"
+	"$PhongAlbedoTint" "1"
+}
