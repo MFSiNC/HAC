@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/ammo_bits/smg/bullet_sheet"
+	"$bumpmap" "models/ammo_bits/smg/bullet_sheet_normal"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "SlipperyMetal"
+	"$envmaptint" "[0.05 0.05 0.05]"
+	"$envmapsaturation" "500"
+	$phong			1
+	$phongexponent			4	
+	$PhongExponentTexture "models/ammo_bits/smg/bullet_exp"
+	$phongboost				35
+	$phongfresnelranges		"[0 0.5 1]"
+	"$PhongAlbedoTint" "1"
+}
