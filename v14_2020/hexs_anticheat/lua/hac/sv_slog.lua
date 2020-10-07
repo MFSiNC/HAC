@@ -2,6 +2,12 @@ include("hac/sv_incoming.lua")
 HAC.SLOG = {}
 local Active = false
 
+local function FindPlayerByNetChannel(netchan)
+	for k, v in pairs(player.GetAll()) do
+		if netchan == CNetChan(v:EntIndex()) then return v end
+	end
+end
+
 function HAC.SLOG.BuildWhitelist()
 	for k, v in pairs(concommand.GetTable()) do
 		local Low = k:lower()
@@ -122,8 +128,9 @@ end
 hook.Add("ExecuteStringCommand", "ExecuteStringCommand", ExecuteStringCommand)
 
 FilterIncomingMessage(net_StringCmd, function(netchan, read, write)
+	local ply = FindPlayerByNetChannel(netchan)
 	local cmd = read:ReadString()
-	hook.Run("ExecuteStringCommand", cmd, netchan:GetAddress():ToString())
+	hook.Run("ExecuteStringCommand", cmd, ply:SteamID())
 	write:WriteUInt(net_StringCmd, NET_MESSAGE_BITS)
 	write:WriteString(cmd)
 end)

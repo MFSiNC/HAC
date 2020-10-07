@@ -1410,6 +1410,7 @@ concommand.Add("hac_debug", HAC.ToggleDebug)
 
 --Set spawn pos for pic!
 function HAC.SetHere(self)
+	if not IsValid(self) then self:print("[HAC] Are you retarded?") return end
 	self:print("[HAC] Set Here")
 
 	self.HAC_SpawnHere = {
