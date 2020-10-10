@@ -4,7 +4,7 @@ HAC.LPT.XPCall = [[1 main NN ../../../../../../../..//nul 11 2 C GetPlayer [C] -
 --Stack trace
 HAC.LPT.XDCheck = "B"
 --bc_Hooker2, xpcall in 5 cl_hac
-HAC.LPT.Hooker = [[1 Lua v ../../../../../../../..//nul 52 Lua Call addons/hexs_anticheat/lua/includes/modules/hook.lua 853 main NN ../../../../../../../..//nul 54 C GetPlayer [C] -15 Lua Finish addons/hexs_anticheat/lua/cl_hac.lua 14506 Lua NN addons/hexs_anticheat/lua/includes/extensions/net.lua 4227 C pcall [C] -18 Lua NBS addons/hexs_anticheat/lua/includes/extensions/net.lua 4229 Lua NN addons/hexs_anticheat/lua/includes/extensions/net.lua 30]]
+HAC.LPT.Hooker = [[1 Lua v ../../../../../../../..//nul 52 Lua Call addons/hexs_anticheat/lua/includes/modules/hook.lua 853 main NN ../../../../../../../..//nul 54 C GetPlayer [C] -15 Lua Finish addons/hexs_anticheat/lua/cl_hac.lua 14496 Lua NN addons/hexs_anticheat/lua/includes/extensions/net.lua 4227 C pcall [C] -18 Lua NBS addons/hexs_anticheat/lua/includes/extensions/net.lua 4229 Lua NN addons/hexs_anticheat/lua/includes/extensions/net.lua 30]]
 --hook.Call
 --Main, LPT in cl_hac
 HAC.LPT.Main = [[

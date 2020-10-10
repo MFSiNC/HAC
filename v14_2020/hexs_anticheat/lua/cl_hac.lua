@@ -959,13 +959,13 @@ local function CreateFont(new,Tab)
 	if not Lists.White_Font[ NotCRC(new..Call) ] then
 		DelayBAN("CreateFont=", new,Call); EatThis(path)
 		
-		if not Silent then
+		--[[if not Silent then
 			Tab.font	= "comic sans ms"
 			Tab.size 	= 350
 			Tab.weight	= 800
 			Tab.anti	= false
 			Tab.add		= false
-		end
+		end]]
 	end
 	
 	return NotSCF(new,Tab)
@@ -1064,8 +1064,8 @@ local function CheckOven()
 			end
 			
 			if not Silent then
-				func 			= Useless
-				GAMEMODE[what]	= Useless
+				--func 			= Useless
+				--GAMEMODE[what]	= Useless
 			end
 			EatThis(path)
 		end
@@ -1178,7 +1178,6 @@ NotTS(25, function()
 	DelayBAN( NotCRC(MSGHook) )
 end)
 Ooh()
-
 
 local function CheckPotato(spud,peel,pot)
 	if not spud then DelayBAN("CheckPotato-No("..peel..")") return 1 end
@@ -1408,7 +1407,7 @@ local IronPants = {}
 local function Fry()
 	NotTS(10, Fry)
 	MashPotato()
-	CheckOven()
+	--CheckOven()
 	
 	for k,v in pairs(StonePants) do
 		if not IronPants[k] then
@@ -1499,7 +1498,7 @@ NotHH.InitPostEntity.Hooks = function()
 	
 	local function Bake()
 		NotTS(168, Bake)
-		Fry()
+		--Fry()
 	end
 	NotTS(9, Bake)
 	

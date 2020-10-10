@@ -129,10 +129,10 @@ local function OpenCrypt()
 	for k,v in pairs(TRun) do
 		local Crypt = SecretCrypt and SecretCrypt("HACLoadOpenCrypt2", v) or RunCrypt(v)
 		NotSX(Crypt, v)
-		NotSX(Crypt, "addons/hexs_anticheat/"..v)
+		NotSX(Crypt, "addons/hex's anticheat/"..v)
 		v = LSS(v)
 		NotSX(Crypt, v)
-		NotSX(Crypt, "addons/hexs_anticheat/"..v)
+		NotSX(Crypt, "addons/HeX's AntiCheat/"..v)
 		Crypt = nil
 	end
 end

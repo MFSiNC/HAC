@@ -1,7 +1,7 @@
-if SERVER then
-	include("hac/sv_server.lua")
+if not CNetChan then
+	require('sourcenet')
 end
-
+include("hac/sv_server.lua")
 include("hac/sv_netmessages.lua")
 
 -- Initialization
@@ -51,36 +51,16 @@ hook.Add("PreProcessMessages", "InFilter", function(netchan, read, write, localc
 	end
 
 	hook.Call("BASE_PreProcessMessages", nil, netchan, read, write)
-	local changeLevelState = false
 
 	while read:GetNumBitsLeft() >= NET_MESSAGE_BITS do
 		local msg = read:ReadUInt(NET_MESSAGE_BITS)
-
-		if CLIENT then
-			-- Hack to prevent changelevel crashes
-			if msg == net_SignonState then
-				local state = read:ReadByte()
-
-				if state == SIGNONSTATE_CHANGELEVEL then
-					changeLevelState = true
-					--print( "[gm_sourcenet] Received changelevel packet" )
-				end
-
-				read:Seek(read:GetNumBitsRead() - 8)
-			end
-		end
-
 		local handler = NET_MESSAGES[msg]
 
 		--[[if msg ~= net_NOP and msg ~= 3 and msg ~= 9 then
 			Msg("(in) Pre Message: " .. msg .. ", bits: " .. read:GetNumBitsRead() .. "/" .. totalbits .. "\n")
 		end--]]
 		if not handler then
-			if CLIENT then
-				handler = NET_MESSAGES.SVC[msg]
-			else
-				handler = NET_MESSAGES.CLC[msg]
-			end
+			handler = NET_MESSAGES.CLC[msg]
 
 			if not handler then
 				for i = 1, netchan:GetNetMessageNum() do
@@ -118,23 +98,13 @@ hook.Add("PreProcessMessages", "InFilter", function(netchan, read, write, localc
 		end--]]
 	end
 
-	if CLIENT then
-		if changeLevelState then
-			--print("[gm_sourcenet] Server is changing level, calling PreNetChannelShutdown")
-			hook.Call("PreNetChannelShutdown", nil, netchan, "Server Changing Level")
-		end
-	end
 end)
 
 function FilterIncomingMessage(msg, func)
 	local handler = NET_MESSAGES[msg]
 
 	if not handler then
-		if CLIENT then
-			handler = NET_MESSAGES.SVC[msg]
-		else
-			handler = NET_MESSAGES.CLC[msg]
-		end
+		handler = NET_MESSAGES.CLC[msg]
 	end
 
 	if handler then

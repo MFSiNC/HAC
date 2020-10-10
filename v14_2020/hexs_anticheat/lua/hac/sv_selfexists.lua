@@ -243,8 +243,8 @@ function HAC.Init.Command(ply, cmd, args)
 		ply:FailInit("HACInit_Len, (" .. Len .. " != " .. HAC.Count.LenCL .. ")", HAC.Msg.SE_LenFail)
 	end
 
-	if Reply ~= "UH_2016C" then
-		ply:FailInit("HACInit_RX, (" .. Reply .. " != UH_2016C)", HAC.Msg.SE_NoUHDM)
+	if Reply ~= "UH_2020C" then
+		ply:FailInit("HACInit_RX, (" .. Reply .. " != UH_2020C)", HAC.Msg.SE_NoUHDM)
 	end
 
 	if CRC ~= GetCRC() then

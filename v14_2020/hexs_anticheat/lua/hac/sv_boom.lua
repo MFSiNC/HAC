@@ -54,13 +54,90 @@ function _R.Player:DoHax()
 	self:SetHealth(888888)
 	self:Freeze(true)
 	self:StripWeapons()
-	self:RestrictWeapons(30, "You've made a terrible mistake", "If you're reading this, you win :D")
+
 
 	if HAC_POS then
 		self:SetPos(HAC_POS)
 	end
 
-	HAC.Boom.Explode(self)
+	--No, no
+	self:EmitSound("vo/npc/male01/no01.wav")
+
+	--HAAAAX
+	self:timer(2, function()
+		self:EmitSound("vo/npc/male01/hacks01.wav")
+	end)
+
+	--NOOOOO
+	self:timer(3.4, function()
+		self:EmitSound("vo/npc/male01/no02.wav")
+	end)
+
+	--Rocket
+	self:timer(5.37, function()
+		if not self:Alive() then
+			self:Spawn()
+		end
+		if self:InVehicle() then
+			self:ExitVehicle()
+		end
+
+		self:Ignite(20, 100)
+		self:SetHealth(888888)
+		self:Freeze(false)
+		self:StripWeapons()
+		self:SetFrags(0)
+		self:GodDisable()
+
+		if HAC_POS then
+			self:SetPos(HAC_POS + Vector(0, 0, 5))
+		end
+
+		--Rocket
+		local Rocket = ents.Create("hac_rocket")
+		Rocket:SetPos(self:GetPos() + Vector(0, 0, 30))
+		Rocket:SetOwner(self)
+		Rocket.Owner = self
+		Rocket:SetParent(self)
+		Rocket:Spawn()
+		self.HAC_Rocket = Rocket
+		--Boom boom boom
+		HAC.Boom.Big(self, 4, true)
+		HAC.Boom.Explode(self)
+		HAC.Boom.Explode(self)
+		--Fly up
+		self:SetVelocity(Vector(0, 0, 1290))
+
+		--Pop
+		self:timer(1.8, function()
+			if not self:Alive() then
+				self:Spawn()
+			end
+			--Nuke
+			HAC.Boom.Nuke(self)
+			--Old effect
+			HAC.Boom.Effect(self)
+			HAC.Boom.Effect(self)
+			self:EmitSound("ambient/explosions/explode_4.wav", 500, 100)
+
+			--Hammers
+			for i = 0, 8 do
+				HAC.Boom.Hammer(self)
+			end
+
+			--Speech bubble
+			HAC.Boom.DropBubble(self)
+			self:Kill()
+			--self:ConCommand("stop")
+
+			if IsValid(self.HAC_Rocket) then
+				self.HAC_Rocket:Remove()
+			end
+		end)
+
+		--Reset 12pos
+		HAC_12POS = HAC_POS
+	end)
 
 	--Highway to hell
 	--6.5

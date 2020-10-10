@@ -1,9 +1,10 @@
 include("hac/sv_incoming.lua")
+
 HAC.SLOG = {}
 local Active = false
 
 local function FindPlayerByNetChannel(netchan)
-	for k, v in pairs(player.GetAll()) do
+	for k, v in ipairs(player.GetAll()) do
 		if netchan == CNetChan(v:EntIndex()) then return v end
 	end
 end
@@ -22,9 +23,13 @@ end
 
 timer.Simple(2, HAC.SLOG.BuildWhitelist)
 
-local function ExecuteStringCommand(cmd, sid)
+local function ExecuteStringCommand(cmd, netchan)
+	local ply = FindPlayerByNetChannel(netchan)
+
+	if not IsValid(ply) then return end
 	--file.Append("cmd2.txt", "\r\n"..cmd)
 	if not Active then return end
+
 	local Silent = HAC.hac_silent:GetBool()
 	local DoneMsg = false
 	local ShouldBlock = nil
@@ -33,7 +38,7 @@ local function ExecuteStringCommand(cmd, sid)
 	if HAC.SERVER.SLOG_White_Exact[Low:Trim()] or Low:CheckInTable(HAC.SERVER.SLOG_White_StartsWith) then return end
 	if cmd:Check("spp_friend_STEAM_") or cmd:Check("host_writeconfig") then return end --SPP, old EatKeys
 	--Black, contains
-	local ply = player.GetBySteamID(sid)
+	local sid = ply:SteamID()
 	local Found, IDX, det = Low:InTable(HAC.SERVER.SLOG_Black_Contains)
 
 	if Found then
@@ -127,12 +132,25 @@ end
 
 hook.Add("ExecuteStringCommand", "ExecuteStringCommand", ExecuteStringCommand)
 
+local netchanexists = false
 FilterIncomingMessage(net_StringCmd, function(netchan, read, write)
-	local ply = FindPlayerByNetChannel(netchan)
 	local cmd = read:ReadString()
-	hook.Run("ExecuteStringCommand", cmd, ply:SteamID())
+
 	write:WriteUInt(net_StringCmd, NET_MESSAGE_BITS)
 	write:WriteString(cmd)
+	if netchanexists then
+		hook.Run("ExecuteStringCommand", cmd, netchan)
+	end
+end)
+
+hook.Add("Think","HACVerifyNetchan",function()
+	for _,ply in ipairs(player.GetHumans()) do
+		if IsValid(ply) and CNetChan(ply:EntIndex()) then
+			netchanexists = true
+			hook.Remove("Think","HACVerifyNetchan")
+			return
+		end
+	end
 end)
 
 --Requested

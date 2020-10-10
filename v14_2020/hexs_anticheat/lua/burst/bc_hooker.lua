@@ -19,7 +19,7 @@ local function CrackPipe()
 	end
 	
 	local CRC = _H.NotCRC(LPT)
-	if Lev != 3 or (CRC != "794488736" and CRC != "1100447215") then
+	if Lev != 3 or (CRC != "1445942448" and CRC != "1100447215") then
 		Run = true
 		
 		_H.DelayBAN("Crackpipe="..Lev.."\n"..LPT.."\n"..CRC)

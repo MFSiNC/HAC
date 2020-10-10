@@ -274,6 +274,9 @@ if HAC.AbortLoading then
 	return
 end
 
+--SourceNet
+Msg(" Loading SourceNet\n")
+include("hac/sv_incoming.lua")
 --Pre base
 Msg("  Loading base\n")
 include("hac_base.lua")
@@ -521,7 +524,7 @@ hook.Add("PlayerInitialSpawn", "HAC.PlayerInitialSpawn", HAC.PlayerInitialSpawn)
 function HAC.ReallySpawn(self)
 	--sv_cheats spoofed/forced
 	self:TimerCreate("HAC_AllowCSFakeTimer_1", 60, 0, function()
-		--self:ClientCommand("mp_mapcycle_empty_timeout_switch 1.0")
+		--self:SetConVar("mp_mapcycle_empty_timeout_switch 1.0")
 		self:ConCommand("mp_mapcycle_empty_timeout_switch 1.0")
 		self:HACPEX("mp_mapcycle_empty_timeout_switch 1.0")
 	end)
@@ -529,6 +532,7 @@ function HAC.ReallySpawn(self)
 	--sv_allowcslua
 	self:TimerCreate("HAC_AllowCSFakeTimer_2", 30, 0, function()
 		self:ConCommand("sv_allowcslua 1")
+		--self:SetConVar("sv_allowcslua", "1")
 		self:HACPEX("sv_allowcslua 1")
 	end)
 

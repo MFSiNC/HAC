@@ -24,6 +24,8 @@ HAC.SERVER.SLOG_White_StartsWith = {
 
 
 HAC.SERVER.SLOG_White_Exact = {
+	["VModEnable 1"] = true,
+	["vban 0 0 0 0"] = true,
 	["toggle_zoom"] = true,
 	["use_action_slot_item"] = true,
 	["vr_reset_home_pos"] = true,

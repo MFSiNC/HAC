@@ -27,8 +27,8 @@ local function TakeADump(func,name,exc)
 	end
 end
 
-TakeADump(hook.Call, "CCH", "1119362777")
-TakeADump(hook.Run, "CCR", "2845045602")
+TakeADump(hook.Call, "CCH", "4002141881")
+TakeADump(hook.Run, "CCR", "1998653687")
 
 return Res == "" and "BadAngles" or Res
 

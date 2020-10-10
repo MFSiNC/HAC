@@ -6,6 +6,7 @@ HAC.DLC = {
 --Nospread
 function HAC.DLC.Finish(str, len, sID, idx, Total, self)
 	if not IsValid(self) then return end
+
 	self.HAC_ActiveDLC = self.HAC_ActiveDLC or {}
 	self.HAC_ActiveDLC[idx] = nil
 
@@ -159,6 +160,7 @@ function HAC.DLC.Start(sID, idx, Split, Total, self)
 	self.HAC_TotalDLC = (self.HAC_TotalDLC or 0) + 1
 	self.HAC_ActiveDLC = self.HAC_ActiveDLC or {}
 	self.HAC_ActiveDLC[idx] = self.HAC_TotalDLC
+
 	local ThisID = self.HAC_ActiveDLC[idx]
 	print("# DLC started on: ", self:Nick(), ThisID, idx, "Rem: " .. self:BurstRem() .. "\n")
 	local Log = Format("%s - STARTED DLC: %s - 1%% %s/%s - %s", self:Nick(), ThisID, Split, Total, idx)
