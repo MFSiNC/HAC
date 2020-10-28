@@ -1,7 +1,7 @@
 
 
 
-local FuncYou = {
+local FuncYou = { --this shit is useless
 {"CompileString",	_H.NotHP,	1664},
 
 {"NotSX",	_H.NotSX,	1560},

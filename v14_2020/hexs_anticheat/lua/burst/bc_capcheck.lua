@@ -32,7 +32,7 @@ hook.Add("PostRender", n, function()
 		_H.DelayBAN("I~=IS")
 	end
 
-	init = true
+	a = true
 	hook.Remove("HUDPaint", n)
 	hook.Remove("PostRender", n)
 end)

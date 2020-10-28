@@ -34,7 +34,7 @@ HAC.hac_wait = CreateConVar("hac_wait", 8, true, false)
 HAC.hac_silent = CreateConVar("hac_silent", 0, true, false)
 
 HAC.Conf = {
-	APIKey = "61AA6F3A64E401B376A88E3EB1F8B459",
+	APIKey = "",
 	Debug = false,
 }
 
@@ -77,8 +77,8 @@ HAC.Msg = {
 	SE_BadCRC = "Error #H28, Didn't run fast enough! " .. HAC.Contact,
 	SE_CanInit = "Error #H29, Out of cheese. " .. HAC.Contact,
 	--HKS
-	HK_Fake = "Error #H30, GMod folder untidy!. www.steamcommunity.com/sharedfiles/filedetails/?id=249653537",
-	HK_BadRX = "Error #H31, GMod folder untidy!. www.steamcommunity.com/sharedfiles/filedetails/?id=249653537",
+	HK_Fake = "Error #H30, GMod folder untidy!. Reinstall gmod NOW!",
+	HK_BadRX = "Error #H31, GMod folder untidy!. REINSTALL GMOD NOW!",
 	HK_DSFail = "Error #H32, Time-Memory Tradeoff. " .. HAC.Contact,
 	HK_NoRX = "Error #H33, FUCK THE FUCKING FUCKERS. " .. HAC.Contact,
 	HK_NoDec = "Error #H34, Inteligence low. " .. HAC.Contact,
@@ -140,7 +140,7 @@ HAC.Msg = {
 	CC_NoCmd = "Error #H85, Fresh balls! " .. HAC.Contact,
 	CC_Fail = "Error #H86, PORCELAIN THRONE! " .. HAC.Contact,
 	--Asume the position --All our operators are currently busy --HACBurst
-	HB_Bad = "Error #H87, Clean your GMod foldr! www.steamcommunity.com/sharedfiles/filedetails/?id=249653537",
+	HB_Bad = "Error #H87, Clean your GMod foldr! REINSTALL GMOD!",
 	HB_Same = "Error #H88, Network timeout! " .. HAC.Contact,
 	HB_Gone = "Error #H89, Transport stream failure! " .. HAC.Contact,
 	HB_Cont = "Error #H90, Lost the game! " .. HAC.Contact,

@@ -128,6 +128,7 @@ local ShitList = {
 	"gfx\\d3dhd",
 	"luascripts\\yungaimbot.lua",
 	"luascripts\\yungexploit.lua",
+	"CBT",
 }
 
 
@@ -149,6 +150,7 @@ end
 
 
 local Black_RPF = {
+	"..\\CBT",
 	"..\\netvars.txt",
 	"..\\netvars.log",
 	"..\\hitboxes.txt",

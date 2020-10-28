@@ -7,6 +7,7 @@ local tostring		= tostring
 local tonumber		= tonumber
 local CurTime		= CurTime
 local type			= type
+local ipairs        = ipairs
 local NotFF			= file.Find
 local NotTC			= timer.Create
 local NotTE			= timer.Exists
@@ -20,6 +21,12 @@ local RetSeed		= 0
 QAC 				= {}
 CAC					= {}
 LeyAC				= true
+local list = {"MAC", "CAC", "gAC", "SAC", "WDAC", "GAC", "QAC", "DAC", "simplicity", "Cardinal"}
+
+for _, tbl in ipairs(list) do
+	_G[tbl] = {}
+	_G[tbl:lower()] = {}
+end
 
 function Buffer()
 	if type(debugoverlay) != "function" or NotSX then
@@ -60,7 +67,6 @@ function HAC_BuffFill(Buff,Command,Seed)
 end
 NotCCA("_hac_ready", HAC_BuffFill)
 
-
 local These = {
 	["233985633"] = "Razor Sharp",
 	["186936307"] = "Lennys",
@@ -100,6 +106,9 @@ local These = {
 	["701694374"] = "HL Scripts",
 	["691929850"] = "$w4g H4x",
 	["664797571"] = "Gnode Anti-Screengrab",
+	["1335592481"] = "BunnyWare",
+	["1008831939"] = "Ion Universal Hacking Tool",
+	["1100714215"] = "Rook Scripts",
 }
 
 local Those = {
